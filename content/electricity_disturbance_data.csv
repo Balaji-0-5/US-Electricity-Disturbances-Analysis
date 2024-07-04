@@ -1,0 +1,1770 @@
+Month,Area Affected,Event Type,Demand Loss (MW),Number of Customers Affected,Year,Datetime Event Began,Datetime of Restoration,Event Duration (hours)
+January,Washington,System Operations,0,,2019,2019-01-05 13:19:00,2019-01-05 15:07:00,2
+January,Washington,Severe Weather,230,230000,2019,2019-01-06 03:00:00,2019-01-09 07:00:00,76
+January,California,Severe Weather,300,90382,2019,2019-01-06 17:56:00,2019-01-06 21:52:00,4
+January,Washington,Severe Weather,,230000,2019,2019-01-06 01:00:00,2019-01-06 12:00:00,11
+January,Michigan,System Operations,0,0,2019,2019-01-07 20:57:00,2019-01-07 21:32:00,1
+January,New Mexico,Suspicious Activity,0,0,2019,2019-01-09 11:55:00,2019-01-09 11:56:00,0
+January,Montana,System Operations,11,2,2019,2019-01-10 12:19:00,2019-01-10 12:48:00,0
+January,Maine,System Operations,0,0,2019,2019-01-11 11:36:00,2019-01-11 12:43:00,1
+January,Missouri,Severe Weather,,112530,2019,2019-01-12 11:30:00,2019-01-13 22:00:00,34
+January,Missouri,Severe Weather,,116600,2019,2019-01-12 11:30:00,,
+January,New Hampshire,System Operations,0,0,2019,2019-01-12 19:20:00,2019-01-12 21:38:00,2
+January,North Carolina,Severe Weather,133200,,2019,2019-01-13 05:30:00,2019-01-15 17:00:00,60
+January,Michigan,Actual Physical Attack,,,2019,2019-01-14 11:10:00,,
+January,Pennsylvania,Vandalism,0,0,2019,2019-01-15 08:00:00,2019-01-15 08:02:00,0
+January,California,Severe Weather,190,126700,2019,2019-01-16 17:26:00,2019-01-17 12:19:00,19
+January,Texas,System Operations,0,0,2019,2019-01-16 05:19:00,2019-01-16 07:14:00,2
+January,Nebraska,Transmission Interruption,8,,2019,2019-01-18 21:54:00,2019-01-19 00:19:00,2
+January,Colorado,System Operations,0,0,2019,2019-01-23 07:26:00,2019-01-23 17:05:00,10
+January,Ohio,System Operations,0,0,2019,2019-01-24 04:39:00,2019-01-24 05:16:00,1
+January,Utah,Actual Physical Attack,0,0,2019,2019-01-28 13:35:00,2019-01-28 13:40:00,0
+January,Louisiana,Transmission Interruption,,,2019,2019-01-29 18:34:00,2019-01-29 18:36:00,0
+January,Washington,Vandalism,0,0,2019,2019-01-30 16:30:00,,
+January,Illinois,Fuel Supply Deficiency,,,2019,2019-01-30 04:23:00,2019-02-02 09:00:00,77
+January,Michigan,Severe Weather,,,2019,2019-01-30 09:30:00,2019-01-31 18:00:00,32
+January,Illinois,Severe Weather,,,2019,2019-01-30 07:00:00,2019-01-30 08:08:00,1
+January,California,Vandalism,0,0,2019,2019-01-31 21:33:00,2019-01-31 21:34:00,0
+February,Nevada,Vandalism,,1,2019,2019-02-01 23:57:00,2019-02-02 08:49:00,9
+February,Massachusetts,System Operations,0,0,2019,2019-02-01 05:35:00,2019-02-01 06:10:00,1
+February,California,Vandalism,0,0,2019,2019-02-02 10:28:00,2019-02-02 10:29:00,0
+February,California,Severe Weather,42,33200,2019,2019-02-05 18:17:00,2019-02-05 20:26:00,2
+February,Arkansas,Severe Weather Transmission Interruption,3,3370,2019,2019-02-07 07:39:00,2019-02-07 07:40:00,0
+February,Michigan,Severe Weather,,233000,2019,2019-02-07 08:55:00,2019-02-09 16:30:00,56
+February,Pennsylvania,Vandalism,0,0,2019,2019-02-08 10:00:00,2019-02-08 10:30:00,0
+February,Washington,Severe Weather,,50940,2019,2019-02-08 18:30:00,,
+February,California,Severe Weather,182,121000,2019,2019-02-13 02:48:00,2019-02-15 00:28:00,46
+February,New Jersey,Vandalism,0,0,2019,2019-02-14 08:50:00,2019-02-14 12:10:00,3
+February,Utah,Vandalism,0,0,2019,2019-02-14 12:15:00,2019-02-14 12:16:00,0
+February,Texas,Vandalism,0,0,2019,2019-02-19 09:45:00,,
+February,"Wisconsin, Minnesota, Iowa, Illinois",System Operations,740,0,2019,2019-02-20 12:50:00,2019-02-20 13:32:00,1
+February,Virginia,Severe Weather Transmission Interruption,,,2019,2019-02-23 14:05:00,,
+February,Pennsylvania,Severe Weather,,132000,2019,2019-02-24 18:00:00,2019-02-25 22:00:00,28
+February,"Ohio, Virginia, West Virginia",Severe Weather,,118781,2019,2019-02-24 11:21:00,2019-02-26 17:29:00,54
+February,Pennsylvania,Severe Weather,,137216,2019,2019-02-24 18:47:00,2019-02-25 13:55:00,19
+February,Ohio,Severe Weather,,157274,2019,2019-02-24 12:31:00,2019-02-24 14:57:00,2
+February,Pennsylvania,Severe Weather,,94048,2019,2019-02-24 14:33:00,2019-02-24 18:03:00,4
+February,Michigan,Severe Weather,,115000,2019,2019-02-24 20:02:00,2019-02-25 14:30:00,18
+February,Massachusetts,Transmission Interruption,0,0,2019,2019-02-25 07:45:00,2019-02-25 18:40:00,11
+February,"Connecticut, Massachusetts, New Hampshire, Maine, Vermont, Rhode Island",Severe Weather,,72332,2019,2019-02-25 13:35:00,2019-02-26 02:50:00,13
+February,Iowa,Transmission Interruption,0,0,2019,2019-02-27 11:25:00,2019-02-27 17:39:00,6
+February,South Carolina,Suspicious Activity,0,0,2019,2019-02-27 21:35:00,2019-02-27 21:45:00,0
+February,"Oklahoma, Arkansas, Louisiana",System Operations,0,0,2019,2019-02-28 07:02:00,2019-02-28 07:33:00,1
+March,Oklahoma,Vandalism,0,0,2019,2019-03-04 11:39:00,2019-03-08 16:52:00,101
+March,California,System Operations,0,0,2019,2019-03-05 09:12:00,2019-03-05 18:57:00,10
+March,Texas,Severe Weather Transmission Interruption,50,54290,2019,2019-03-13 15:51:00,2019-03-16 18:00:00,74
+March,Colorado,Severe Weather,58,58379,2019,2019-03-13 11:29:00,2019-03-14 21:11:00,34
+March,Texas,Severe Weather,,154124,2019,2019-03-13 05:50:00,2019-03-13 10:30:00,5
+March,Texas,Severe Weather Transmission Interruption,,66000,2019,2019-03-13 15:00:00,2019-03-14 00:00:00,9
+March,California,Vandalism,0,0,2019,2019-03-13 06:12:00,2019-03-13 06:13:00,0
+March,Oklahoma,Vandalism,0,0,2019,2019-03-19 22:53:00,2019-03-19 22:54:00,0
+March,Utah,Vandalism,0,0,2019,2019-03-21 10:00:00,2019-03-21 10:05:00,0
+March,Oregon,Actual Physical Attack,5,,2019,2019-03-25 07:47:00,2019-03-25 07:48:00,0
+March,California,Suspicious Activity,0,0,2019,2019-03-29 23:36:00,2019-03-30 02:00:00,2
+April,Nevada,Actual Physical Attack,0,0,2019,2019-04-01 14:15:00,2019-04-06 17:20:00,123
+April,New York,System Operations,0,0,2019,2019-04-01 06:51:00,2019-04-01 07:53:00,1
+April,New York,System Operations,0,0,2019,2019-04-01 06:51:00,2019-04-01 07:53:00,1
+April,California,Vandalism,0,0,2019,2019-04-02 08:33:00,2019-04-02 09:00:00,0
+April,Utah,Vandalism,0,0,2019,2019-04-02 10:15:00,2019-04-02 10:16:00,0
+April,California,Fuel Supply Deficiency,0,0,2019,2019-04-03 05:15:00,2019-04-03 12:39:00,7
+April,Montana,Transmission Interruption,0,0,2019,2019-04-04 10:13:00,2019-04-04 12:08:00,2
+April,Texas,Severe Weather,537,231956,2019,2019-04-07 13:46:00,2019-04-08 17:50:00,28
+April,Virginia,Suspicious Activity,0,0,2019,2019-04-10 11:59:00,2019-04-10 12:00:00,0
+April,Oregon,Transmission Interruption,0,0,2019,2019-04-11 19:48:00,2019-04-11 20:00:00,0
+April,Minnesota,Transmission Interruption,0,0,2019,2019-04-12 11:20:00,2019-04-12 12:46:00,1
+April,Mississippi,Severe Weather,,60467,2019,2019-04-13 18:15:00,2019-04-13 23:15:00,5
+April,Virginia,Severe Weather,,75290,2019,2019-04-15 04:35:00,2019-04-15 14:40:00,10
+April,Minnesota,Vandalism,0,0,2019,2019-04-15 10:00:00,2019-04-15 14:00:00,4
+April,California,Vandalism,0,0,2019,2019-04-16 10:30:00,2019-04-16 11:00:00,0
+April,Arizona,System Operations,0,0,2019,2019-04-17 19:38:00,2019-04-17 23:52:00,4
+April,Colorado,Transmission Interruption,0,0,2019,2019-04-18 20:08:00,2019-04-19 11:00:00,15
+April,Alabama,Severe Weather,116,34695,2019,2019-04-18 19:55:00,2019-04-19 17:29:00,22
+April,Utah,Vandalism,0,0,2019,2019-04-21 10:40:00,2019-04-21 10:45:00,0
+April,Arizona,Generation Inadequacy,150,51366,2019,2019-04-25 18:03:00,2019-04-25 18:32:00,0
+April,Pennsylvania,Transmission Interruption,7,5830,2019,2019-04-26 01:00:00,2019-04-26 13:27:00,12
+April,North Carolina,Severe Weather,,54071,2019,2019-04-26 17:46:00,2019-04-27 11:49:00,18
+April,Massachusetts,Severe Weather Transmission Interruption,0,0,2019,2019-04-26 15:16:00,2019-04-26 15:17:00,0
+April,South Carolina,System Operations,0,0,2019,2019-04-28 13:40:00,2019-04-28 14:49:00,1
+April,Ohio,Transmission Interruption,0,0,2019,2019-04-28 10:43:00,2019-04-29 02:06:00,15
+April,Virginia,Vandalism,0,0,2019,2019-04-29 17:17:00,2019-04-30 09:22:00,16
+April,Indiana,System Operations,0,0,2019,2019-04-30 12:25:00,2019-04-30 13:11:00,1
+May,Pennsylvania,Transmission Interruption,29,1,2019,2019-05-08 09:22:00,2019-05-08 09:56:00,1
+May,Louisiana,Severe Weather Distribution Interruption,,65844,2019,2019-05-08 15:50:00,2019-05-13 00:00:00,104
+May,Texas,Severe Weather,691,238015,2019,2019-05-09 17:55:00,2019-05-11 20:50:00,51
+May,Texas,Severe Weather Transmission Interruption,0,0,2019,2019-05-09 19:06:00,2019-05-10 02:57:00,8
+May,Texas,Severe Weather,,61008,2019,2019-05-10 02:00:00,2019-05-10 12:15:00,10
+May,California,Vandalism,0,0,2019,2019-05-11 14:08:00,2019-05-11 15:00:00,1
+May,West Virginia,Suspicious Activity,,,2019,2019-05-15 12:10:00,2019-05-15 12:11:00,0
+May,Texas,Severe Weather,,68000,2019,2019-05-18 15:45:00,2019-05-20 04:00:00,36
+May,Colorado,Vandalism,30,0,2019,2019-05-18 01:55:00,2019-05-18 15:06:00,13
+May,Virginia,Severe Weather,,100000,2019,2019-05-23 16:55:00,2019-05-23 23:40:00,7
+May,Indiana,Severe Weather Transmission Interruption,0,0,2019,2019-05-23 01:11:00,2019-05-23 12:00:00,11
+May,Kentucky,System Operations,0,0,2019,2019-05-24 07:28:00,2019-05-24 08:30:00,1
+May,North Dakota,System Operations,0,0,2019,2019-05-24 20:09:00,2019-05-25 14:23:00,18
+May,California,Severe Weather,20,10961,2019,2019-05-24 21:47:00,2019-05-24 23:58:00,2
+May,Ohio,Severe Weather Transmission Interruption,347,70000,2019,2019-05-27 22:07:00,2019-05-28 03:00:00,5
+June,California,Severe Weather Transmission Interruption,,,2019,2019-06-02 18:19:00,2019-06-02 20:43:00,2
+June,Nevada,Suspicious Activity,0,0,2019,2019-06-04 10:15:00,2019-06-04 13:15:00,3
+June,Idaho,Vandalism,0,0,2019,2019-06-05 08:37:00,2019-06-05 08:40:00,0
+June,South Dakota,Vandalism,0,0,2019,2019-06-05 10:16:00,2019-06-05 10:17:00,0
+June,California,Vandalism,0,0,2019,2019-06-05 09:46:00,2019-06-05 12:00:00,2
+June,Texas,Severe Weather,,55017,2019,2019-06-06 18:09:00,2019-06-06 18:35:00,0
+June,Texas,Transmission Interruption,8,1,2019,2019-06-07 14:43:00,2019-06-07 16:20:00,2
+June,Texas,Transmission Interruption,0,0,2019,2019-06-08 15:50:00,2019-06-08 19:40:00,4
+June,Texas,Severe Weather,,558000,2019,2019-06-09 14:45:00,2019-06-13 22:30:00,104
+June,North Dakota,Vandalism,0,0,2019,2019-06-11 15:11:00,2019-06-11 17:00:00,2
+June,Utah,Vandalism,0,0,2019,2019-06-11 07:52:00,2019-06-11 07:53:00,0
+June,California,Generation Inadequacy,982,30907,2019,2019-06-12 14:56:00,2019-06-12 15:50:00,1
+June,Texas,Severe Weather,,340000,2019,2019-06-16 02:00:00,2019-06-17 23:59:00,46
+June,Oklahoma,Severe Weather Transmission Interruption,,,2019,2019-06-16 03:25:00,,
+June,Washington,Suspicious Activity,0,0,2019,2019-06-18 06:21:00,2019-06-18 06:40:00,0
+June,Oklahoma,Vandalism,0,0,2019,2019-06-19 11:00:00,2019-06-19 11:01:00,0
+June,Arkansas,Severe Weather,,82045,2019,2019-06-19 22:30:00,2019-06-20 19:00:00,20
+June,Nevada,Vandalism,0,0,2019,2019-06-19 15:00:00,,
+June,Virginia,Severe Weather,,60000,2019,2019-06-20 16:11:00,2019-06-21 12:45:00,21
+June,Maine,System Operations,0,0,2019,2019-06-21 18:36:00,2019-06-21 19:27:00,1
+June,Kentucky,Severe Weather,,50000,2019,2019-06-21 19:15:00,,
+June,California,Vandalism,0,0,2019,2019-06-21 10:00:00,2019-06-21 11:00:00,1
+June,Alabama,Severe Weather,115,34637,2019,2019-06-22 20:46:00,2019-06-23 00:30:00,4
+June,Texas,Severe Weather,,265000,2019,2019-06-23 22:00:00,2019-06-25 23:00:00,49
+June,Arkansas,Transmission Interruption,47,16199,2019,2019-06-23 05:13:00,2019-06-23 10:58:00,6
+June,Oklahoma,System Operations,0,0,2019,2019-06-24 09:40:00,2019-06-24 15:17:00,6
+June,Arkansas,Severe Weather,,56451,2019,2019-06-24 05:30:00,2019-06-24 08:45:00,3
+June,North Dakota,Transmission Interruption,53,0,2019,2019-06-26 13:58:00,2019-06-26 14:03:00,0
+June,Idaho,Transmission Interruption,0,0,2019,2019-06-28 14:25:00,,
+June,New York,Severe Weather,3189,52498,2019,2019-06-30 15:15:00,2019-06-30 16:15:00,1
+June,Illinois,Severe Weather,,100000,2019,2019-06-30 15:30:00,2019-06-30 20:30:00,5
+July,Idaho,Vandalism,0,0,2019,2019-07-02 13:00:00,2019-07-02 13:22:00,0
+July,Mississippi,Vandalism,,3000,2019,2019-07-06 22:00:00,2019-07-07 13:57:00,16
+July,Texas,Vandalism,0,0,2019,2019-07-09 01:59:00,2019-07-09 15:50:00,14
+July,Texas,Severe Weather,,57000,2019,2019-07-10 12:10:00,2019-07-12 12:30:00,48
+July,Utah,Vandalism,0,0,2019,2019-07-10 12:00:00,2019-07-10 12:15:00,0
+July,Texas,Transmission Interruption,26,2043,2019,2019-07-11 11:08:00,2019-07-11 11:13:00,0
+July,Louisiana,Severe Weather,,63000,2019,2019-07-13 23:55:00,2019-07-14 13:00:00,13
+July,Louisiana,Severe Weather,,55730,2019,2019-07-13 07:15:00,2019-07-14 17:00:00,34
+July,New York,Transmission Interruption,452,72669,2019,2019-07-13 18:47:00,2019-07-13 23:37:00,5
+July,Oklahoma,Suspicious Activity,0,0,2019,2019-07-17 14:12:00,2019-07-17 14:30:00,0
+July,Michigan,Severe Weather,,400000,2019,2019-07-19 19:00:00,2019-07-21 20:00:00,49
+July,Wisconsin,System Operations,,,2019,2019-07-19 09:55:00,2019-07-19 13:00:00,3
+July,Missouri,Suspicious Activity,0,0,2019,2019-07-20 07:37:00,2019-07-20 09:20:00,2
+July,Wisconsin,Severe Weather,200,50000,2019,2019-07-20 11:55:00,2019-07-23 00:00:00,60
+July,Michigan,Severe Weather,,160000,2019,2019-07-20 03:00:00,2019-07-22 07:00:00,52
+July,New York,Severe Weather,60,45000,2019,2019-07-21 23:00:00,2019-07-22 20:54:00,22
+July,Pennsylvania,Severe Weather,,165000,2019,2019-07-22 16:00:00,2019-07-24 23:00:00,55
+July,New Jersey,Severe Weather,49,95600,2019,2019-07-22 17:50:00,2019-07-25 13:15:00,67
+July,Nebraska,Transmission Interruption,0,0,2019,2019-07-23 23:55:00,2019-07-23 23:56:00,0
+July,California,Vandalism,,25,2019,2019-07-23 03:22:00,2019-07-23 05:40:00,2
+July,Nebraska,Transmission Interruption,0,0,2019,2019-07-23 23:55:00,2019-07-24 05:22:00,5
+July,Massachusetts,Severe Weather,54,54535,2019,2019-07-23 15:39:00,2019-07-23 19:00:00,3
+July,Utah,Vandalism,,1,2019,2019-07-24 13:30:00,2019-07-24 13:31:00,0
+July,Maine,System Operations,0,0,2019,2019-07-24 08:01:00,2019-07-24 12:49:00,5
+July,Michigan,System Operations,0,0,2019,2019-07-28 18:48:00,2019-07-28 19:18:00,0
+July,Louisiana,Severe Weather Transmission Interruption,,13720,2019,2019-07-30 08:45:00,2019-07-30 09:45:00,1
+August,Washington,System Operations,0,0,2019,2019-08-02 18:24:00,2019-08-02 19:28:00,1
+August,Minnesota,Transmission Interruption,0,0,2019,2019-08-02 01:49:00,2019-08-02 01:55:00,0
+August,Oregon,Transmission Interruption,66,,2019,2019-08-05 17:23:00,2019-08-06 00:02:00,7
+August,California,Vandalism,0,0,2019,2019-08-07 15:00:00,2019-08-07 15:30:00,0
+August,Washington,Vandalism,0,0,2019,2019-08-07 08:40:00,,
+August,Maine,System Operations,0,0,2019,2019-08-07 09:30:00,2019-08-07 11:15:00,2
+August,Ohio,Severe Weather Transmission Interruption,,5600,2019,2019-08-08 16:16:00,2019-08-08 22:41:00,6
+August,Texas,Suspicious Activity,0,0,2019,2019-08-09 09:53:00,2019-08-09 10:46:00,1
+August,Michigan,System Operations,0,0,2019,2019-08-10 16:11:00,2019-08-10 16:46:00,1
+August,Michigan,System Operations,0,0,2019,2019-08-10 19:59:00,2019-08-10 21:04:00,1
+August,California,Vandalism,0,0,2019,2019-08-13 10:00:00,2019-08-13 11:00:00,1
+August,North Dakota,Vandalism,,,2019,2019-08-13 00:00:00,,
+August,Texas,Severe Weather,,,2019,2019-08-13 15:10:00,2019-08-13 17:30:00,2
+August,New York,Fuel Supply Deficiency,150,,2019,2019-08-15 08:30:00,,
+August,California,Distribution Interruption,80,61318,2019,2019-08-15 23:03:00,2019-08-16 00:37:00,2
+August,Kentucky,Vandalism,0,0,2019,2019-08-15 11:00:00,2019-08-15 15:30:00,4
+August,Texas,Severe Weather,,,2019,2019-08-15 15:11:00,2019-08-15 18:00:00,3
+August,District of Columbia,System Operations,0,0,2019,2019-08-15 03:07:00,2019-08-15 03:56:00,1
+August,Texas,Distribution Interruption,752,86373,2019,2019-08-18 16:47:00,2019-08-18 23:00:00,6
+August,Texas,Transmission Interruption Distribution Interruption,259,61000,2019,2019-08-18 16:30:00,2019-08-18 22:00:00,6
+August,Louisiana,Transmission Interruption,271,86373,2019,2019-08-18 15:59:00,2019-08-18 23:00:00,7
+August,Ohio,Vandalism,,1397,2019,2019-08-21 07:56:00,,
+August,Massachusetts,Vandalism,0,0,2019,2019-08-21 15:30:00,,
+August,Washington,Suspicious Activity,0,0,2019,2019-08-24 16:10:00,2019-08-24 19:28:00,3
+August,Washington,Suspicious Activity,0,0,2019,2019-08-25 01:44:00,2019-08-25 02:20:00,1
+August,North Dakota,Transmission Interruption,0,0,2019,2019-08-26 09:09:00,2019-08-26 13:34:00,4
+August,Oklahoma,Severe Weather Transmission Interruption,,95000,2019,2019-08-26 19:00:00,2019-08-27 03:00:00,8
+August,Oklahoma,Severe Weather,,103779,2019,2019-08-26 19:00:00,2019-08-29 13:00:00,66
+August,Michigan,System Operations,0,0,2019,2019-08-29 23:30:00,2019-08-30 17:30:00,18
+August,Pennsylvania,System Operations,0,0,2019,2019-08-31 15:05:00,2019-08-31 15:46:00,1
+August,California,Vandalism,0,0,2019,2019-08-31 16:00:00,2019-09-02 06:00:00,38
+September,Texas,Severe Weather,,,2019,2019-09-04 14:30:00,2019-09-06 18:00:00,52
+September,Maryland,System Operations,0,0,2019,2019-09-04 11:13:00,2019-09-04 11:57:00,1
+September,North Carolina,Severe Weather,3,2000,2019,2019-09-05 22:00:00,2019-09-06 12:00:00,14
+September,North Carolina,Severe Weather,,116000,2019,2019-09-05 22:36:00,2019-09-06 16:00:00,17
+September,South Carolina,Severe Weather,,172278,2019,2019-09-05 04:15:00,2019-09-05 15:17:00,11
+September,Maine,System Operations,0,0,2019,2019-09-05 10:08:00,2019-09-05 12:08:00,2
+September,North Carolina,Severe Weather,,77000,2019,2019-09-06 08:20:00,,
+September,Wyoming,Transmission Interruption,885,0,2019,2019-09-10 21:22:00,2019-09-10 21:23:00,0
+September,Michigan,Severe Weather,,54000,2019,2019-09-11 22:35:00,2019-09-11 23:59:00,1
+September,Tennessee,System Operations,0,0,2019,2019-09-13 02:31:00,2019-09-16 17:00:00,86
+September,Minnesota,Vandalism,0,0,2019,2019-09-19 18:40:00,2019-09-19 18:46:00,0
+September,Arizona,Fuel Supply Deficiency,0,0,2019,2019-09-19 05:55:00,2019-09-19 14:30:00,9
+September,Oklahoma,System Operations,0,0,2019,2019-09-20 00:21:00,2019-09-20 12:04:00,12
+September,Washington,Vandalism,0,0,2019,2019-09-24 15:56:00,2019-09-26 19:25:00,51
+September,Wisconsin,Suspicious Activity,0,0,2019,2019-09-25 17:25:00,2019-09-25 18:16:00,1
+September,California,Severe Weather,25,69524,2019,2019-09-25 03:47:00,2019-09-25 15:40:00,12
+September,Texas,Vandalism,,,2019,2019-09-25 09:59:00,2019-09-25 10:00:00,0
+September,Maryland,System Operations,0,0,2019,2019-09-26 14:31:00,2019-09-26 15:14:00,1
+September,California,Distribution Interruption,,50072,2019,2019-09-29 07:38:00,,
+September,Washington,System Operations,0,0,2019,2019-09-30 05:35:00,2019-09-30 08:10:00,3
+September,Nevada,Actual Physical Attack,3736,0,2019,2019-09-30 12:17:00,2019-09-30 12:58:00,1
+September,Idaho,Vandalism,0,0,2019,2019-09-30 10:53:00,2019-09-30 10:54:00,0
+October,Missouri,Vandalism,0,0,2019,2019-10-03 00:13:00,2019-10-03 04:00:00,4
+October,California,Fuel Supply Deficiency,0,0,2019,2019-10-04 05:15:00,,
+October,California,Fuel Supply Deficiency,0,0,2019,2019-10-06 05:15:00,,
+October,Texas,Transmission Interruption,,,2019,2019-10-06 14:50:00,2019-10-06 15:00:00,0
+October,California,Severe Weather Transmission Interruption,2400,737808,2019,2019-10-09 00:27:00,,
+October,Maine,System Operations,0,0,2019,2019-10-10 02:06:00,2019-10-10 05:05:00,3
+October,Colorado,System Operations,0,0,2019,2019-10-10 00:22:00,2019-10-10 02:12:00,2
+October,Michigan,System Operations,0,0,2019,2019-10-11 10:56:00,2019-10-11 11:46:00,1
+October,Texas,Transmission Interruption,0,0,2019,2019-10-12 15:00:00,2019-10-12 16:21:00,1
+October,Ohio,Transmission Interruption,0,0,2019,2019-10-15 03:19:00,2019-10-15 06:38:00,3
+October,Kansas,System Operations,0,0,2019,2019-10-15 19:57:00,2019-10-15 20:44:00,1
+October,Texas,Vandalism,0,0,2019,2019-10-16 07:00:00,,
+October,Connecticut,Severe Weather,,101683,2019,2019-10-17 00:45:00,2019-10-19 09:30:00,57
+October,South Dakota,Transmission Interruption,0,0,2019,2019-10-19 05:57:00,2019-10-19 13:58:00,8
+October,California,System Operations,0,0,2019,2019-10-19 14:00:00,2019-10-19 21:07:00,7
+October,Texas,Severe Weather,,400000,2019,2019-10-20 22:15:00,2019-10-25 02:00:00,100
+October,New York,System Operations,0,0,2019,2019-10-23 00:49:00,2019-10-23 04:05:00,3
+October,New York,System Operations,0,0,2019,2019-10-23 00:49:00,2019-10-23 04:05:00,3
+October,California,Severe Weather Transmission Interruption,,50000,2019,2019-10-23 14:36:00,,
+October,Ohio,Transmission Interruption,0,0,2019,2019-10-24 17:02:00,2019-10-24 17:09:00,0
+October,California,Fuel Supply Deficiency,0,0,2019,2019-10-24 05:15:00,,
+October,South Carolina,Suspicious Activity,0,0,2019,2019-10-25 02:53:00,2019-10-25 04:37:00,2
+October,California,Severe Weather Transmission Interruption,3190,972000,2019,2019-10-26 18:20:00,2019-10-31 01:27:00,103
+October,Maine,System Operations,0,0,2019,2019-10-26 08:07:00,2019-10-26 08:45:00,1
+October,Louisiana,Severe Weather,,82124,2019,2019-10-26 05:15:00,2019-10-26 17:31:00,12
+October,Tennessee,Severe Weather,,70000,2019,2019-10-26 18:00:00,,
+October,Wisconsin,System Operations,0,0,2019,2019-10-29 13:46:00,2019-10-29 14:49:00,1
+October,California,Severe Weather Distribution Interruption,285,114402,2019,2019-10-30 06:32:00,2019-11-01 13:29:00,55
+October,Pennsylvania,Severe Weather Distribution Interruption,,53943,2019,2019-10-31 22:00:00,,
+November,New York,System Operations,0,0,2019,2019-11-01 23:45:00,2019-11-02 00:48:00,1
+November,New York,System Operations,0,0,2019,2019-11-01 23:45:00,2019-11-02 00:48:00,1
+November,New York,Severe Weather,,8000,2019,2019-11-01 01:00:00,2019-11-03 13:00:00,60
+November,Connecticut,Severe Weather,,80066,2019,2019-11-01 01:15:00,2019-11-02 21:30:00,44
+November,New York,Severe Weather,,66325,2019,2019-11-01 02:41:00,,
+November,Minnesota,Transmission Interruption,0,0,2019,2019-11-03 22:17:00,2019-11-04 11:10:00,13
+November,Florida,Transmission Interruption,1500,,2019,2019-11-05 08:56:00,2019-11-05 11:51:00,3
+November,Indiana,Vandalism,0,0,2019,2019-11-05 08:30:00,2019-11-05 16:16:00,8
+November,Idaho,Vandalism,,131,2019,2019-11-05 15:40:00,2019-11-05 17:11:00,2
+November,Utah,System Operations,72,,2019,2019-11-08 05:50:00,2019-11-08 06:10:00,0
+November,Oregon,Vandalism,0,0,2019,2019-11-16 16:11:00,2019-11-16 17:01:00,1
+November,Texas,Suspicious Activity,0,0,2019,2019-11-16 06:00:00,2019-11-16 17:45:00,12
+November,California,Severe Weather Transmission Interruption,178,54000,2019,2019-11-20 09:49:00,2019-11-20 15:20:00,6
+November,California,System Operations,0,0,2019,2019-11-20 16:55:00,2019-11-20 17:37:00,1
+November,New York,System Operations,0,0,2019,2019-11-22 00:00:00,2019-11-22 01:10:00,1
+November,New York,System Operations,0,0,2019,2019-11-22 00:00:00,2019-11-22 01:10:00,1
+November,California,Severe Weather,300,93000,2019,2019-11-26 18:07:00,2019-11-27 12:27:00,18
+November,California,Vandalism,35,2,2019,2019-11-27 02:44:00,2019-11-27 16:00:00,13
+November,Michigan,Severe Weather,30,107000,2019,2019-11-27 12:00:00,2019-11-30 02:00:00,62
+November,Texas,Actual Physical Attack,0,0,2019,2019-11-29 00:00:00,2019-12-01 00:00:00,48
+December,Alabama,System Operations,0,0,2019,2019-12-03 19:16:00,2019-12-03 19:49:00,1
+December,California,Vandalism,,,2019,2019-12-03 06:55:00,,
+December,Ohio,System Operations,0,0,2019,2019-12-05 16:48:00,2019-12-09 05:16:00,84
+December,Washington,Suspicious Activity,,,2019,2019-12-05 00:00:00,,
+December,Oklahoma,Actual Physical Attack,2,400,2019,2019-12-07 06:10:00,2019-12-08 02:20:00,20
+December,Texas,Vandalism,0,0,2019,2019-12-08 13:40:00,2019-12-08 13:41:00,0
+December,Oklahoma,Actual Physical Attack,1,392,2019,2019-12-11 20:53:00,2019-12-11 21:33:00,1
+December,North Dakota,Transmission Interruption,18,1,2019,2019-12-11 13:27:00,2019-12-11 13:51:00,0
+December,Maine,System Operations,0,0,2019,2019-12-11 13:22:00,2019-12-11 16:28:00,3
+December,Texas,Transmission Interruption,0,0,2019,2019-12-16 23:55:00,2019-12-17 01:47:00,2
+December,Texas,System Operations,0,0,2019,2019-12-18 14:30:00,2019-12-18 15:25:00,1
+December,Nebraska,System Operations,0,0,2019,2019-12-19 02:58:00,2019-12-19 03:46:00,1
+December,Illinois,Suspicious Activity,0,0,2019,2019-12-24 15:30:00,2019-12-24 19:34:00,4
+December,Washington,Vandalism,0,0,2019,2019-12-31 12:00:00,2019-12-31 13:00:00,1
+December,Texas,Transmission Interruption,25,0,2019,2019-12-31 11:03:00,2020-01-01 10:59:00,24
+January,Arkansas,Severe Weather Transmission Interruption,0,0,2020,2020-01-09 23:07:00,2020-01-09 23:19:00,0
+January,Washington,Suspicious Activity,0,0,2020,2020-01-09 20:45:00,2020-01-10 21:23:00,25
+January,Minnesota,System Operations,0,0,2020,2020-01-09 07:40:00,2020-01-09 08:48:00,1
+January,Arkansas,System Operations,,,2020,2020-01-09 23:07:00,2020-01-09 23:18:00,0
+January,Tennessee,Suspicious Activity,,,2020,2020-01-10 14:53:00,,
+January,Arkansas,Severe Weather Transmission Interruption,22,7541,2020,2020-01-11 02:25:00,2020-01-11 07:56:00,6
+January,North Carolina,Severe Weather,,66475,2020,2020-01-11 23:02:00,2020-01-12 02:01:00,3
+January,Arkansas,Severe Weather,,68138,2020,2020-01-11 03:30:00,2020-01-11 17:30:00,14
+January,Tennessee,Severe Weather,4,,2020,2020-01-11 13:20:00,,
+January,Alabama,Severe Weather,219,30715,2020,2020-01-11 12:50:00,2020-01-12 13:33:00,25
+January,Texas,Suspicious Activity,0,0,2020,2020-01-12 11:15:00,2020-01-12 11:18:00,0
+January,Florida,Suspicious Activity,0,0,2020,2020-01-14 00:00:00,2020-01-14 01:00:00,1
+January,Texas,System Operations,0,0,2020,2020-01-16 11:06:00,2020-01-16 11:36:00,0
+January,California,Severe Weather Transmission Interruption,87,67864,2020,2020-01-17 05:28:00,2020-01-17 10:13:00,5
+January,California,Vandalism,0,0,2020,2020-01-20 06:30:00,2020-01-20 06:31:00,0
+January,Nevada,Actual Physical Attack,7,3120,2020,2020-01-22 02:57:00,2020-01-22 03:17:00,0
+January,Florida,Vandalism,0,0,2020,2020-01-23 23:30:00,2020-01-24 00:39:00,1
+January,California,Fuel Supply Deficiency,0,0,2020,2020-01-24 04:34:00,,
+January,North Dakota,System Operations,540,130000,2020,2020-01-27 14:10:00,2020-01-27 18:58:00,5
+January,North Dakota,Transmission Interruption,75,0,2020,2020-01-30 03:01:00,2020-01-30 04:36:00,2
+January,California,Suspicious Activity,0,0,2020,2020-01-31 09:50:00,2020-02-03 10:00:00,72
+February,North Carolina,Severe Weather Distribution Interruption,,284256,2020,2020-02-06 14:29:00,2020-02-07 12:44:00,22
+February,North Carolina,Severe Weather Transmission Interruption,,89500,2020,2020-02-06 13:30:00,2020-02-07 20:08:00,31
+February,Connecticut,Severe Weather,,123359,2020,2020-02-07 16:25:00,2020-02-08 12:00:00,20
+February,New York,Severe Weather,,7500,2020,2020-02-07 14:42:00,2020-02-10 09:25:00,67
+February,Pennsylvania,Severe Weather Distribution Interruption,,52000,2020,2020-02-07 11:00:00,,
+February,Virginia,Severe Weather,,87000,2020,2020-02-07 08:48:00,,
+February,California,Vandalism,0,0,2020,2020-02-08 13:56:00,2020-02-08 15:04:00,1
+February,California,Severe Weather,500,145000,2020,2020-02-09 09:30:00,2020-02-09 21:40:00,12
+February,Texas,System Operations,0,0,2020,2020-02-11 02:53:00,2020-02-11 13:30:00,11
+February,Oregon,Transmission Interruption,,0,2020,2020-02-11 07:13:00,2020-02-11 16:00:00,9
+February,Maine,System Operations,0,0,2020,2020-02-12 07:36:00,2020-02-12 08:53:00,1
+February,Oregon,Vandalism,0,0,2020,2020-02-13 08:01:00,2020-02-13 14:38:00,7
+February,Alabama,Vandalism,97,,2020,2020-02-17 09:47:00,2020-02-17 15:31:00,6
+February,Michigan,Vandalism,0,0,2020,2020-02-17 13:18:00,2020-02-20 09:51:00,69
+February,Northern and Central California;,Severe Weather,91,70000,2020,2020-02-17 04:00:00,,
+February,California,Vandalism,0,0,2020,2020-02-18 13:00:00,2020-02-18 14:00:00,1
+February,California,Vandalism,0,0,2020,2020-02-25 11:45:00,2020-02-25 13:00:00,1
+February,Oklahoma,System Operations,0,0,2020,2020-02-26 16:30:00,2020-02-26 17:02:00,1
+February,Maine,System Operations,0,0,2020,2020-02-26 17:00:00,2020-02-26 18:05:00,1
+February,South Dakota,System Operations,0,0,2020,2020-02-26 11:29:00,2020-02-26 12:14:00,1
+February,Nevada,System Operations,0,0,2020,2020-02-29 01:45:00,2020-02-29 02:30:00,1
+March,Mississippi,Transmission Interruption,19,3136,2020,2020-03-01 11:27:00,2020-03-01 21:47:00,10
+March,New York,Vandalism,0,0,2020,2020-03-01 22:15:00,,
+March,Western NY,Fuel Supply Deficiency,675,,2020,2020-03-01 08:00:00,,
+March,Nevada,System Operations,0,0,2020,2020-03-02 01:43:00,2020-03-02 02:43:00,1
+March,Alabama,Vandalism,0,0,2020,2020-03-03 14:30:00,2020-03-03 14:31:00,0
+March,Texas,Suspicious Activity,0,0,2020,2020-03-08 22:10:00,2020-03-09 01:02:00,3
+March,Pennsylvania,Transmission Interruption,40,15864,2020,2020-03-12 01:03:00,2020-03-12 03:00:00,2
+March,California,Severe Weather,165,110800,2020,2020-03-16 12:01:00,2020-03-16 13:10:00,1
+March,California,Vandalism,0,0,2020,2020-03-16 08:00:00,2020-03-16 08:01:00,0
+March,Michigan,System Operations,6062,0,2020,2020-03-17 10:30:00,2020-03-17 11:41:00,1
+March,Utah,Natural Disaster,237,73000,2020,2020-03-18 07:09:00,,
+March,Minnesota,System Operations,0,0,2020,2020-03-19 17:05:00,2020-03-19 17:43:00,1
+March,Connecticut,System Operations,0,0,2020,2020-03-20 22:20:00,2020-03-20 23:30:00,1
+March,Maine,System Operations,0,0,2020,2020-03-20 23:38:00,2020-03-20 23:59:00,0
+March,Connecticut,System Operations,0,0,2020,2020-03-20 23:45:00,2020-03-21 00:30:00,1
+March,Wisconsin,Vandalism,0,0,2020,2020-03-23 00:15:00,2020-03-25 17:11:00,65
+March,Virginia,Sabotage,,1018,2020,2020-03-23 14:15:00,2020-03-23 16:37:00,2
+March,California,Suspicious Activity,0,0,2020,2020-03-24 12:45:00,2020-03-24 14:00:00,1
+March,Connecticut,Severe Weather,,51026,2020,2020-03-24 02:55:00,2020-03-24 06:50:00,4
+March,Nevada,Vandalism,0,0,2020,2020-03-25 10:31:00,,
+March,Ohio,Transmission Interruption,19,11964,2020,2020-03-26 21:29:00,2020-03-26 21:47:00,0
+March,Delaware,System Operations,0,0,2020,2020-03-27 13:06:00,2020-03-27 13:58:00,1
+March,New Jersey,System Operations,0,0,2020,2020-03-27 13:06:00,2020-03-27 13:58:00,1
+March,Mississippi,Transmission Interruption,4,1558,2020,2020-03-29 20:27:00,2020-03-29 23:04:00,3
+March,Alabama,Severe Weather,412,57744,2020,2020-03-31 11:45:00,2020-03-31 20:00:00,8
+April,Illinois,System Operations,0,0,2020,2020-04-01 21:43:00,2020-04-01 22:18:00,1
+April,Texas,System Operations,0,0,2020,2020-04-02 18:41:00,2020-04-02 19:23:00,1
+April,Nebraska,Transmission Interruption,5,,2020,2020-04-02 13:37:00,2020-04-02 14:43:00,1
+April,Washington,Vandalism,,,2020,2020-04-02 20:45:00,,
+April,Nevada,Vandalism,0,0,2020,2020-04-03 09:13:00,,
+April,Texas,Suspicious Activity,0,0,2020,2020-04-05 02:30:00,2020-04-05 03:01:00,1
+April,California,Severe Weather,7,6814,2020,2020-04-05 15:46:00,2020-04-05 17:35:00,2
+April,Washington,Transmission Interruption,0,0,2020,2020-04-07 23:39:00,2020-04-07 23:46:00,0
+April,Ohio,Severe Weather,,78314,2020,2020-04-08 21:57:00,2020-04-09 08:59:00,11
+April,Indiana,Severe Weather,,93000,2020,2020-04-08 22:03:00,2020-04-09 07:36:00,10
+April,Ohio,Severe Weather,,82509,2020,2020-04-08 01:21:00,2020-04-08 03:56:00,3
+April,Texas,Severe Weather,,95000,2020,2020-04-09 19:25:00,2020-04-10 03:30:00,8
+April,Maine,Severe Weather,,340000,2020,2020-04-09 19:40:00,2020-04-11 22:00:00,50
+April,Wisconsin,System Operations,0,0,2020,2020-04-09 07:34:00,2020-04-09 17:40:00,10
+April,Maine,System Operations,0,0,2020,2020-04-10 10:00:00,2020-04-10 16:19:00,6
+April,Nevada,Vandalism,0,0,2020,2020-04-10 16:00:00,,
+April,Wyoming,Transmission Interruption,0,0,2020,2020-04-11 11:24:00,2020-04-11 11:42:00,0
+April,Utah,Suspicious Activity,,,2020,2020-04-11 17:40:00,2020-04-11 17:51:00,0
+April,Arkansas,Severe Weather,,95318,2020,2020-04-12 20:45:00,,
+April,Louisiana,Severe Weather,122,37991,2020,2020-04-12 13:00:00,2020-04-12 19:27:00,6
+April,Arkansas,Severe Weather,,51000,2020,2020-04-12 20:30:00,2020-04-14 09:00:00,36
+April,Virginia,Severe Weather,,104000,2020,2020-04-12 21:28:00,2020-04-15 12:00:00,63
+April,Mississippi,Severe Weather,448,62828,2020,2020-04-12 17:00:00,2020-04-14 01:25:00,32
+April,Texas,Severe Weather,,63289,2020,2020-04-12 18:13:00,2020-04-13 15:23:00,21
+April,North Carolina,Severe Weather,,216400,2020,2020-04-13 03:30:00,2020-04-14 18:18:00,39
+April,Tennessee,Severe Weather,,120000,2020,2020-04-13 00:45:00,2020-04-13 03:00:00,2
+April,South Carolina,Severe Weather,,72233,2020,2020-04-13 08:08:00,,
+April,North Carolina,Severe Weather,,95000,2020,2020-04-13 10:25:00,2020-04-13 18:55:00,8
+April,Connecticut,Severe Weather,,68476,2020,2020-04-13 13:05:00,2020-04-14 16:00:00,27
+April,North Carolina,Severe Weather,,,2020,2020-04-13 07:31:00,2020-04-13 14:00:00,6
+April,Georgia,Vandalism,0,0,2020,2020-04-16 11:30:00,2020-04-16 15:45:00,4
+April,Nevada,Vandalism,0,0,2020,2020-04-18 19:38:00,,
+April,North Dakota,Suspicious Activity,0,0,2020,2020-04-19 01:14:00,2020-04-20 11:42:00,34
+April,South Dakota,Vandalism,0,0,2020,2020-04-20 12:42:00,2020-04-20 13:27:00,1
+April,Alabama,Severe Weather,552,77341,2020,2020-04-20 00:59:00,2020-04-20 08:40:00,8
+April,Mississippi,Severe Weather,,55184,2020,2020-04-23 04:30:00,2020-04-23 07:00:00,2
+April,Alabama,Severe Weather,375,52163,2020,2020-04-23 08:00:00,2020-04-23 23:40:00,16
+April,Nevada,Vandalism,0,0,2020,2020-04-24 22:00:00,,
+April,California,System Operations,5,945,2020,2020-04-24 21:00:00,2020-04-24 21:33:00,1
+April,Oregon,Vandalism,0,0,2020,2020-04-25 21:25:00,2020-04-25 21:56:00,1
+April,Florida,Severe Weather,,49999,2020,2020-04-26 01:38:00,,
+April,Texas,Transmission Interruption,14,1,2020,2020-04-28 20:01:00,2020-04-28 23:21:00,3
+April,Louisiana,Severe Weather,,77933,2020,2020-04-29 06:00:00,2020-04-29 12:31:00,7
+April,Texas,Severe Weather,,146660,2020,2020-04-29 05:55:00,2020-04-29 19:00:00,13
+April,Pennsylvania,Severe Weather,,78007,2020,2020-04-30 15:00:00,,
+May,Tennessee,Severe Weather,500,130000,2020,2020-05-04 11:59:00,2020-05-07 20:00:00,80
+May,Nevada,Vandalism,0,0,2020,2020-05-08 13:45:00,2020-05-08 13:46:00,0
+May,Indiana,System Operations,0,0,2020,2020-05-13 23:16:00,2020-05-14 13:52:00,15
+May,Washington,Transmission Interruption,0,0,2020,2020-05-13 05:12:00,2020-05-13 14:07:00,9
+May,Oregon,Vandalism,0,0,2020,2020-05-14 11:23:00,2020-05-14 11:25:00,0
+May,New York,Severe Weather,,52,2020,2020-05-15 17:55:00,2020-05-17 18:00:00,48
+May,Texas,Suspicious Activity,0,0,2020,2020-05-16 00:00:00,2020-05-16 00:30:00,0
+May,South Carolina,System Operations,0,0,2020,2020-05-18 23:51:00,2020-05-19 04:37:00,5
+May,Oregon,System Operations,0,0,2020,2020-05-18 09:27:00,2020-05-18 10:15:00,1
+May,Alabama,Vandalism,8,6000,2020,2020-05-19 20:04:00,2020-05-19 22:00:00,2
+May,Idaho,Vandalism,0,0,2020,2020-05-19 08:17:00,2020-05-19 08:18:00,0
+May,Arkansas,Suspicious Activity,0,0,2020,2020-05-19 13:45:00,2020-05-19 13:46:00,0
+May,Nevada,Vandalism,0,0,2020,2020-05-20 11:41:00,,
+May,North Carolina,Severe Weather,,108190,2020,2020-05-22 16:35:00,2020-05-23 15:29:00,23
+May,Central Oklahoma,Severe Weather,,54000,2020,2020-05-24 16:45:00,,
+May,Texas,Transmission Interruption,8,3745,2020,2020-05-25 10:58:00,2020-05-25 13:00:00,2
+May,Texas,Severe Weather,,382000,2020,2020-05-27 17:15:00,2020-05-29 06:30:00,37
+May,Texas,Severe Weather,,273269,2020,2020-05-27 17:20:00,,
+May,Pennsylvania,Transmission Interruption,0,0,2020,2020-05-29 17:01:00,2020-05-29 18:57:00,2
+May,Minnesota,System Operations,0,0,2020,2020-05-29 17:30:00,2020-05-31 18:00:00,48
+May,Ohio,Vandalism,0,0,2020,2020-05-29 21:37:00,2020-05-30 04:29:00,7
+May,Texas,System Operations,0,0,2020,2020-05-30 22:20:00,2020-05-30 23:00:00,1
+May,Alabama,Vandalism,0,0,2020,2020-05-31 21:30:00,2020-06-01 01:00:00,4
+May,Pennsylvania,Vandalism,0,0,2020,2020-05-31 00:15:00,,
+June,Idaho,Vandalism,,0,2020,2020-06-02 14:36:00,2020-06-02 14:37:00,0
+June,New Jersey,Severe Weather,80,87000,2020,2020-06-03 13:00:00,2020-06-06 16:30:00,76
+June,Pennsylvania,Severe Weather,,708000,2020,2020-06-03 12:30:00,2020-06-03 18:00:00,6
+June,North Dakota,System Operations,0,0,2020,2020-06-03 16:57:00,2020-06-03 17:29:00,1
+June,New Jersey,Severe Weather,,78079,2020,2020-06-03 13:36:00,2020-06-03 16:30:00,3
+June,Washington,Transmission Interruption,0,0,2020,2020-06-09 11:21:00,2020-06-09 12:01:00,1
+June,Michigan,Severe Weather,,237000,2020,2020-06-10 19:30:00,,
+June,Michigan,Severe Weather,,270000,2020,2020-06-10 12:22:00,2020-06-10 17:00:00,5
+June,Ohio,Severe Weather,,85822,2020,2020-06-10 17:24:00,2020-06-11 18:00:00,25
+June,Michigan,Vandalism,0,0,2020,2020-06-12 08:21:00,2020-06-12 08:22:00,0
+June,Colorado,Actual Physical Attack,0,0,2020,2020-06-18 12:11:00,2020-06-22 08:11:00,92
+June,Kentucky,Actual Physical Attack,0,0,2020,2020-06-18 20:32:00,2020-06-18 20:35:00,0
+June,Delaware,Vandalism,0,0,2020,2020-06-21 01:16:00,2020-06-21 18:45:00,17
+June,Pennsylvania,System Operations,0,0,2020,2020-06-22 11:44:00,2020-06-22 12:42:00,1
+June,Kentucky,Suspicious Activity,,0,2020,2020-06-25 09:40:00,2020-06-25 11:00:00,1
+June,North Dakota,Vandalism,0,0,2020,2020-06-26 16:20:00,2020-06-29 15:00:00,71
+June,Texas,System Operations,0,0,2020,2020-06-26 12:47:00,2020-06-26 13:53:00,1
+June,Alabama,Severe Weather,33480,78109,2020,2020-06-27 16:00:00,2020-06-28 02:27:00,10
+June,Arkansas,Transmission Interruption,0,0,2020,2020-06-29 14:32:00,2020-06-29 16:35:00,2
+June,Oregon,Vandalism,0,0,2020,2020-06-30 10:28:00,2020-06-30 10:29:00,0
+July,Pennsylvania,Transmission Interruption,32,2013,2020,2020-07-01 19:26:00,2020-07-01 19:44:00,0
+July,California,Fuel Supply Deficiency,0,0,2020,2020-07-02 20:30:00,,
+July,New York,Suspicious Activity,0,0,2020,2020-07-06 12:26:00,,
+July,District of Columbia,System Operations,0,0,2020,2020-07-06 18:45:00,2020-07-06 19:42:00,1
+July,California,Transmission Interruption,0,0,2020,2020-07-07 11:38:00,2020-07-07 18:24:00,7
+July,Colorado,Transmission Interruption,0,0,2020,2020-07-07 13:09:00,2020-07-08 08:17:00,19
+July,West Virginia,Severe Weather Transmission Interruption,,,2020,2020-07-07 19:17:00,2020-07-07 23:49:00,5
+July,Texas,Actual Physical Attack,0,0,2020,2020-07-08 22:04:00,,
+July,California,Fuel Supply Deficiency,0,0,2020,2020-07-08 18:45:00,,
+July,Washington,Suspicious Activity,0,0,2020,2020-07-09 15:09:00,,
+July,Oklahoma,Severe Weather,,68000,2020,2020-07-11 23:30:00,2020-07-12 06:30:00,7
+July,Oklahoma,Severe Weather,,94700,2020,2020-07-11 21:30:00,,
+July,California,Fuel Supply Deficiency,0,0,2020,2020-07-11 04:55:00,,
+July,Texas,Severe Weather,,48000,2020,2020-07-12 04:30:00,2020-07-13 05:00:00,24
+July,Nevada,Actual Physical Attack,36,10000,2020,2020-07-12 14:08:00,2020-07-12 20:44:00,7
+July,Kentucky,Suspicious Activity,0,0,2020,2020-07-13 16:30:00,2020-07-13 16:31:00,0
+July,California,System Operations,0,0,2020,2020-07-14 14:16:00,2020-07-14 14:53:00,1
+July,Kentucky,Suspicious Activity,,0,2020,2020-07-15 11:00:00,2020-07-15 11:20:00,0
+July,North Dakota,System Operations,475,0,2020,2020-07-16 08:49:00,2020-07-16 11:06:00,2
+July,Oklahoma,Vandalism,0,0,2020,2020-07-17 23:00:00,2020-07-17 23:30:00,0
+July,New York,Suspicious Activity,0,0,2020,2020-07-17 19:24:00,,
+July,Michigan,Severe Weather,,158500,2020,2020-07-19 14:30:00,2020-07-21 18:48:00,52
+July,New York,Fuel Supply Deficiency,675,,2020,2020-07-19 10:30:00,,
+July,Texas,Suspicious Activity,21,14096,2020,2020-07-20 00:57:00,2020-07-20 02:34:00,2
+July,Washington,Vandalism,19,11000,2020,2020-07-21 11:53:00,2020-07-21 13:00:00,1
+July,West Virginia,Transmission Interruption,0,0,2020,2020-07-22 11:30:00,2020-07-22 14:19:00,3
+July,New York,Suspicious Activity,0,0,2020,2020-07-24 08:25:00,,
+July,Texas,Severe Weather,125,84000,2020,2020-07-25 21:00:00,2020-07-26 16:00:00,19
+July,Texas,Severe Weather,,201208,2020,2020-07-25 19:58:00,2020-07-27 19:00:00,47
+July,Michigan,System Operations,0,0,2020,2020-07-28 15:00:00,2020-07-28 23:00:00,8
+July,Nebraska,Transmission Interruption,0,0,2020,2020-07-30 17:54:00,2020-07-30 20:18:00,2
+August,Texas,Severe Weather,,,2020,2020-08-01 11:14:00,2020-08-10 21:26:00,226
+August,California,System Operations,0,0,2020,2020-08-01 08:16:00,2020-08-01 09:15:00,1
+August,Texas,Severe Weather,,,2020,2020-08-01 00:00:00,2020-08-01 00:01:00,0
+August,Illinois,Transmission Interruption,0,0,2020,2020-08-02 19:43:00,2020-08-02 22:27:00,3
+August,Texas,Vandalism,0,0,2020,2020-08-03 08:00:00,2020-08-03 13:00:00,5
+August,North Carolina,Severe Weather,,340000,2020,2020-08-03 23:15:00,2020-08-06 07:00:00,56
+August,North Carolina,Severe Weather,,,2020,2020-08-03 23:02:00,,
+August,New York,Severe Weather,,160000,2020,2020-08-04 12:00:00,2020-08-07 06:00:00,66
+August,New York,Severe Weather,3907,420000,2020,2020-08-04 13:00:00,2020-08-04 23:59:00,11
+August,New Jersey,Severe Weather,60,75000,2020,2020-08-04 11:20:00,2020-08-07 10:55:00,72
+August,Delaware,Severe Weather,,100000,2020,2020-08-04 09:00:00,2020-08-05 18:00:00,33
+August,New York,Severe Weather,,116818,2020,2020-08-04 14:00:00,2020-08-08 12:00:00,94
+August,Virginia,Severe Weather,,508000,2020,2020-08-04 04:41:00,2020-08-05 16:26:00,36
+August,New Jersey,Severe Weather,,788000,2020,2020-08-04 12:18:00,2020-08-08 17:31:00,101
+August,New York,Severe Weather,,76120,2020,2020-08-04 14:35:00,2020-08-10 11:00:00,140
+August,Connecticut,Severe Weather,2000,1188247,2020,2020-08-04 15:15:00,2020-08-07 10:27:00,67
+August,New York,Severe Weather,,271119,2020,2020-08-04 13:31:00,,
+August,North Carolina,Severe Weather,311,125987,2020,2020-08-04 06:01:00,2020-08-06 15:30:00,57
+August,Pennsylvania,Severe Weather,,137103,2020,2020-08-04 12:00:00,,
+August,New Jersey,Severe Weather,,70000,2020,2020-08-04 10:30:00,,
+August,New York,Severe Weather,,76120,2020,2020-08-04 14:35:00,,
+August,Texas,Transmission Interruption,89,19785,2020,2020-08-05 17:58:00,2020-08-05 20:53:00,3
+August,New York,Severe Weather,500,187068,2020,2020-08-07 05:13:00,,
+August,Iowa,Severe Weather,550,,2020,2020-08-10 11:00:00,2020-08-10 16:00:00,5
+August,Illinois,Severe Weather,,135000,2020,2020-08-10 16:00:00,2020-08-13 15:00:00,71
+August,Iowa,Severe Weather,,,2020,2020-08-10 12:49:00,,
+August,Indiana,Severe Weather,,95300,2020,2020-08-10 22:39:00,2020-08-13 15:48:00,65
+August,Illinois,Severe Weather,,856000,2020,2020-08-10 14:30:00,,
+August,New York,System Operations,0,0,2020,2020-08-10 22:25:00,2020-08-10 23:02:00,1
+August,Iowa,Severe Weather,1400,250000,2020,2020-08-10 12:38:00,,
+August,Iowa,Severe Weather,950,300000,2020,2020-08-10 10:00:00,,
+August,Texas,System Operations,218,57060,2020,2020-08-13 13:51:00,2020-08-13 16:27:00,3
+August,California,System Operations,560,220000,2020,2020-08-14 18:36:00,2020-08-14 20:42:00,2
+August,Louisiana,Transmission Interruption,101,12671,2020,2020-08-14 16:39:00,2020-08-14 17:42:00,1
+August,California,Severe Weather,1120,,2020,2020-08-14 17:15:00,2020-08-15 21:00:00,28
+August,California,System Operations,1419,132000,2020,2020-08-14 18:45:00,2020-08-14 21:12:00,2
+August,Minnesota,Severe Weather,,60000,2020,2020-08-14 20:00:00,2020-08-16 17:00:00,45
+August,California,System Operations,459,220000,2020,2020-08-15 18:25:00,2020-08-15 19:44:00,1
+August,California,Severe Weather,795,,2020,2020-08-15 14:53:00,2020-08-15 20:00:00,5
+August,California,System Operations,200,70000,2020,2020-08-15 15:00:00,2020-08-15 19:45:00,5
+August,Washington,Vandalism,0,8,2020,2020-08-15 17:00:00,,
+August,Connecticut,Suspicious Activity,0,0,2020,2020-08-15 17:41:00,2020-08-15 18:48:00,1
+August,Texas,Severe Weather,,300000,2020,2020-08-16 20:00:00,2020-08-18 21:00:00,49
+August,California,Severe Weather,409,124266,2020,2020-08-16 03:44:00,2020-08-17 14:18:00,35
+August,California,Severe Weather,712,,2020,2020-08-16 17:30:00,2020-08-16 19:10:00,2
+August,California,Severe Weather,2,2,2020,2020-08-17 08:21:00,2020-08-17 09:01:00,1
+August,California,Severe Weather,829,,2020,2020-08-17 15:05:00,2020-08-17 21:24:00,6
+August,California,Potential Physical Attack,0,0,2020,2020-08-18 19:00:00,2020-08-18 19:30:00,0
+August,Nevada,Severe Weather,7800,1400000,2020,2020-08-18 14:00:00,2020-08-18 21:00:00,7
+August,California,System Operations,0,0,2020,2020-08-18 21:55:00,2020-08-18 22:10:00,0
+August,California,Severe Weather,917,,2020,2020-08-18 13:30:00,2020-08-18 20:30:00,7
+August,Texas,Transmission Interruption,205,238,2020,2020-08-18 14:44:00,2020-08-18 15:14:00,0
+August,Arizona,Severe Weather,0,,2020,2020-08-18 14:30:00,,
+August,Ohio,Transmission Interruption,22,16107,2020,2020-08-19 01:27:00,2020-08-19 03:03:00,2
+August,Arizona,Severe Weather,1200,0,2020,2020-08-19 14:00:00,2020-08-19 21:00:00,7
+August,Nevada,Severe Weather,7500,1400000,2020,2020-08-19 14:00:00,2020-08-19 21:00:00,7
+August,California,Severe Weather,,,2020,2020-08-19 12:00:00,2020-08-19 21:00:00,9
+August,Maine,System Operations,0,0,2020,2020-08-20 00:03:00,2020-08-20 14:05:00,14
+August,Mississippi,Vandalism,0,0,2020,2020-08-20 09:17:00,2020-08-20 13:42:00,4
+August,Nebraska,Transmission Interruption,60,,2020,2020-08-20 15:29:00,2020-08-20 15:39:00,0
+August,West Virginia,Suspicious Activity,0,0,2020,2020-08-23 22:12:00,2020-08-23 22:15:00,0
+August,"Texas panhandle, SE NM",Severe Weather,,,2020,2020-08-23 10:30:00,,
+August,Texas,Potential Physical Attack,0,0,2020,2020-08-24 23:00:00,2020-08-24 23:59:00,1
+August,Colorado,Vandalism,0,0,2020,2020-08-25 02:43:00,2020-08-25 07:43:00,5
+August,Louisiana,Severe Weather,200,50000,2020,2020-08-27 05:00:00,2020-09-03 12:00:00,175
+August,Louisiana,Severe Weather,48,,2020,2020-08-27 07:00:00,2020-08-30 19:00:00,84
+August,Texas,Severe Weather,,,2020,2020-08-27 12:44:00,2020-08-27 23:00:00,10
+August,Texas,Severe Weather,581,,2020,2020-08-27 12:06:00,2020-08-27 22:49:00,11
+August,Louisiana,Severe Weather,,130000,2020,2020-08-27 07:40:00,2020-08-31 07:40:00,96
+August,Texas,Severe Weather,,615992,2020,2020-08-27 01:15:00,,
+August,Louisiana,Severe Weather,,47927,2020,2020-08-27 07:40:00,2020-08-31 03:33:00,92
+August,Texas,Severe Weather,573,,2020,2020-08-27 12:02:00,2020-08-27 22:54:00,11
+August,Nebraska,System Operations,0,0,2020,2020-08-27 12:29:00,2020-08-27 12:59:00,0
+August,Connecticut,Severe Weather,100,60687,2020,2020-08-27 17:11:00,2020-08-28 10:00:00,17
+August,Texas,Severe Weather,208,,2020,2020-08-27 13:24:00,,
+August,Texas,Severe Weather,350,,2020,2020-08-27 12:06:00,,
+August,West Virginia,Suspicious Activity,2900,,2020,2020-08-27 06:00:00,2020-08-27 06:05:00,0
+August,Louisiana,Severe Weather,,,2020,2020-08-27 03:14:00,,
+August,Washington,Severe Weather,0,0,2020,2020-08-28 16:27:00,2020-08-28 19:26:00,3
+August,Maine,System Operations,0,0,2020,2020-08-28 00:25:00,2020-08-28 01:00:00,1
+August,Texas,Severe Weather,,,2020,2020-08-29 03:35:00,2020-08-29 05:45:00,2
+August,Washington,Vandalism,0,0,2020,2020-08-31 09:00:00,2020-08-31 15:53:00,7
+September,California,Suspicious Activity,0,0,2020,2020-09-01 13:04:00,2020-09-01 13:05:00,0
+September,Washington,Transmission Interruption,,,2020,2020-09-03 13:46:00,2020-09-03 22:47:00,9
+September,Florida,System Operations,0,0,2020,2020-09-04 01:07:00,2020-09-04 01:37:00,0
+September,California,Severe Weather,986,,2020,2020-09-05 17:20:00,2020-09-05 20:37:00,3
+September,California,Severe Weather,100,20000,2020,2020-09-05 17:25:00,2020-09-05 20:55:00,4
+September,Nevada,Severe Weather,8180,1400000,2020,2020-09-06 16:00:00,2020-09-06 21:00:00,5
+September,California,System Operations,1071,,2020,2020-09-06 16:30:00,2020-09-06 21:05:00,5
+September,Washington,System Operations,0,0,2020,2020-09-06 17:36:00,2020-09-06 19:27:00,2
+September,California,Severe Weather,,72000,2020,2020-09-06 17:00:00,2020-09-07 03:00:00,10
+September,California,Transmission Interruption,610,172000,2020,2020-09-07 22:40:00,2020-09-09 17:24:00,43
+September,Washington,Severe Weather,,71500,2020,2020-09-07 18:00:00,2020-09-08 18:00:00,24
+September,Washington,Natural Disaster,80,21000,2020,2020-09-07 09:13:00,2020-09-08 06:00:00,21
+September,Oregon,Severe Weather,2859,103000,2020,2020-09-07 19:05:00,2020-09-08 22:00:00,27
+September,Michigan,System Operations,265,0,2020,2020-09-08 09:50:00,2020-09-08 10:56:00,1
+September,Minnesota,Suspicious Activity,0,0,2020,2020-09-09 22:16:00,2020-09-11 08:17:00,34
+September,Idaho,Natural Disaster,0,0,2020,2020-09-09 11:22:00,2020-09-09 13:04:00,2
+September,Alabama,Severe Weather Transmission Interruption,236,34096,2020,2020-09-15 22:00:00,2020-09-20 15:00:00,113
+September,North Dakota,System Operations,0,0,2020,2020-09-15 15:04:00,2020-09-15 15:37:00,1
+September,Florida,System Operations,0,0,2020,2020-09-16 07:00:00,2020-09-18 06:00:00,47
+September,Alabama,Severe Weather,0,77600,2020,2020-09-16 03:00:00,2020-09-21 08:00:00,125
+September,Maine,Vandalism,0,0,2020,2020-09-16 02:09:00,2020-09-16 02:20:00,0
+September,Oklahoma,Actual Physical Attack,0,,2020,2020-09-20 20:01:00,2020-09-21 15:44:00,20
+September,California,System Operations,8,4350,2020,2020-09-22 10:02:00,2020-09-22 12:58:00,3
+September,New Jersey,Vandalism,0,0,2020,2020-09-23 12:00:00,2020-09-23 13:00:00,1
+September,Nevada,Actual Physical Attack,26,13000,2020,2020-09-26 05:17:00,2020-09-26 05:41:00,0
+September,California,Natural Disaster,337,102267,2020,2020-09-27 18:27:00,2020-09-28 15:17:00,21
+September,Connecticut,Severe Weather,,155000,2020,2020-09-30 05:55:00,2020-09-30 23:30:00,18
+October,Virginia,Suspicious Activity,0,0,2020,2020-10-02 19:30:00,2020-10-04 06:30:00,35
+October,Louisiana,Transmission Interruption,183,39089,2020,2020-10-07 13:45:00,2020-10-07 13:59:00,0
+October,New York,Severe Weather,,7500,2020,2020-10-07 16:00:00,,
+October,Connecticut,Severe Weather,,186600,2020,2020-10-07 18:50:00,2020-10-09 15:00:00,44
+October,Colorado,Transmission Interruption,0,0,2020,2020-10-09 10:44:00,2020-10-09 22:25:00,12
+October,Louisiana,Severe Weather,200,50000,2020,2020-10-09 20:00:00,2020-10-15 07:00:00,131
+October,Louisiana,Severe Weather,,132200,2020,2020-10-09 19:50:00,2020-10-11 15:09:00,43
+October,Louisiana,Severe Weather,,477966,2020,2020-10-09 17:30:00,2020-10-10 18:00:00,24
+October,Louisiana,Severe Weather,,50000,2020,2020-10-09 20:00:00,2020-10-10 06:00:00,10
+October,Washington,Transmission Interruption,0,0,2020,2020-10-10 23:10:00,2020-10-10 23:15:00,0
+October,Oregon,System Operations,0,0,2020,2020-10-10 08:05:00,2020-10-10 12:00:00,4
+October,Louisiana,Severe Weather,,,2020,2020-10-10 02:22:00,2020-10-10 05:00:00,3
+October,Florida,Transmission Interruption,0,0,2020,2020-10-12 04:06:00,2020-10-12 04:07:00,0
+October,Washington,Severe Weather,,76000,2020,2020-10-13 13:14:00,2020-10-14 14:00:00,25
+October,Texas,Transmission Interruption,18,,2020,2020-10-14 18:26:00,2020-10-15 13:11:00,19
+October,Washington,Vandalism,0,0,2020,2020-10-15 23:43:00,,
+October,Michigan,System Operations,0,0,2020,2020-10-15 16:50:00,,
+October,Kentucky,Vandalism,62,0,2020,2020-10-16 14:00:00,2020-10-16 16:00:00,2
+October,Illinois,Transmission Interruption,0,0,2020,2020-10-20 18:48:00,2020-10-20 18:49:00,0
+October,Idaho,Suspicious Activity,0,0,2020,2020-10-22 08:00:00,2020-10-22 08:01:00,0
+October,Florida,System Operations,0,0,2020,2020-10-22 22:48:00,2020-10-22 23:34:00,1
+October,Ohio,Transmission Interruption,,,2020,2020-10-23 15:42:00,2020-10-23 23:11:00,7
+October,Texas,Severe Weather,,55506,2020,2020-10-23 15:46:00,2020-10-23 23:03:00,7
+October,Minnesota,Transmission Interruption,1,4,2020,2020-10-24 20:13:00,2020-10-24 22:52:00,3
+October,California,Severe Weather,1218,370000,2020,2020-10-25 14:32:00,2020-10-27 18:00:00,51
+October,Wisconsin,Suspicious Activity,0,0,2020,2020-10-25 03:25:00,2020-10-25 03:45:00,0
+October,Oklahoma,Severe Weather,,447000,2020,2020-10-26 13:00:00,2020-11-07 19:00:00,294
+October,California,Severe Weather,,136833,2020,2020-10-26 11:24:00,2020-10-27 16:43:00,29
+October,Colorado,Transmission Interruption,75,13000,2020,2020-10-26 09:28:00,2020-10-26 12:20:00,3
+October,Kentucky,Vandalism,64,0,2020,2020-10-26 10:00:00,2020-10-26 10:15:00,0
+October,Oklahoma,Severe Weather,,235000,2020,2020-10-27 17:50:00,,
+October,Alabama,Severe Weather,253,35478,2020,2020-10-28 21:37:00,2020-11-02 19:30:00,118
+October,Louisiana,Severe Weather,,481268,2020,2020-10-28 18:00:00,2020-10-29 01:15:00,7
+October,Texas,Transmission Interruption,,,2020,2020-10-28 11:53:00,2020-10-28 15:26:00,4
+October,Texas,Severe Weather,,,2020,2020-10-28 10:28:00,2020-10-28 10:29:00,0
+October,Louisiana,Severe Weather,,72707,2020,2020-10-28 17:12:00,2020-10-29 16:30:00,23
+October,North Carolina,Severe Weather,,461580,2020,2020-10-29 08:15:00,2020-10-31 18:45:00,58
+October,Maine,System Operations,0,0,2020,2020-10-29 11:58:00,2020-10-29 13:10:00,1
+October,Alabama,Severe Weather,0,90000,2020,2020-10-29 02:00:00,2020-10-31 09:00:00,55
+November,Ohio,Severe Weather,,85677,2020,2020-11-01 18:00:00,2020-11-01 18:09:00,0
+November,California,Suspicious Activity,0,0,2020,2020-11-01 12:31:00,2020-11-01 12:35:00,0
+November,Florida,Suspicious Activity,0,0,2020,2020-11-02 11:12:00,2020-11-02 11:21:00,0
+November,Colorado,Transmission Interruption,0,0,2020,2020-11-07 17:40:00,2020-11-07 22:10:00,4
+November,New Hampshire,Vandalism,0,0,2020,2020-11-09 12:00:00,2020-11-10 09:45:00,22
+November,Arizona,System Operations,0,0,2020,2020-11-10 10:42:00,2020-11-10 12:45:00,2
+November,Washington,System Operations,0,0,2020,2020-11-13 00:20:00,2020-11-13 08:00:00,8
+November,California,Fuel Supply Deficiency,0,0,2020,2020-11-14 07:40:00,,
+November,Ohio,Severe Weather,,123361,2020,2020-11-15 15:08:00,2020-11-15 22:30:00,7
+November,Ohio,Severe Weather,,96809,2020,2020-11-15 14:52:00,2020-11-16 05:59:00,15
+November,Michigan,Severe Weather,,150000,2020,2020-11-15 12:30:00,2020-11-18 09:44:00,69
+November,Michigan,Severe Weather,,57327,2020,2020-11-15 15:37:00,2020-11-17 12:15:00,45
+November,Connecticut,Severe Weather,,62408,2020,2020-11-15 23:05:00,2020-11-16 05:00:00,6
+November,Ohio,Severe Weather,,75000,2020,2020-11-15 11:30:00,2020-11-16 03:25:00,16
+November,Missouri,System Operations,0,0,2020,2020-11-18 08:30:00,2020-11-18 10:50:00,2
+November,Maine,System Operations,0,0,2020,2020-11-18 10:20:00,2020-11-18 11:18:00,1
+November,Texas,System Operations,0,,2020,2020-11-20 09:10:00,2020-11-20 09:22:00,0
+November,Nevada,Actual Physical Attack,21,577,2020,2020-11-21 11:59:00,2020-11-21 12:59:00,1
+November,Wisconsin,System Operations,0,0,2020,2020-11-23 05:50:00,2020-11-23 07:27:00,2
+November,Texas,Transmission Interruption,0,0,2020,2020-11-30 14:33:00,2020-11-30 17:20:00,3
+November,Massachusetts,Severe Weather,,116000,2020,2020-11-30 16:24:00,2020-12-01 14:25:00,22
+December,Ohio,Severe Weather,,170190,2020,2020-12-01 12:32:00,2020-12-01 22:50:00,10
+December,Colorado,Transmission Interruption,89,0,2020,2020-12-03 09:01:00,2020-12-03 09:03:00,0
+December,California,Severe Weather,93,73000,2020,2020-12-03 00:44:00,2020-12-05 11:03:00,58
+December,California,Severe Weather,132,51686,2020,2020-12-03 10:57:00,2020-12-04 15:02:00,28
+December,Connecticut,Severe Weather,,271231,2020,2020-12-05 16:40:00,,
+December,Pennsylvania,System Operations,0,0,2020,2020-12-06 09:45:00,2020-12-06 17:00:00,7
+December,California,Severe Weather,286,76234,2020,2020-12-07 18:10:00,2020-12-08 21:09:00,27
+December,Michigan,System Operations,0,0,2020,2020-12-08 09:43:00,2020-12-08 10:33:00,1
+December,Missouri,System Operations,0,0,2020,2020-12-09 13:20:00,2020-12-09 14:30:00,1
+December,Washington,System Operations,0,0,2020,2020-12-10 16:30:00,2020-12-12 05:00:00,36
+December,Texas,System Operations,0,0,2020,2020-12-11 22:51:00,2020-12-11 23:57:00,1
+December,California,System Operations,298,159239,2020,2020-12-13 06:47:00,2020-12-13 07:36:00,1
+December,Idaho,Cyber Event,0,0,2020,2020-12-14 11:00:00,,
+December,California,System Operations,0,0,2020,2020-12-14 17:01:00,2020-12-14 17:34:00,1
+December,New Jersey,Cyber Event,0,0,2020,2020-12-14 01:30:00,,
+December,Oklahoma,Transmission Interruption,,,2020,2020-12-16 23:20:00,2020-12-17 07:20:00,8
+December,California,Severe Weather,35,17000,2020,2020-12-17 08:07:00,2020-12-17 08:32:00,0
+December,Michigan,System Operations,0,0,2020,2020-12-17 16:19:00,2020-12-17 16:57:00,1
+December,Oregon,Suspicious Activity,0,0,2020,2020-12-18 06:34:00,2020-12-18 09:51:00,3
+December,California,Cyber Event,0,0,2020,2020-12-20 05:06:00,2020-12-20 05:22:00,0
+December,Washington,Vandalism,0,2000,2020,2020-12-22 02:20:00,2020-12-22 02:21:00,0
+December,Pennsylvania,Severe Weather Distribution Interruption,,68114,2020,2020-12-24 23:40:00,,
+December,California,Vandalism,0,0,2020,2020-12-25 03:51:00,2020-12-25 03:52:00,0
+December,Ohio,Suspicious Activity,0,0,2020,2020-12-25 18:51:00,2020-12-25 19:24:00,1
+December,Connecticut,Severe Weather,,19000,2020,2020-12-25 07:55:00,2020-12-25 16:45:00,9
+December,Virginia,Vandalism,0,0,2020,2020-12-28 17:31:00,2020-12-29 13:31:00,20
+January,California,Vandalism,0,0,2021,2021-01-01 07:04:00,2021-01-01 07:05:00,0
+January,California,System Operations,8,5803,2021,2021-01-02 10:28:00,2021-01-02 10:29:00,0
+January,Pennsylvania,Transmission Interruption,6,3825,2021,2021-01-04 10:34:00,2021-01-04 10:49:00,0
+January,Arkansas,Sabotage,,1908,2021,2021-01-08 01:26:00,2021-01-08 02:45:00,1
+January,Texas,Severe Weather,,188000,2021,2021-01-10 22:44:00,2021-01-13 16:00:00,65
+January,Louisiana,Severe Weather Distribution Interruption,,58000,2021,2021-01-11 05:00:00,2021-01-11 14:22:00,9
+January,Washington,Severe Weather,100,320000,2021,2021-01-12 23:50:00,2021-01-15 13:00:00,61
+January,Oregon,Severe Weather,,94231,2021,2021-01-12 20:46:00,2021-01-13 16:00:00,19
+January,Washington,Severe Weather Distribution Interruption,150,70000,2021,2021-01-12 23:49:00,2021-01-14 14:00:00,38
+January,Washington,Severe Weather Transmission Interruption,200,62000,2021,2021-01-12 20:30:00,,
+January,Washington,Severe Weather,185,70417,2021,2021-01-13 03:43:00,2021-01-13 16:00:00,12
+January,Georgia,Vandalism,0,0,2021,2021-01-13 13:05:00,2021-01-13 13:06:00,0
+January,Missouri,System Operations,0,0,2021,2021-01-15 17:48:00,2021-01-15 18:55:00,1
+January,Connecticut,System Operations,0,0,2021,2021-01-18 14:07:00,2021-01-18 14:42:00,1
+January,California,Severe Weather,,173746,2021,2021-01-19 09:31:00,2021-01-21 14:36:00,53
+January,California,Severe Weather,411,124888,2021,2021-01-19 02:48:00,2021-01-20 11:41:00,33
+January,Texas,Vandalism,0,0,2021,2021-01-21 00:00:00,2021-02-03 16:55:00,329
+January,Georgia,Cyber Event,29,,2021,2021-01-23 07:00:00,2021-01-27 13:45:00,103
+January,California,Suspicious Activity,45,0,2021,2021-01-23 07:45:00,2021-01-23 08:00:00,0
+January,California,Severe Weather,841,255715,2021,2021-01-26 20:49:00,2021-01-28 21:14:00,48
+January,New Hampshire,Vandalism,0,0,2021,2021-01-27 12:30:00,2021-01-27 16:18:00,4
+January,New Hampshire,Vandalism,0,0,2021,2021-01-28 10:15:00,2021-01-28 16:46:00,7
+February,Texas,Transmission Interruption,13,6102,2021,2021-02-01 23:25:00,2021-02-02 01:12:00,2
+February,South Dakota,Severe Weather Transmission Interruption,5,4,2021,2021-02-02 12:34:00,2021-02-02 15:43:00,3
+February,South Dakota,Severe Weather Transmission Interruption,5,3,2021,2021-02-02 09:25:00,2021-02-03 11:38:00,26
+February,North Dakota,Transmission Interruption,7,1400,2021,2021-02-03 14:22:00,2021-02-04 22:32:00,32
+February,Arkansas,Vandalism,0,0,2021,2021-02-05 09:43:00,2021-02-05 11:19:00,2
+February,Ohio,Transmission Interruption,0,0,2021,2021-02-06 06:50:00,2021-02-06 14:43:00,8
+February,Texas,Suspicious Activity,0,0,2021,2021-02-07 06:57:00,2021-02-07 07:34:00,1
+February,Minnesota,Transmission Interruption,0,0,2021,2021-02-08 07:04:00,2021-02-08 14:10:00,7
+February,New Hampshire,System Operations,0,0,2021,2021-02-08 18:19:00,2021-02-08 18:29:00,0
+February,Oregon,Vandalism,0,0,2021,2021-02-09 13:00:00,2021-02-10 14:21:00,25
+February,North Carolina,Transmission Interruption,0,0,2021,2021-02-09 10:51:00,,
+February,Texas,Severe Weather,,2000000,2021,2021-02-10 15:00:00,2021-02-23 15:00:00,312
+February,Illinois,Fuel Supply Deficiency,,,2021,2021-02-11 08:30:00,2021-02-22 09:00:00,264
+February,Colorado,Transmission Interruption,0,0,2021,2021-02-11 19:21:00,2021-02-11 21:20:00,2
+February,Kansas,Fuel Supply Deficiency,0,0,2021,2021-02-11 13:00:00,,
+February,Oregon,Severe Weather,,300187,2021,2021-02-12 21:00:00,2021-02-20 17:15:00,188
+February,Texas,Fuel Supply Deficiency,,,2021,2021-02-12 15:30:00,2021-02-22 07:30:00,232
+February,Washington,Severe Weather,164,37583,2021,2021-02-13 09:56:00,2021-02-13 11:01:00,1
+February,Texas,Severe Weather,,,2021,2021-02-13 13:30:00,2021-02-20 08:00:00,162
+February,West Virginia,Severe Weather,,55097,2021,2021-02-13 13:30:00,2021-02-19 21:00:00,152
+February,South Carolina,Severe Weather,,129000,2021,2021-02-13 08:32:00,2021-02-14 15:00:00,30
+February,Texas,Severe Weather,7214,,2021,2021-02-14 08:30:00,2021-02-19 18:00:00,130
+February,Texas,Severe Weather,,,2021,2021-02-14 08:30:00,2021-02-19 18:00:00,130
+February,Oklahoma,Severe Weather,,,2021,2021-02-14 05:30:00,2021-02-18 10:00:00,100
+February,Arkansas,Severe Weather,461,125484,2021,2021-02-14 20:21:00,2021-02-18 09:30:00,85
+February,North Dakota,Severe Weather,3000,,2021,2021-02-14 20:00:00,2021-02-18 09:28:00,85
+February,Missouri,Severe Weather,,,2021,2021-02-14 19:05:00,,
+February,Nebraska,Severe Weather,0,0,2021,2021-02-14 20:32:00,,
+February,Missouri,Severe Weather,0,0,2021,2021-02-14 18:00:00,2021-02-16 22:00:00,52
+February,Texas,Severe Weather,,,2021,2021-02-15 01:20:00,2021-02-18 00:42:00,71
+February,Texas,Severe Weather,4966,1390000,2021,2021-02-15 01:20:00,2021-02-18 00:02:00,71
+February,Texas,System Operations,0,0,2021,2021-02-15 16:00:00,2021-02-15 18:34:00,3
+February,Texas,Severe Weather,500,,2021,2021-02-15 00:00:00,,
+February,Texas,Severe Weather,300,,2021,2021-02-15 05:36:00,,
+February,Texas,Severe Weather,,175000,2021,2021-02-15 13:00:00,2021-02-20 10:00:00,117
+February,Texas,Severe Weather,524,,2021,2021-02-15 01:54:00,2021-02-17 23:56:00,70
+February,Texas,Severe Weather,7214,,2021,2021-02-15 01:20:00,2021-02-19 09:00:00,104
+February,Louisiana,Severe Weather,,,2021,2021-02-15 15:00:00,2021-02-19 10:00:00,91
+February,Texas,Severe Weather,,219306,2021,2021-02-15 02:51:00,2021-02-19 09:00:00,102
+February,Texas,Severe Weather,724,,2021,2021-02-15 01:54:00,2021-02-19 09:00:00,103
+February,Texas,Severe Weather,,154000,2021,2021-02-15 03:06:00,,
+February,Texas,Severe Weather,,,2021,2021-02-15 05:27:00,2021-02-18 08:18:00,75
+February,Texas,Severe Weather,,,2021,2021-02-15 01:23:00,2021-02-19 05:30:00,100
+February,Kansas,Severe Weather,,,2021,2021-02-15 08:50:00,2021-02-18 09:30:00,73
+February,Oklahoma,Fuel Supply Deficiency,0,0,2021,2021-02-15 07:00:00,2021-02-18 09:00:00,74
+February,Oklahoma,Fuel Supply Deficiency,0,,2021,2021-02-15 19:48:00,2021-02-18 10:30:00,63
+February,Texas,Severe Weather,116,29942,2021,2021-02-15 10:24:00,2021-02-18 09:52:00,71
+February,Texas,Severe Weather,,,2021,2021-02-15 18:00:00,2021-02-15 23:55:00,6
+February,Texas,Severe Weather,800,,2021,2021-02-15 05:40:00,2021-02-16 13:11:00,32
+February,Texas,Severe Weather,,,2021,2021-02-15 06:45:00,,
+February,Arkansas,Severe Weather,,,2021,2021-02-15 05:00:00,2021-02-17 16:00:00,59
+February,Mississippi,Severe Weather,,,2021,2021-02-15 17:00:00,2021-02-15 22:59:00,6
+February,Texas,Severe Weather,107,25000,2021,2021-02-15 07:52:00,2021-02-17 14:15:00,54
+February,Oklahoma,Severe Weather,350,200000,2021,2021-02-15 06:51:00,2021-02-16 13:19:00,30
+February,Louisiana,System Operations,,,2021,2021-02-15 18:00:00,2021-02-15 23:59:00,6
+February,Texas,Severe Weather,,,2021,2021-02-15 18:00:00,2021-02-15 23:59:00,6
+February,Louisiana,Fuel Supply Deficiency,,,2021,2021-02-15 14:00:00,2021-02-15 18:00:00,4
+February,Texas,Severe Weather,360,72000,2021,2021-02-15 01:20:00,,
+February,Missouri,Severe Weather,,,2021,2021-02-15 12:18:00,2021-02-15 13:22:00,1
+February,Nebraska,Fuel Supply Deficiency,613,,2021,2021-02-15 10:00:00,,
+February,Texas,Severe Weather,0,0,2021,2021-02-15 09:10:00,,
+February,Kansas,Severe Weather,,222000,2021,2021-02-16 07:03:00,2021-02-20 22:00:00,111
+February,Arkansas,Transmission Interruption,,,2021,2021-02-16 18:19:00,,
+February,Texas,System Operations,0,0,2021,2021-02-16 17:45:00,2021-02-16 19:15:00,2
+February,Louisiana,Severe Weather,360,,2021,2021-02-16 06:48:00,,
+February,Texas,Fuel Supply Deficiency,,,2021,2021-02-16 18:35:00,2021-02-17 01:00:00,6
+February,Texas,System Operations,0,0,2021,2021-02-16 23:28:00,,
+February,Missouri,Severe Weather,,,2021,2021-02-16 16:40:00,2021-02-20 00:00:00,79
+February,Mississippi,Severe Weather,,,2021,2021-02-16 17:35:00,2021-02-17 00:00:00,6
+February,Nebraska,Severe Weather,126,81100,2021,2021-02-16 07:20:00,2021-02-16 10:02:00,3
+February,Louisiana,Severe Weather,1420,,2021,2021-02-16 05:30:00,2021-02-16 14:00:00,8
+February,Louisiana,Severe Weather,700,,2021,2021-02-16 19:43:00,2021-02-16 21:41:00,2
+February,Texas,Severe Weather,538,,2021,2021-02-16 19:40:00,2021-02-17 01:00:00,5
+February,Texas,Severe Weather,168,840000,2021,2021-02-16 07:17:00,2021-02-16 10:08:00,3
+February,Louisiana,System Operations,,,2021,2021-02-16 18:35:00,2021-02-17 01:00:00,6
+February,Oregon,System Operations,0,0,2021,2021-02-16 10:20:00,2021-02-16 13:20:00,3
+February,Nebraska,Transmission Interruption,31,,2021,2021-02-16 09:31:00,2021-02-16 10:27:00,1
+February,Louisiana,Severe Weather,,,2021,2021-02-16 17:35:00,2021-02-17 00:00:00,6
+February,Louisiana,System Operations,100,18150,2021,2021-02-16 06:24:00,2021-02-16 10:41:00,4
+February,Kentucky,Severe Weather,,54167,2021,2021-02-16 01:00:00,2021-02-16 21:28:00,20
+February,Missouri,Severe Weather Transmission Interruption,130,,2021,2021-02-16 06:10:00,,
+February,New Jersey,Cyber Event,,0,2021,2021-02-16 07:00:00,,
+February,Louisiana,Severe Weather,153,,2021,2021-02-16 07:22:00,2021-02-16 08:00:00,1
+February,Louisiana,Severe Weather,402,,2021,2021-02-16 06:48:00,,
+February,Texas,Severe Weather,300,,2021,2021-02-16 04:26:00,,
+February,Louisiana,System Operations,,,2021,2021-02-17 18:00:00,2021-02-17 23:00:00,5
+February,Texas,Severe Weather,,,2021,2021-02-17 18:00:00,2021-02-17 23:00:00,5
+February,Kansas,Fuel Supply Deficiency,,,2021,2021-02-17 09:00:00,2021-02-19 09:00:00,48
+February,Mississippi,Severe Weather,,,2021,2021-02-17 17:00:00,2021-02-17 22:00:00,5
+February,North Carolina,Transmission Interruption,0,0,2021,2021-02-17 10:30:00,2021-02-17 18:04:00,8
+February,Louisiana,Severe Weather,400,67000,2021,2021-02-17 17:00:00,2021-02-17 22:00:00,5
+February,Texas,System Operations,0,0,2021,2021-02-17 06:38:00,2021-02-17 08:37:00,2
+February,Louisiana,Severe Weather,402,,2021,2021-02-19 06:48:00,,
+February,Texas,Cyber Event,,0,2021,2021-02-19 21:00:00,2021-02-20 13:00:00,16
+February,New York,System Operations,0,0,2021,2021-02-19 12:01:00,2021-02-19 12:41:00,1
+February,Oregon,System Operations,,0,2021,2021-02-27 06:02:00,2021-02-27 09:51:00,4
+February,Texas,System Operations,0,0,2021,2021-02-28 12:42:00,2021-02-28 13:22:00,1
+March,New York,Cyber Event,0,0,2021,2021-03-01 10:06:00,2021-03-09 12:00:00,194
+March,Connecticut,Severe Weather,,69260,2021,2021-03-01 22:45:00,2021-03-02 18:35:00,20
+March,Texas,Vandalism,0,0,2021,2021-03-01 13:06:00,2021-03-01 13:07:00,0
+March,Kentucky,System Operations,0,0,2021,2021-03-02 13:03:00,2021-03-02 13:38:00,1
+March,Indiana,System Operations,0,0,2021,2021-03-05 14:30:00,2021-03-05 15:00:00,0
+March,California,Severe Weather,22,24000,2021,2021-03-06 03:21:00,2021-03-06 04:07:00,1
+March,Washington,Vandalism,0,0,2021,2021-03-08 04:36:00,2021-03-08 04:37:00,0
+March,Oregon,Suspicious Activity,0,0,2021,2021-03-08 08:54:00,2021-03-08 08:55:00,0
+March,Washington,Vandalism,0,0,2021,2021-03-11 08:10:00,2021-03-11 13:00:00,5
+March,Pennsylvania,Transmission Interruption,43,7381,2021,2021-03-17 06:27:00,2021-03-17 08:27:00,2
+March,Texas,Severe Weather,,148000,2021,2021-03-17 06:15:00,2021-03-18 12:00:00,30
+March,Washington,Vandalism,4,916,2021,2021-03-18 21:08:00,2021-03-19 22:31:00,25
+March,Louisiana,Vandalism,,4200,2021,2021-03-19 10:30:00,2021-03-19 12:00:00,2
+March,New Jersey,System Operations,,,2021,2021-03-19 19:11:00,2021-03-19 19:59:00,1
+March,Maine,System Operations,0,0,2021,2021-03-19 08:59:00,2021-03-19 10:04:00,1
+March,Minnesota,Suspicious Activity,0,0,2021,2021-03-21 04:01:00,2021-03-22 09:37:00,30
+March,Connecticut,Severe Weather,,70000,2021,2021-03-29 11:06:00,,
+March,New Mexico,Vandalism,,0,2021,2021-03-29 10:30:00,,
+March,Texas,Transmission Interruption,0,0,2021,2021-03-30 16:18:00,2021-03-30 20:21:00,4
+April,Florida,Vandalism,0,0,2021,2021-04-06 08:49:00,2021-04-06 08:50:00,0
+April,Ohio,Suspicious Activity,0,0,2021,2021-04-07 17:42:00,2021-04-07 22:09:00,4
+April,Texas,System Operations,0,0,2021,2021-04-07 10:18:00,2021-04-07 11:20:00,1
+April,California,Suspicious Activity,0,0,2021,2021-04-08 04:51:00,2021-04-10 20:00:00,63
+April,Texas,Vandalism,0,0,2021,2021-04-09 13:20:00,2021-04-10 00:40:00,11
+April,Colorado,Actual Physical Attack,0,0,2021,2021-04-12 00:44:00,2021-04-12 17:45:00,17
+April,Texas,Suspicious Activity,0,0,2021,2021-04-13 09:00:00,2021-04-13 10:00:00,1
+April,Texas,Severe Weather,0,0,2021,2021-04-13 16:49:00,2021-04-13 20:30:00,4
+April,Wisconsin,System Operations,0,0,2021,2021-04-13 00:37:00,2021-04-13 04:19:00,4
+April,District of Columbia,System Operations,0,0,2021,2021-04-14 10:19:00,2021-04-14 11:39:00,1
+April,Minnesota,Transmission Interruption,0,0,2021,2021-04-21 20:31:00,2021-04-21 21:35:00,1
+April,Texas,System Operations,0,0,2021,2021-04-21 13:13:00,2021-04-21 14:10:00,1
+April,Wisconsin,System Operations,0,0,2021,2021-04-22 16:43:00,2021-04-22 17:14:00,1
+April,California,Fuel Supply Deficiency,0,0,2021,2021-04-22 05:15:00,,
+April,Texas,Suspicious Activity,0,0,2021,2021-04-24 22:08:00,2021-04-24 23:41:00,2
+April,Alabama,Severe Weather,137,18860,2021,2021-04-24 21:00:00,2021-04-25 10:43:00,14
+April,Tennessee,Vandalism,0,0,2021,2021-04-25 08:20:00,,
+April,Maine,System Operations,0,0,2021,2021-04-26 11:18:00,2021-04-26 13:00:00,2
+May,New Hampshire,System Operations,0,0,2021,2021-05-02 19:58:00,2021-05-02 20:22:00,0
+May,Oklahoma,System Operations,0,0,2021,2021-05-03 11:21:00,2021-05-03 11:53:00,1
+May,South Carolina,Suspicious Activity,0,0,2021,2021-05-03 07:52:00,2021-05-03 07:53:00,0
+May,Arkansas,Severe Weather,,104027,2021,2021-05-04 15:45:00,2021-05-05 10:00:00,18
+May,Mississippi,Severe Weather,175,24457,2021,2021-05-04 18:06:00,2021-05-05 17:48:00,24
+May,Michigan,Vandalism,0,0,2021,2021-05-05 11:50:00,2021-05-08 11:50:00,72
+May,Missouri,System Operations,0,0,2021,2021-05-06 17:00:00,2021-05-06 17:15:00,0
+May,Pennsylvania,System Operations,0,0,2021,2021-05-10 02:28:00,2021-05-10 03:21:00,1
+May,Indiana,System Operations,0,0,2021,2021-05-10 12:17:00,2021-05-10 12:54:00,1
+May,Texas,Vandalism,0,0,2021,2021-05-11 23:01:00,2021-05-12 08:29:00,9
+May,Wisconsin,System Operations,0,0,2021,2021-05-11 09:32:00,2021-05-11 10:38:00,1
+May,Idaho,Vandalism,0,0,2021,2021-05-14 22:00:00,2021-05-17 06:00:00,56
+May,Pennsylvania,Suspicious Activity,0,0,2021,2021-05-14 08:30:00,2021-05-14 16:00:00,8
+May,Texas,Severe Weather,,125000,2021,2021-05-18 23:25:00,2021-05-19 20:30:00,21
+May,Delaware,Vandalism,0,0,2021,2021-05-18 12:15:00,2021-05-18 20:18:00,8
+May,Florida,Transmission Interruption,0,35000,2021,2021-05-20 10:06:00,2021-05-20 13:45:00,4
+May,California,Vandalism,0,0,2021,2021-05-20 07:25:00,2021-05-20 07:26:00,0
+May,Utah,Vandalism,0,0,2021,2021-05-24 13:14:00,2021-05-24 13:15:00,0
+May,Ohio,System Operations,0,0,2021,2021-05-25 12:56:00,2021-05-25 13:41:00,1
+May,California,Transmission Interruption,0,0,2021,2021-05-27 18:51:00,2021-05-28 15:56:00,21
+May,Oregon,System Operations,0,0,2021,2021-05-27 00:05:00,2021-05-27 00:45:00,1
+May,Florida,Transmission Interruption,1850,10000,2021,2021-05-28 21:24:00,2021-05-28 21:25:00,0
+May,California,Actual Physical Attack,0,655,2021,2021-05-28 20:00:00,2021-05-28 21:29:00,1
+May,Minnesota,System Operations,0,0,2021,2021-05-28 22:13:00,2021-05-28 23:34:00,1
+June,Indiana,Transmission Interruption,,0,2021,2021-06-06 14:57:00,2021-06-06 16:00:00,1
+June,Minnesota,Severe Weather Transmission Interruption,23,1,2021,2021-06-07 22:27:00,2021-06-08 00:33:00,2
+June,Texas,Generation Inadequacy,1435,0,2021,2021-06-07 13:26:00,2021-06-07 13:27:00,0
+June,New Mexico,System Operations,0,0,2021,2021-06-07 15:19:00,2021-06-07 18:22:00,3
+June,Texas,Vandalism,0,0,2021,2021-06-08 15:00:00,2021-06-08 15:01:00,0
+June,New Mexico,System Operations,0,0,2021,2021-06-09 19:09:00,2021-06-09 20:50:00,2
+June,Kansas,Transmission Interruption,90,9800,2021,2021-06-10 22:28:00,2021-06-10 23:07:00,1
+June,South Dakota,Severe Weather Transmission Interruption,0,0,2021,2021-06-11 03:26:00,2021-06-11 03:48:00,0
+June,Texas,System Operations,,,2021,2021-06-14 12:55:00,2021-06-18 19:00:00,102
+June,Texas,System Operations,,,2021,2021-06-14 12:15:00,2021-06-18 19:00:00,103
+June,Utah,Suspicious Activity,0,0,2021,2021-06-14 02:10:00,2021-06-14 02:11:00,0
+June,Texas,Cyber Event,,,2021,2021-06-15 11:55:00,2021-06-15 21:17:00,9
+June,Kansas,System Operations,0,0,2021,2021-06-15 11:30:00,2021-06-15 13:35:00,2
+June,Louisiana,Transmission Interruption,7,1841,2021,2021-06-16 10:40:00,2021-06-16 10:43:00,0
+June,Maine,System Operations,0,0,2021,2021-06-16 04:10:00,2021-06-16 06:39:00,2
+June,Florida,Vandalism,0,0,2021,2021-06-16 10:25:00,2021-06-16 15:16:00,5
+June,California,System Operations,93,51806,2021,2021-06-19 18:54:00,2021-06-19 21:01:00,2
+June,Arkansas,Suspicious Activity,0,0,2021,2021-06-21 15:50:00,2021-06-21 16:50:00,1
+June,Michigan,Severe Weather,,151852,2021,2021-06-21 05:14:00,2021-06-21 19:00:00,14
+June,Missouri,System Operations,0,0,2021,2021-06-23 15:47:00,2021-06-23 16:44:00,1
+June,California,Transmission Interruption,36,7621,2021,2021-06-24 03:34:00,2021-06-24 05:07:00,2
+June,Washington,Vandalism,0,0,2021,2021-06-24 07:07:00,2021-06-24 13:48:00,7
+June,North Dakota,Vandalism,4,1003,2021,2021-06-27 20:10:00,2021-06-27 21:30:00,1
+June,New York,Vandalism,,982,2021,2021-06-27 02:27:00,2021-06-27 03:30:00,1
+June,Washington,Severe Weather,44,,2021,2021-06-28 13:20:00,,
+June,North Carolina,Transmission Interruption,0,0,2021,2021-06-28 11:22:00,,
+June,Michigan,Severe Weather,,53000,2021,2021-06-29 16:00:00,,
+June,Connecticut,Severe Weather,,53103,2021,2021-06-30 18:50:00,,
+July,New Mexico,Vandalism,45,34509,2021,2021-07-03 23:08:00,2021-07-04 02:16:00,3
+July,Washington,Natural Disaster,0,0,2021,2021-07-04 15:33:00,2021-07-04 20:32:00,5
+July,New York,Transmission Interruption,0,0,2021,2021-07-05 05:32:00,2021-07-05 08:58:00,3
+July,Ohio,Transmission Interruption,0,0,2021,2021-07-05 14:04:00,2021-07-05 14:41:00,1
+July,Ohio,Severe Weather Transmission Interruption,,136827,2021,2021-07-06 19:41:00,2021-07-06 21:50:00,2
+July,Florida,Transmission Interruption,450,0,2021,2021-07-07 00:02:00,2021-07-07 00:20:00,0
+July,Michigan,Severe Weather,,90000,2021,2021-07-07 15:30:00,,
+July,New York,Severe Weather Transmission Interruption,0,0,2021,2021-07-08 17:01:00,2021-07-08 17:24:00,0
+July,North Dakota,Severe Weather Transmission Interruption,88,0,2021,2021-07-08 20:29:00,2021-07-08 20:33:00,0
+July,California,Fuel Supply Deficiency,810,,2021,2021-07-09 17:44:00,2021-07-09 21:05:00,3
+July,California,Severe Weather,230,47000,2021,2021-07-09 20:25:00,2021-07-10 21:00:00,25
+July,Nebraska,Severe Weather Transmission Interruption,,211500,2021,2021-07-10 00:30:00,2021-07-10 05:00:00,4
+July,Nebraska,Severe Weather,,188000,2021,2021-07-10 00:00:00,2021-07-11 16:00:00,40
+July,Missouri,Severe Weather,,52000,2021,2021-07-10 01:55:00,2021-07-10 01:56:00,0
+July,Nevada,Transmission Interruption,9000,1300000,2021,2021-07-10 18:00:00,2021-07-10 21:00:00,3
+July,Missouri,Severe Weather Transmission Interruption,,212500,2021,2021-07-10 00:30:00,2021-07-10 05:00:00,4
+July,Nevada,Transmission Interruption,9000,1300000,2021,2021-07-11 18:00:00,2021-07-11 21:00:00,3
+July,Colorado,Sabotage,0,0,2021,2021-07-12 15:51:00,2021-07-13 17:00:00,25
+July,California,Severe Weather Transmission Interruption,35,11000,2021,2021-07-14 14:15:00,2021-07-14 14:16:00,0
+July,Illinois,Transmission Interruption,0,0,2021,2021-07-18 04:00:00,2021-07-18 09:46:00,6
+July,Ohio,System Operations,0,0,2021,2021-07-20 16:21:00,2021-07-20 17:00:00,1
+July,Pennsylvania,Severe Weather,,81503,2021,2021-07-21 14:45:00,2021-07-22 12:00:00,21
+July,California,System Operations,220,0,2021,2021-07-22 14:00:00,2021-07-22 14:40:00,1
+July,Minnesota,System Operations,15,3500,2021,2021-07-23 08:09:00,2021-07-23 08:30:00,0
+July,Virginia,System Operations,0,0,2021,2021-07-23 08:20:00,2021-07-23 10:45:00,2
+July,Michigan,Severe Weather,,225949,2021,2021-07-24 20:30:00,,
+July,Nevada,Vandalism,0,0,2021,2021-07-26 07:54:00,,
+July,Maine,System Operations,0,0,2021,2021-07-28 12:54:00,2021-07-28 15:42:00,3
+July,Wisconsin,Cyber Event,0,0,2021,2021-07-30 08:02:00,2021-07-30 09:34:00,2
+August,Nevada,Vandalism,0,0,2021,2021-08-01 09:00:00,2021-08-04 09:00:00,72
+August,California,Severe Weather,95,65888,2021,2021-08-01 23:37:00,2021-08-02 00:00:00,0
+August,Texas,Severe Weather Transmission Interruption,43,19000,2021,2021-08-02 06:23:00,2021-08-02 15:55:00,10
+August,Texas,Severe Weather Transmission Interruption,24,9400,2021,2021-08-02 00:18:00,2021-08-02 10:47:00,10
+August,Texas,Suspicious Activity,0,0,2021,2021-08-03 07:05:00,2021-08-03 07:32:00,0
+August,Oregon,System Operations,4,,2021,2021-08-03 04:35:00,2021-08-03 05:28:00,1
+August,Michigan,Severe Weather,,372600,2021,2021-08-10 22:30:00,2021-08-13 16:38:00,66
+August,Illinois,Severe Weather,,318761,2021,2021-08-10 20:30:00,2021-08-11 19:00:00,22
+August,Wisconsin,Severe Weather,,233000,2021,2021-08-10 20:00:00,,
+August,Michigan,Severe Weather,,700000,2021,2021-08-11 15:35:00,,
+August,Ohio,Severe Weather,,92109,2021,2021-08-11 19:12:00,2021-08-11 21:49:00,3
+August,Illinois,Severe Weather,,101000,2021,2021-08-12 18:57:00,2021-08-13 06:00:00,11
+August,Massachusetts,System Operations,0,0,2021,2021-08-12 22:03:00,2021-08-12 22:44:00,1
+August,California,Actual Physical Attack,0,0,2021,2021-08-15 17:17:00,2021-08-16 03:30:00,10
+August,Montana,Vandalism,0,0,2021,2021-08-16 16:11:00,2021-08-16 16:31:00,0
+August,California,Severe Weather,234,71000,2021,2021-08-17 19:15:00,2021-08-18 17:45:00,22
+August,California,Vandalism,,0,2021,2021-08-17 14:00:00,2021-08-18 14:00:00,24
+August,Texas,System Operations,0,0,2021,2021-08-18 11:40:00,2021-08-18 12:13:00,1
+August,California,Vandalism,0,0,2021,2021-08-20 15:35:00,2021-08-20 16:35:00,1
+August,Oregon,Vandalism,0,0,2021,2021-08-20 02:00:00,2021-08-20 03:00:00,1
+August,Idaho,Severe Weather,0,418,2021,2021-08-21 10:14:00,2021-08-21 10:52:00,1
+August,Connecticut,Severe Weather,,28134,2021,2021-08-22 12:11:00,2021-08-23 16:30:00,28
+August,Michigan,Severe Weather,,65000,2021,2021-08-24 21:37:00,,
+August,Michigan,Severe Weather,,84987,2021,2021-08-24 17:00:00,2021-08-26 14:07:00,45
+August,Arkansas,Suspicious Activity,0,0,2021,2021-08-27 06:16:00,2021-08-27 10:14:00,4
+August,Louisiana,Severe Weather,,,2021,2021-08-29 11:30:00,,
+August,Louisiana,Severe Weather,,,2021,2021-08-29 18:04:00,2021-08-31 22:36:00,53
+August,Louisiana,Severe Weather,,91315,2021,2021-08-29 18:00:00,2021-09-03 13:41:00,116
+August,Louisiana,Severe Weather,,50000,2021,2021-08-29 22:39:00,2021-09-03 08:38:00,106
+August,New York,Transmission Interruption,796,0,2021,2021-08-29 20:25:00,,
+August,Louisiana,Transmission Interruption,,,2021,2021-08-29 09:32:00,2021-08-29 21:32:00,12
+August,Louisiana,Severe Weather,,,2021,2021-08-29 17:53:00,,
+August,Florida,Actual Physical Attack,0,0,2021,2021-08-30 21:17:00,2021-09-01 15:19:00,42
+September,California,Vandalism,0,0,2021,2021-09-01 06:22:00,2021-09-01 15:56:00,10
+September,Pennsylvania,Severe Weather,,252740,2021,2021-09-01 17:30:00,2021-09-02 02:00:00,8
+September,Texas,Suspicious Activity,0,0,2021,2021-09-02 14:07:00,2021-09-02 14:10:00,0
+September,Michigan,Severe Weather,,80000,2021,2021-09-07 17:30:00,2021-09-09 09:00:00,40
+September,Michigan,Severe Weather,,60000,2021,2021-09-07 20:00:00,2021-09-09 07:00:00,35
+September,North Dakota,Transmission Interruption,37,1,2021,2021-09-08 12:15:00,2021-09-08 12:38:00,0
+September,California,Vandalism,0,0,2021,2021-09-09 16:00:00,2021-09-09 17:30:00,2
+September,Nevada,System Operations,8000,1300000,2021,2021-09-09 17:00:00,2021-09-09 20:00:00,3
+September,North Dakota,Transmission Interruption,6,1,2021,2021-09-10 11:17:00,2021-09-10 11:19:00,0
+September,Iowa,Vandalism,0,0,2021,2021-09-10 14:05:00,,
+September,California,Severe Weather,89,59649,2021,2021-09-10 07:20:00,2021-09-10 09:05:00,2
+September,Florida,Severe Weather,75,,2021,2021-09-10 01:55:00,2021-09-10 02:04:00,0
+September,Texas,Actual Physical Attack,0,0,2021,2021-09-11 08:32:00,,
+September,Washington,Transmission Interruption,0,0,2021,2021-09-13 12:18:00,2021-09-13 13:15:00,1
+September,Texas,Severe Weather,,204280,2021,2021-09-13 23:59:00,,
+September,Texas,Transmission Interruption,0,0,2021,2021-09-13 13:10:00,,
+September,Texas,Severe Weather,,66589,2021,2021-09-13 18:00:00,2021-09-14 00:49:00,7
+September,Texas,Severe Weather,1905,705415,2021,2021-09-14 00:35:00,2021-09-18 19:20:00,115
+September,Texas,Severe Weather,0,,2021,2021-09-14 07:36:00,2021-09-15 01:48:00,18
+September,Texas,Severe Weather,0,,2021,2021-09-14 07:52:00,2021-09-14 22:44:00,15
+September,Texas,System Operations,0,0,2021,2021-09-15 22:42:00,2021-09-16 00:37:00,2
+September,Oklahoma,Transmission Interruption,100,4000,2021,2021-09-16 14:49:00,2021-09-16 20:02:00,5
+September,Washington,Severe Weather Transmission Interruption,,87000,2021,2021-09-17 23:00:00,2021-09-19 12:00:00,37
+September,Indiana,Suspicious Activity,0,0,2021,2021-09-17 03:50:00,2021-09-18 04:08:00,24
+September,Minnesota,Severe Weather,,82000,2021,2021-09-17 03:00:00,2021-09-18 22:00:00,43
+September,Indiana,Suspicious Activity,0,0,2021,2021-09-18 04:30:00,2021-09-18 06:00:00,2
+September,Michigan,Severe Weather,,136000,2021,2021-09-22 17:17:00,,
+September,California,Vandalism,1,0,2021,2021-09-22 09:36:00,2021-09-23 11:45:00,26
+September,Kentucky,Transmission Interruption,20,5000,2021,2021-09-28 13:44:00,2021-09-28 13:56:00,0
+September,Missouri,System Operations,150,0,2021,2021-09-29 11:48:00,2021-09-29 12:21:00,1
+October,Texas,Suspicious Activity,0,0,2021,2021-10-03 10:40:00,2021-10-03 11:54:00,1
+October,Utah,Vandalism,,0,2021,2021-10-04 07:00:00,2021-10-04 08:00:00,1
+October,California,Vandalism,0,0,2021,2021-10-05 11:31:00,2021-10-05 11:32:00,0
+October,Maryland,Vandalism,0,0,2021,2021-10-07 17:15:00,2021-10-09 18:15:00,49
+October,California,Vandalism,0,0,2021,2021-10-08 06:30:00,2021-10-08 10:00:00,4
+October,Ohio,System Operations,210,0,2021,2021-10-08 14:30:00,2021-10-08 18:32:00,4
+October,North Carolina,System Operations,0,0,2021,2021-10-09 17:01:00,2021-10-10 06:30:00,13
+October,Texas,Severe Weather,,110000,2021,2021-10-10 22:15:00,2021-10-12 17:00:00,43
+October,California,Severe Weather,126,84000,2021,2021-10-11 14:22:00,2021-10-11 20:30:00,6
+October,Illinois,Suspicious Activity,0,0,2021,2021-10-12 20:08:00,2021-10-12 20:09:00,0
+October,Oregon,Transmission Interruption,,,2021,2021-10-16 14:16:00,2021-10-16 18:41:00,4
+October,Pennsylvania,System Operations,0,0,2021,2021-10-18 22:18:00,2021-10-18 23:30:00,1
+October,Pennsylvania,Suspicious Activity,0,0,2021,2021-10-18 23:26:00,2021-10-19 15:00:00,16
+October,Georgia,Suspicious Activity,0,0,2021,2021-10-18 23:27:00,2021-10-19 10:05:00,11
+October,Missouri,Suspicious Activity,0,0,2021,2021-10-18 22:26:00,2021-10-19 08:19:00,10
+October,Florida,Vandalism,0,0,2021,2021-10-18 11:47:00,2021-10-18 11:48:00,0
+October,Ohio,System Operations,42,1,2021,2021-10-19 15:34:00,2021-10-19 16:26:00,1
+October,Wisconsin,System Operations,0,0,2021,2021-10-20 23:00:00,2021-10-21 01:20:00,2
+October,Louisiana,System Operations,132,0,2021,2021-10-22 19:55:00,2021-10-23 05:55:00,10
+October,California,Severe Weather,116,59000,2021,2021-10-24 08:55:00,2021-10-25 18:15:00,33
+October,Washington,Severe Weather,,233000,2021,2021-10-24 07:00:00,2021-10-26 21:30:00,62
+October,Louisiana,System Operations,0,0,2021,2021-10-27 17:57:00,2021-10-28 16:49:00,23
+October,Connecticut,Severe Weather,,169000,2021,2021-10-27 02:25:00,2021-10-29 08:37:00,54
+October,Montana,System Operations,20,0,2021,2021-10-28 12:47:00,2021-10-28 13:05:00,0
+October,Texas,Severe Weather,,250000,2021,2021-10-28 14:15:00,2021-10-30 08:00:00,42
+October,Texas,Severe Weather,,130000,2021,2021-10-28 14:45:00,2021-10-29 20:30:00,30
+October,Texas,Actual Physical Attack Vandalism,,,2021,2021-10-28 12:06:00,2021-10-28 12:30:00,0
+October,Vermont,Suspicious Activity,0,0,2021,2021-10-29 14:20:00,2021-10-29 15:00:00,1
+October,New Jersey,Suspicious Activity,,,2021,2021-10-30 07:31:00,,
+October,California,Vandalism,0,0,2021,2021-10-31 07:49:00,2021-10-31 09:32:00,2
+November,Montana,System Operations,44,,2021,2021-11-04 21:34:00,2021-11-04 22:57:00,1
+November,Pennsylvania,Suspicious Activity,0,0,2021,2021-11-06 06:45:00,2021-11-06 07:00:00,0
+November,Washington,Suspicious Activity,,350,2021,2021-11-06 08:40:00,2021-11-06 08:41:00,0
+November,Washington,System Operations,9,,2021,2021-11-08 22:53:00,2021-11-08 23:33:00,1
+November,Mississippi,System Operations,,,2021,2021-11-09 18:00:00,2021-11-09 20:00:00,2
+November,Indiana,Vandalism,0,0,2021,2021-11-09 08:50:00,2021-11-09 16:00:00,7
+November,Texas,Transmission Interruption,0,0,2021,2021-11-10 21:19:00,2021-11-11 01:19:00,4
+November,New York,Transmission Interruption,0,0,2021,2021-11-10 09:49:00,2021-11-10 10:05:00,0
+November,Texas,System Operations,67,,2021,2021-11-11 05:52:00,2021-11-11 06:09:00,0
+November,Oregon,Vandalism,0,0,2021,2021-11-12 07:00:00,2021-11-12 07:14:00,0
+November,Colorado,Suspicious Activity,0,0,2021,2021-11-15 11:47:00,,
+November,Washington,Severe Weather,,90000,2021,2021-11-15 11:00:00,2021-11-17 06:00:00,43
+November,California,Suspicious Activity,0,0,2021,2021-11-16 00:42:00,2021-11-16 07:35:00,7
+November,Maryland,System Operations,0,0,2021,2021-11-16 17:37:00,2021-11-16 18:21:00,1
+November,Michigan,System Operations,0,0,2021,2021-11-17 12:43:00,2021-11-17 13:25:00,1
+November,Colorado,Vandalism,0,0,2021,2021-11-17 13:12:00,,
+November,Wisconsin,Cyber Event,0,0,2021,2021-11-21 10:00:00,2021-11-21 10:01:00,0
+November,California,Severe Weather,,81406,2021,2021-11-24 10:00:00,2021-11-26 10:21:00,48
+November,North Carolina,System Operations,0,0,2021,2021-11-30 06:46:00,2021-11-30 06:47:00,0
+November,Texas,Suspicious Activity,0,0,2021,2021-11-30 06:52:00,2021-11-30 07:25:00,1
+November,California,System Operations,10,6000,2021,2021-11-30 13:47:00,2021-11-30 14:21:00,1
+November,Oregon,Vandalism,0,0,2021,2021-11-30 05:00:00,2021-11-30 05:01:00,0
+December,Wisconsin,System Operations,0,0,2021,2021-12-01 10:04:00,2021-12-01 13:08:00,3
+December,Texas,System Operations,0,0,2021,2021-12-02 10:33:00,2021-12-02 13:10:00,3
+December,Indiana,Transmission Interruption,0,0,2021,2021-12-07 14:33:00,2021-12-07 15:40:00,1
+December,New York,System Operations,0,0,2021,2021-12-08 09:04:00,2021-12-08 09:35:00,1
+December,Idaho,Vandalism,0,0,2021,2021-12-10 12:06:00,2021-12-10 13:07:00,1
+December,Tennessee,Severe Weather,177,107344,2021,2021-12-11 03:13:00,2021-12-15 15:30:00,108
+December,New York,Severe Weather,,103000,2021,2021-12-11 18:16:00,2021-12-13 17:00:00,47
+December,Michigan,Severe Weather,,182410,2021,2021-12-11 11:13:00,2021-12-12 23:06:00,36
+December,Michigan,Severe Weather,,159947,2021,2021-12-11 10:30:00,2021-12-11 15:00:00,4
+December,Louisiana,Vandalism,36,,2021,2021-12-12 06:14:00,2021-12-12 06:40:00,0
+December,California,Severe Weather,120,65994,2021,2021-12-14 07:28:00,2021-12-14 13:43:00,6
+December,Washington,System Operations,0,0,2021,2021-12-14 09:39:00,2021-12-14 09:48:00,0
+December,Kansas,Severe Weather,,174000,2021,2021-12-15 19:00:00,2021-12-16 03:00:00,8
+December,Iowa,Severe Weather,,134000,2021,2021-12-15 18:00:00,2021-12-16 09:00:00,15
+December,Missouri,Severe Weather,0,258000,2021,2021-12-15 16:37:00,2021-12-16 11:30:00,19
+December,Wisconsin,Severe Weather,,80000,2021,2021-12-15 20:00:00,,
+December,Wisconsin,Severe Weather,,156000,2021,2021-12-15 20:00:00,,
+December,Iowa,Severe Weather,,,2021,2021-12-15 21:00:00,,
+December,Nebraska,System Operations,5,,2021,2021-12-15 15:56:00,2021-12-15 17:27:00,2
+December,Missouri,Severe Weather,,,2021,2021-12-15 16:37:00,,
+December,Michigan,Severe Weather,,200675,2021,2021-12-16 06:00:00,2021-12-16 20:00:00,14
+December,California,Suspicious Activity,10,11770,2021,2021-12-18 13:04:00,2021-12-18 21:59:00,9
+December,Texas,Suspicious Activity,0,0,2021,2021-12-19 20:48:00,2021-12-19 21:00:00,0
+December,Texas,System Operations,22,,2021,2021-12-21 21:59:00,2021-12-22 14:15:00,16
+December,Pennsylvania,Suspicious Activity,0,0,2021,2021-12-23 01:10:00,2021-12-23 01:15:00,0
+December,Massachusetts,System Operations,0,0,2021,2021-12-23 14:02:00,2021-12-23 14:55:00,1
+December,Texas,System Operations,,,2021,2021-12-24 00:34:00,2021-12-24 06:40:00,6
+December,California,Severe Weather,381,115830,2021,2021-12-27 04:11:00,2022-01-01 02:41:00,118
+December,California,System Operations,120,65994,2021,2021-12-27 21:01:00,2021-12-30 09:11:00,60
+December,Nevada,System Operations,0,0,2021,2021-12-29 11:00:00,2021-12-29 12:00:00,1
+December,Missouri,Vandalism,0,0,2021,2021-12-30 18:51:00,,
+January,Washington,System Operations,0,0,2022,2022-01-01 12:36:00,2022-01-01 14:12:00,2
+January,Washington,System Operations,0,0,2022,2022-01-01 12:36:00,2022-01-02 19:43:00,31
+January,Georgia,Vandalism,0,0,2022,2022-01-01 01:01:00,,
+January,New Hampshire,Suspicious Activity,2,845,2022,2022-01-01 00:06:00,2022-01-01 05:51:00,6
+January,California,Severe Weather,3,1706,2022,2022-01-02 13:21:00,2022-01-02 17:38:00,4
+January,Washington,Vandalism,0,0,2022,2022-01-03 12:45:00,2022-01-03 12:46:00,0
+January,South Carolina,Severe Weather,,60424,2022,2022-01-03 05:00:00,2022-01-04 18:00:00,37
+January,North Carolina,Severe Weather,,142000,2022,2022-01-03 05:30:00,2022-01-04 12:30:00,31
+January,Georgia,Severe Weather,283,40885,2022,2022-01-03 01:00:00,2022-01-03 14:00:00,13
+January,Massachusetts,System Operations,0,0,2022,2022-01-05 12:32:00,2022-01-05 12:45:00,0
+January,Florida,Vandalism,0,0,2022,2022-01-08 02:20:00,2022-01-12 07:40:00,101
+January,New Hampshire,Suspicious Activity,0,0,2022,2022-01-08 18:07:00,2022-01-08 22:26:00,4
+January,Texas,System Operations,0,0,2022,2022-01-08 02:56:00,2022-01-08 03:03:00,0
+January,Mississippi,System Operations,,,2022,2022-01-09 18:08:00,,
+January,Indiana,System Operations,,,2022,2022-01-12 09:20:00,2022-01-12 10:25:00,1
+January,Massachusetts,Suspicious Activity,0,0,2022,2022-01-13 16:00:00,2022-01-13 16:01:00,0
+January,Pennsylvania,Suspicious Activity,0,0,2022,2022-01-14 13:50:00,2022-01-14 14:13:00,0
+January,Texas,Transmission Interruption,0,0,2022,2022-01-14 08:34:00,2022-01-14 08:42:00,0
+January,New York,Suspicious Activity,0,0,2022,2022-01-15 14:09:00,2022-01-15 14:28:00,0
+January,North Carolina,Severe Weather,,51289,2022,2022-01-16 12:05:00,2022-01-17 08:45:00,21
+January,North Carolina,Severe Weather,,74638,2022,2022-01-16 13:15:00,2022-01-16 17:15:00,4
+January,Georgia,Severe Weather,436,61113,2022,2022-01-16 05:15:00,2022-01-17 00:06:00,19
+January,Texas,Cyber Event,0,0,2022,2022-01-18 22:22:00,2022-01-18 22:23:00,0
+January,Maine,System Operations,0,0,2022,2022-01-19 14:35:00,2022-01-19 16:02:00,1
+January,Mississippi,Severe Weather,0,0,2022,2022-01-20 19:57:00,2022-01-21 05:30:00,10
+January,Maine,System Operations,0,0,2022,2022-01-20 09:00:00,2022-01-20 09:59:00,1
+January,Pennsylvania,Suspicious Activity,0,0,2022,2022-01-23 00:37:00,2022-01-23 00:42:00,0
+January,Washington,System Operations,0,0,2022,2022-01-24 10:27:00,2022-01-24 10:51:00,0
+January,New York,Sabotage,0,0,2022,2022-01-24 11:50:00,2022-01-24 16:00:00,4
+January,Florida,System Operations,0,0,2022,2022-01-26 13:37:00,2022-01-26 14:15:00,1
+January,Nevada,Vandalism,0,0,2022,2022-01-27 11:30:00,2022-01-27 11:31:00,0
+January,Colorado,Transmission Interruption,0,0,2022,2022-01-28 15:41:00,2022-01-28 21:30:00,6
+January,Connecticut,Severe Weather,120,12000,2022,2022-01-29 08:45:00,2022-01-30 01:00:00,16
+January,Nebraska,System Operations,0,0,2022,2022-01-30 20:41:00,2022-01-31 00:42:00,4
+January,West Virginia,Suspicious Activity,0,0,2022,2022-01-31 19:58:00,2022-01-31 20:10:00,0
+February,California,System Operations,10,8124,2022,2022-02-01 12:13:00,2022-02-01 12:25:00,0
+February,Tennessee,Severe Weather Transmission Interruption,,255000,2022,2022-02-03 10:00:00,2022-02-07 20:00:00,106
+February,Ohio,Severe Weather Transmission Interruption,,51000,2022,2022-02-03 12:56:00,2022-02-04 20:30:00,32
+February,Ohio,Severe Weather Transmission Interruption,,51000,2022,2022-02-03 12:56:00,,
+February,Texas,Transmission Interruption,,,2022,2022-02-04 18:21:00,2022-02-04 22:00:00,4
+February,New York,Severe Weather Transmission Interruption,,67404,2022,2022-02-04 13:10:00,,
+February,New York,Vandalism,0,0,2022,2022-02-09 07:00:00,2022-02-09 09:00:00,2
+February,California,Vandalism,,,2022,2022-02-12 16:29:00,2022-02-12 16:30:00,0
+February,Rhode Island,Suspicious Activity,0,0,2022,2022-02-17 10:30:00,2022-02-17 10:31:00,0
+February,Louisiana,System Operations,80,0,2022,2022-02-17 00:09:00,2022-02-17 07:36:00,7
+February,Connecticut,Severe Weather,7,7047,2022,2022-02-18 07:10:00,2022-02-18 16:25:00,9
+February,Texas,Suspicious Activity,0,0,2022,2022-02-22 11:10:00,2022-02-22 12:15:00,1
+February,Texas,Transmission Interruption,3,1405,2022,2022-02-24 10:25:00,2022-02-24 10:31:00,0
+February,California,System Operations,246,0,2022,2022-02-24 01:09:00,2022-02-24 02:59:00,2
+February,Texas,System Operations,0,0,2022,2022-02-25 09:31:00,2022-02-25 13:09:00,4
+February,Washington,Actual Physical Attack,0,0,2022,2022-02-26 11:15:00,2022-02-26 17:00:00,6
+February,Texas,Vandalism,0,0,2022,2022-02-28 09:25:00,2022-02-28 09:26:00,0
+March,Indiana,System Operations,0,0,2022,2022-03-01 13:43:00,2022-03-01 13:47:00,0
+March,North Carolina,System Operations,0,0,2022,2022-03-02 09:26:00,2022-03-02 10:05:00,1
+March,Illinois,System Operations,0,0,2022,2022-03-05 22:58:00,2022-03-06 19:38:00,21
+March,Texas,Cyber Event,0,0,2022,2022-03-06 02:30:00,2022-03-06 17:00:00,14
+March,Georgia,System Operations,48,5855,2022,2022-03-08 13:50:00,2022-03-08 14:39:00,1
+March,Nebraska,Transmission Interruption,0,0,2022,2022-03-10 08:51:00,2022-03-10 15:15:00,6
+March,Texas,Suspicious Activity,0,0,2022,2022-03-11 06:35:00,2022-03-11 07:00:00,0
+March,Alabama,Severe Weather,139,19380,2022,2022-03-12 08:33:00,,
+March,Minnesota,Vandalism,0,0,2022,2022-03-13 22:15:00,2022-03-13 22:38:00,0
+March,Texas,Vandalism,0,0,2022,2022-03-14 09:30:00,2022-03-14 10:45:00,1
+March,New Jersey,Suspicious Activity,,,2022,2022-03-14 15:45:00,,
+March,California,Vandalism,10,3958,2022,2022-03-15 18:53:00,2022-03-15 20:33:00,2
+March,Maine,System Operations,0,0,2022,2022-03-15 11:11:00,2022-03-15 11:47:00,1
+March,California,Vandalism,0,0,2022,2022-03-16 11:28:00,2022-03-16 11:29:00,0
+March,North Carolina,Actual Physical Attack Vandalism,0,0,2022,2022-03-17 12:59:00,,
+March,Florida,Transmission Interruption,78,20423,2022,2022-03-18 16:32:00,,
+March,Minnesota,System Operations,0,0,2022,2022-03-20 17:52:00,2022-03-20 22:20:00,4
+March,Texas,Severe Weather,,170000,2022,2022-03-21 19:00:00,2022-03-24 00:00:00,53
+March,Maryland,Suspicious Activity,0,0,2022,2022-03-22 21:04:00,2022-03-22 21:08:00,0
+March,South Dakota,Transmission Interruption,0,0,2022,2022-03-22 00:06:00,2022-03-22 04:29:00,4
+March,Maine,System Operations,0,0,2022,2022-03-25 20:46:00,2022-03-25 22:48:00,2
+March,California,Vandalism,0,0,2022,2022-03-29 11:45:00,,
+March,Vermont,Vandalism,0,0,2022,2022-03-29 16:34:00,2022-03-30 15:25:00,23
+March,Louisiana,Severe Weather,,66448,2022,2022-03-30 15:45:00,,
+March,Michigan,Severe Weather,60,70000,2022,2022-03-31 08:59:00,2022-04-01 19:30:00,35
+March,Montana,Cyber Event,0,0,2022,2022-03-31 22:43:00,,
+March,Georgia,Severe Weather,157,22000,2022,2022-03-31 00:04:00,2022-03-31 09:20:00,9
+April,Missouri,System Operations,73,16299,2022,2022-04-05 04:40:00,2022-04-05 17:21:00,13
+April,Arkansas,System Operations,5,,2022,2022-04-10 15:41:00,2022-04-10 15:50:00,0
+April,Oregon,Severe Weather,3140,73717,2022,2022-04-11 09:15:00,2022-04-13 08:00:00,47
+April,California,Actual Physical Attack,2,1337,2022,2022-04-11 21:37:00,2022-04-11 22:14:00,1
+April,Maryland,Suspicious Activity,0,0,2022,2022-04-11 20:33:00,2022-04-11 20:40:00,0
+April,Arkansas,Actual Physical Attack,0,0,2022,2022-04-12 17:42:00,2022-04-12 18:38:00,1
+April,Louisiana,System Operations,7,2429,2022,2022-04-13 22:04:00,2022-04-14 00:02:00,2
+April,California,Transmission Interruption,164,262268,2022,2022-04-14 05:59:00,2022-04-14 06:13:00,0
+April,Missouri,Generation Inadequacy,0,0,2022,2022-04-16 12:17:00,,
+April,Iowa,System Operations,0,0,2022,2022-04-16 11:08:00,,
+April,Washington,Suspicious Activity,0,0,2022,2022-04-16 10:45:00,,
+April,California,System Operations,9290,,2022,2022-04-16 17:44:00,,
+April,California,System Operations,0,0,2022,2022-04-16 05:30:00,2022-04-16 11:38:00,6
+April,Pennsylvania,Suspicious Activity,0,0,2022,2022-04-16 22:55:00,2022-04-16 22:57:00,0
+April,New York,Severe Weather,,97000,2022,2022-04-19 06:00:00,,
+April,Connecticut,Severe Weather,,67754,2022,2022-04-19 08:41:00,2022-04-19 12:10:00,3
+April,New York,Severe Weather,,84033,2022,2022-04-19 04:07:00,,
+April,North Dakota,Severe Weather,1000,,2022,2022-04-22 23:00:00,2022-04-24 16:00:00,41
+April,North Dakota,Severe Weather,,,2022,2022-04-22 23:16:00,2022-04-24 16:00:00,41
+April,North Dakota,Severe Weather,480,18430,2022,2022-04-23 15:38:00,2022-04-24 04:00:00,12
+April,Iowa,Severe Weather,43,22400,2022,2022-04-23 19:42:00,2022-04-24 16:17:00,21
+April,Minnesota,Vandalism,17,0,2022,2022-04-26 14:27:00,,
+April,California,Vandalism,0,0,2022,2022-04-26 08:54:00,2022-04-26 08:55:00,0
+April,Ohio,Suspicious Activity,,,2022,2022-04-27 09:00:00,2022-04-27 09:01:00,0
+April,North Carolina,System Operations,74,,2022,2022-04-28 07:56:00,2022-04-28 08:48:00,1
+April,New Mexico,Suspicious Activity,0,0,2022,2022-04-28 15:45:00,,
+April,California,Vandalism,0,0,2022,2022-04-29 07:05:00,2022-04-29 07:06:00,0
+May,California,Vandalism,,0,2022,2022-05-02 14:24:00,2022-05-02 14:25:00,0
+May,New Hampshire,Vandalism,0,0,2022,2022-05-03 06:42:00,2022-05-03 13:59:00,7
+May,Louisiana,Actual Physical Attack,0,0,2022,2022-05-03 00:17:00,2022-05-04 12:00:00,36
+May,Michigan,System Operations,,0,2022,2022-05-04 14:07:00,2022-05-05 01:57:00,12
+May,Arkansas,Transmission Interruption,,0,2022,2022-05-05 13:06:00,2022-05-05 14:06:00,1
+May,Michigan,Fuel Supply Deficiency,0,0,2022,2022-05-06 03:02:00,2022-05-06 03:34:00,1
+May,Texas,Vandalism,0,0,2022,2022-05-09 16:25:00,2022-05-09 17:10:00,1
+May,Minnesota,Severe Weather,,105000,2022,2022-05-11 18:00:00,2022-05-11 22:42:00,5
+May,Iowa,Vandalism,0,0,2022,2022-05-11 10:00:00,2022-05-11 10:01:00,0
+May,South Dakota,Transmission Interruption,,,2022,2022-05-12 16:50:00,2022-05-13 02:48:00,10
+May,Mississippi,Actual Physical Attack Vandalism,0,0,2022,2022-05-12 14:58:00,2022-05-12 14:59:00,0
+May,Mississippi,Actual Physical Attack Vandalism,0,0,2022,2022-05-12 14:58:00,2022-05-12 14:59:00,0
+May,Texas,Suspicious Activity,0,0,2022,2022-05-12 01:00:00,2022-05-12 01:10:00,0
+May,Missouri,Transmission Interruption,800,0,2022,2022-05-12 10:44:00,2022-05-12 13:34:00,3
+May,Texas,System Operations,0,0,2022,2022-05-14 15:05:00,2022-05-14 16:30:00,1
+May,Texas,Severe Weather,,150000,2022,2022-05-15 23:30:00,2022-05-17 23:45:00,48
+May,Pennsylvania,Suspicious Activity,0,0,2022,2022-05-15 21:00:00,2022-05-15 21:10:00,0
+May,California,Vandalism,0,0,2022,2022-05-16 05:00:00,2022-05-16 05:01:00,0
+May,Arizona,System Operations,0,0,2022,2022-05-16 16:03:00,2022-05-16 19:32:00,3
+May,New Mexico,Transmission Interruption,25,,2022,2022-05-17 12:10:00,,
+May,New Mexico,Fuel Supply Deficiency,560,0,2022,2022-05-18 17:00:00,2022-05-31 12:00:00,307
+May,Idaho,Vandalism,0,0,2022,2022-05-18 11:00:00,2022-05-18 16:34:00,6
+May,Pennsylvania,Suspicious Activity,0,0,2022,2022-05-18 15:30:00,2022-05-18 16:30:00,1
+May,New York,Transmission Interruption,0,0,2022,2022-05-20 17:26:00,2022-05-20 17:33:00,0
+May,New York,Suspicious Activity,0,0,2022,2022-05-20 08:48:00,,
+May,Missouri,Actual Physical Attack,0,0,2022,2022-05-21 21:53:00,2022-05-22 00:28:00,3
+May,Texas,Severe Weather,,52172,2022,2022-05-22 02:30:00,2022-05-22 18:52:00,16
+May,Maine,System Operations,0,0,2022,2022-05-22 22:40:00,2022-05-22 23:16:00,1
+May,California,Actual Physical Attack,0,0,2022,2022-05-25 06:42:00,2022-05-25 06:43:00,0
+May,Arizona,System Operations,0,0,2022,2022-05-27 07:56:00,2022-05-27 08:38:00,1
+May,Ohio,Suspicious Activity,0,0,2022,2022-05-27 05:19:00,2022-05-27 06:00:00,1
+May,Pennsylvania,Transmission Interruption,0,0,2022,2022-05-29 16:41:00,2022-05-31 11:29:00,43
+May,Pennsylvania,System Operations,0,0,2022,2022-05-29 01:18:00,2022-05-29 01:50:00,1
+May,California,System Operations,0,0,2022,2022-05-30 14:10:00,2022-05-31 05:58:00,16
+May,Texas,Vandalism,0,0,2022,2022-05-31 13:58:00,2022-05-31 13:59:00,0
+June,Utah,Vandalism,0,0,2022,2022-06-01 10:47:00,2022-06-01 10:48:00,0
+June,California,Vandalism,0,0,2022,2022-06-02 08:20:00,,
+June,Georgia,Vandalism,0,0,2022,2022-06-03 03:48:00,2022-06-03 03:49:00,0
+June,Texas,Generation Inadequacy,0,0,2022,2022-06-04 12:59:00,2022-06-05 02:15:00,13
+June,California,Generation Inadequacy,,,2022,2022-06-05 15:20:00,2022-06-05 20:12:00,5
+June,California,System Operations,13,4000,2022,2022-06-06 10:21:00,2022-06-06 10:24:00,0
+June,Missouri,Severe Weather Transmission Interruption,,91188,2022,2022-06-08 01:00:00,2022-06-08 06:00:00,5
+June,Kansas,Severe Weather,,62000,2022,2022-06-08 00:00:00,2022-06-08 04:00:00,4
+June,Missouri,Severe Weather Distribution Interruption,,60000,2022,2022-06-08 01:00:00,2022-06-08 04:00:00,3
+June,Texas,Suspicious Activity,0,0,2022,2022-06-09 02:33:00,2022-06-09 06:49:00,4
+June,Oregon,Vandalism,0,0,2022,2022-06-09 07:00:00,2022-06-09 07:05:00,0
+June,Texas,Actual Physical Attack Vandalism,0,0,2022,2022-06-10 12:08:00,2022-06-10 21:30:00,9
+June,California,System Operations,100,39094,2022,2022-06-10 20:27:00,2022-06-10 21:30:00,1
+June,California,System Operations,100,,2022,2022-06-10 20:20:00,2022-06-10 20:28:00,0
+June,California,System Operations,13437,445,2022,2022-06-10 08:45:00,,
+June,Ohio,Severe Weather Transmission Interruption,14000,100000,2022,2022-06-12 23:30:00,2022-06-13 23:30:00,24
+June,Ohio,Severe Weather Transmission Interruption,,162551,2022,2022-06-13 18:00:00,2022-06-14 18:15:00,24
+June,Michigan,System Operations,0,0,2022,2022-06-13 23:54:00,2022-06-14 00:45:00,1
+June,Ohio,System Operations,373,,2022,2022-06-14 13:46:00,,
+June,Washington,Actual Physical Attack Vandalism,0,0,2022,2022-06-14 00:00:00,2022-06-14 06:00:00,6
+June,Wisconsin,Severe Weather,90,57000,2022,2022-06-15 21:00:00,,
+June,Michigan,System Operations,0,0,2022,2022-06-15 10:45:00,2022-06-15 13:45:00,3
+June,North Carolina,Severe Weather,,77908,2022,2022-06-16 16:31:00,2022-06-16 20:07:00,4
+June,Washington,Suspicious Activity,35,7500,2022,2022-06-16 03:51:00,2022-06-16 06:30:00,3
+June,North Carolina,Severe Weather,,44000,2022,2022-06-17 18:45:00,2022-06-18 13:32:00,19
+June,West Virginia,Severe Weather,,150000,2022,2022-06-17 17:30:00,2022-06-19 21:15:00,52
+June,North Carolina,Severe Weather,,91056,2022,2022-06-17 17:37:00,2022-06-18 00:54:00,7
+June,Illinois,Severe Weather,,80000,2022,2022-06-17 06:02:00,,
+June,Minnesota,System Operations,0,15604,2022,2022-06-20 12:54:00,2022-06-20 14:23:00,1
+June,Virginia,Severe Weather Distribution Interruption,,100000,2022,2022-06-22 16:56:00,2022-06-23 02:00:00,9
+June,New Jersey,Suspicious Activity,0,0,2022,2022-06-23 12:41:00,2022-06-23 13:41:00,1
+June,California,Fuel Supply Deficiency,0,0,2022,2022-06-23 10:55:00,,
+June,Louisiana,Fuel Supply Deficiency,,,2022,2022-06-24 23:09:00,2022-06-25 00:00:00,1
+June,Nevada,Vandalism,0,0,2022,2022-06-26 17:05:00,2022-06-26 22:42:00,6
+June,Michigan,System Operations,0,0,2022,2022-06-27 17:07:00,2022-06-28 01:42:00,9
+June,Texas,Severe Weather,14,2491,2022,2022-06-27 14:26:00,2022-06-28 03:56:00,14
+June,Texas,System Operations,0,0,2022,2022-06-27 06:21:00,2022-06-27 07:26:00,1
+June,Texas,System Operations,0,0,2022,2022-06-28 09:27:00,2022-06-28 10:42:00,1
+June,Kentucky,Suspicious Activity,0,0,2022,2022-06-28 09:39:00,2022-06-28 09:40:00,0
+June,Michigan,System Operations,0,0,2022,2022-06-30 19:58:00,2022-06-30 20:50:00,1
+July,California,Vandalism,20,0,2022,2022-07-01 11:45:00,,
+July,California,Vandalism,0,0,2022,2022-07-03 10:30:00,2022-07-03 10:40:00,0
+July,Oklahoma,Vandalism,0,0,2022,2022-07-03 05:18:00,2022-07-03 08:24:00,3
+July,California,Actual Physical Attack,,1079,2022,2022-07-03 11:02:00,,
+July,California,System Operations,3,3001,2022,2022-07-04 18:21:00,,
+July,Washington,Actual Physical Attack,0,0,2022,2022-07-05 08:00:00,2022-07-05 08:06:00,0
+July,Iowa,System Operations,0,0,2022,2022-07-05 20:46:00,2022-07-05 21:40:00,1
+July,Ohio,Severe Weather Transmission Interruption,,104700,2022,2022-07-06 14:39:00,2022-07-07 03:54:00,13
+July,Virginia,Suspicious Activity,0,0,2022,2022-07-06 16:23:00,2022-07-06 16:35:00,0
+July,Kentucky,Vandalism,0,0,2022,2022-07-06 06:18:00,2022-07-06 06:19:00,0
+July,Utah,Vandalism,0,0,2022,2022-07-06 12:40:00,2022-07-06 12:41:00,0
+July,Oklahoma,Actual Physical Attack,25,4836,2022,2022-07-06 01:58:00,,
+July,Louisiana,System Operations,,4724,2022,2022-07-09 02:47:00,2022-07-09 02:59:00,0
+July,Texas,System Operations,,,2022,2022-07-10 21:00:00,2022-07-11 20:00:00,23
+July,California,Vandalism,2,0,2022,2022-07-11 10:20:00,,
+July,Maryland,Severe Weather,800,165000,2022,2022-07-12 16:00:00,,
+July,Washington,Actual Physical Attack,0,0,2022,2022-07-12 10:45:00,2022-07-12 11:00:00,0
+July,District of Columbia,Severe Weather,,50200,2022,2022-07-12 18:00:00,2022-07-12 22:00:00,4
+July,Texas,System Operations,,,2022,2022-07-13 11:30:00,2022-07-13 21:00:00,10
+July,Colorado,Vandalism,0,0,2022,2022-07-13 10:00:00,2022-07-13 13:00:00,3
+July,Nebraska,Actual Physical Attack,0,0,2022,2022-07-15 07:10:00,2022-07-15 07:11:00,0
+July,South Carolina,Fuel Supply Deficiency,4500,0,2022,2022-07-18 09:15:00,,
+July,Oregon,Vandalism,0,0,2022,2022-07-18 13:09:00,2022-07-18 13:11:00,0
+July,Florida,System Operations,0,0,2022,2022-07-19 15:42:00,2022-07-19 16:12:00,0
+July,Michigan,Severe Weather,,93750,2022,2022-07-23 20:45:00,2022-07-24 11:30:00,15
+July,Pennsylvania,Transmission Interruption,0,0,2022,2022-07-25 00:38:00,2022-07-25 13:46:00,13
+July,Texas,System Operations,0,0,2022,2022-07-26 06:38:00,2022-07-26 12:57:00,6
+July,California,Suspicious Activity,,,2022,2022-07-26 04:20:00,2022-07-26 04:57:00,1
+July,Pennsylvania,Suspicious Activity,0,0,2022,2022-07-26 21:00:00,2022-07-26 21:20:00,0
+July,California,Actual Physical Attack,0,0,2022,2022-07-28 19:25:00,2022-07-28 22:41:00,3
+July,Pennsylvania,Suspicious Activity,0,0,2022,2022-07-29 02:00:00,2022-07-29 02:01:00,0
+July,California,System Operations,0,0,2022,2022-07-30 19:35:00,2022-08-01 13:17:00,42
+July,New York,System Operations,0,0,2022,2022-07-31 06:36:00,2022-07-31 07:13:00,1
+August,Georgia,Vandalism,0,0,2022,2022-08-01 09:44:00,2022-08-01 09:45:00,0
+August,California,Actual Physical Attack,0,0,2022,2022-08-01 08:03:00,2022-08-01 09:00:00,1
+August,Texas,Suspicious Activity,0,0,2022,2022-08-03 02:00:00,2022-08-03 03:07:00,1
+August,Minnesota,Severe Weather,,80000,2022,2022-08-03 02:30:00,,
+August,Michigan,Severe Weather,,71000,2022,2022-08-03 19:00:00,2022-08-05 08:53:00,38
+August,Michigan,Severe Weather,,91264,2022,2022-08-03 17:00:00,2022-08-03 20:30:00,4
+August,Maryland,Severe Weather,,75500,2022,2022-08-04 18:00:00,2022-08-05 02:00:00,8
+August,Washington,Vandalism,0,0,2022,2022-08-05 14:52:00,2022-08-05 16:41:00,2
+August,Washington,Actual Physical Attack,3,350,2022,2022-08-05 02:00:00,2022-08-05 06:30:00,4
+August,Washington,Vandalism,0,0,2022,2022-08-09 15:18:00,2022-08-09 15:19:00,0
+August,Ohio,System Operations,,62464,2022,2022-08-09 16:42:00,2022-08-09 22:12:00,6
+August,Missouri,System Operations,0,0,2022,2022-08-09 02:29:00,2022-08-09 03:00:00,1
+August,Florida,System Operations,0,0,2022,2022-08-09 12:12:00,2022-08-09 13:08:00,1
+August,Arkansas,Severe Weather,24,0,2022,2022-08-10 01:25:00,2022-08-10 01:30:00,0
+August,Alabama,Vandalism,0,0,2022,2022-08-10 15:00:00,2022-08-10 15:01:00,0
+August,Texas,Severe Weather,,140464,2022,2022-08-10 19:56:00,2022-08-11 20:00:00,24
+August,Georgia,Vandalism,0,0,2022,2022-08-12 14:46:00,2022-08-12 14:47:00,0
+August,Wyoming,Transmission Interruption,0,5000,2022,2022-08-15 23:43:00,2022-08-16 07:14:00,8
+August,Nevada,Vandalism,0,0,2022,2022-08-15 09:08:00,2022-08-15 09:10:00,0
+August,New Jersey,Transmission Interruption,,0,2022,2022-08-15 10:24:00,2022-08-15 12:49:00,2
+August,Ohio,System Operations,,,2022,2022-08-18 18:05:00,2022-08-18 21:39:00,4
+August,Massachusetts,Actual Physical Attack,0,0,2022,2022-08-19 17:40:00,2022-08-19 17:41:00,0
+August,Washington,Cyber Event,0,0,2022,2022-08-19 22:00:00,2022-08-20 11:30:00,14
+August,California,Vandalism,0,0,2022,2022-08-22 09:47:00,2022-08-22 09:48:00,0
+August,Texas,System Operations,24,6385,2022,2022-08-22 12:46:00,2022-08-22 13:09:00,0
+August,Texas,Severe Weather,0,0,2022,2022-08-22 20:40:00,2022-08-22 21:57:00,1
+August,California,Vandalism,0,0,2022,2022-08-24 14:20:00,2022-08-24 14:21:00,0
+August,California,Vandalism,0,0,2022,2022-08-25 00:59:00,2022-08-25 01:00:00,0
+August,California,Vandalism,0,0,2022,2022-08-26 11:09:00,2022-08-26 11:10:00,0
+August,Maine,System Operations,0,0,2022,2022-08-27 02:21:00,2022-08-27 19:14:00,17
+August,New York,System Operations,0,0,2022,2022-08-28 04:59:00,2022-08-28 06:06:00,1
+August,Michigan,Severe Weather,,197740,2022,2022-08-29 15:00:00,2022-09-01 09:00:00,66
+August,Michigan,Severe Weather,,,2022,2022-08-29 17:50:00,,
+August,Texas,Suspicious Activity,0,0,2022,2022-08-29 10:45:00,2022-08-29 11:45:00,1
+August,Florida,Vandalism,10,3000,2022,2022-08-31 09:58:00,2022-08-31 12:15:00,2
+September,California,Severe Weather,242,44000,2022,2022-09-01 15:00:00,2022-09-01 21:00:00,6
+September,Texas,Severe Weather,,190000,2022,2022-09-04 16:00:00,2022-09-06 08:00:00,40
+September,California,Cyber Event,0,0,2022,2022-09-04 18:50:00,2022-09-05 02:45:00,8
+September,California,System Operations,,0,2022,2022-09-05 06:05:00,2022-09-05 21:00:00,15
+September,California,Vandalism,0,0,2022,2022-09-06 16:30:00,2022-09-07 00:30:00,8
+September,Texas,Suspicious Activity,0,0,2022,2022-09-06 06:00:00,2022-09-06 06:22:00,0
+September,California,System Operations,,0,2022,2022-09-06 10:34:00,2022-09-06 21:00:00,10
+September,California,Severe Weather,272,44000,2022,2022-09-06 16:00:00,2022-09-06 21:00:00,5
+September,Idaho,System Operations,,,2022,2022-09-06 19:20:00,2022-09-06 21:01:00,2
+September,Nevada,System Operations,8800,1300000,2022,2022-09-06 17:00:00,2022-09-06 20:00:00,3
+September,Florida,Cyber Event,0,0,2022,2022-09-07 13:45:00,2022-09-07 19:00:00,5
+September,California,System Operations,,0,2022,2022-09-07 11:31:00,2022-09-07 21:00:00,9
+September,California,Vandalism,0,0,2022,2022-09-07 13:00:00,,
+September,Nevada,System Operations,8600,1300000,2022,2022-09-07 17:00:00,2022-09-07 20:00:00,3
+September,California,Severe Weather,257,44000,2022,2022-09-07 16:00:00,2022-09-07 21:00:00,5
+September,California,System Operations,,0,2022,2022-09-08 10:52:00,2022-09-09 21:00:00,34
+September,California,Severe Weather,258,44000,2022,2022-09-08 11:54:00,2022-09-08 21:00:00,9
+September,Nevada,System Operations,8250,1300000,2022,2022-09-08 17:00:00,2022-09-08 20:00:00,3
+September,California,Severe Weather,257,44000,2022,2022-09-09 16:00:00,2022-09-09 21:00:00,5
+September,Indiana,Suspicious Activity,,,2022,2022-09-10 22:30:00,2022-09-10 22:31:00,0
+September,Texas,Transmission Interruption,0,0,2022,2022-09-11 18:19:00,2022-09-11 22:28:00,4
+September,Texas,Severe Weather,0,0,2022,2022-09-13 19:55:00,2022-09-13 20:01:00,0
+September,Texas,Transmission Interruption,0,0,2022,2022-09-15 19:52:00,2022-09-15 21:31:00,2
+September,Oregon,Transmission Interruption,0,0,2022,2022-09-16 18:30:00,2022-09-16 23:15:00,5
+September,Utah,Suspicious Activity,0,0,2022,2022-09-16 18:00:00,2022-09-16 18:01:00,0
+September,Texas,Vandalism,,1521,2022,2022-09-21 16:19:00,2022-09-21 18:01:00,2
+September,Florida,Vandalism,,,2022,2022-09-22 03:58:00,2022-09-22 04:00:00,0
+September,California,Vandalism,1,0,2022,2022-09-22 10:02:00,2022-09-22 11:00:00,1
+September,California,Vandalism,2,0,2022,2022-09-23 10:10:00,2022-09-23 11:00:00,1
+September,California,Vandalism,1,0,2022,2022-09-27 08:42:00,2022-09-27 10:00:00,1
+September,Florida,Severe Weather,,676000,2022,2022-09-28 15:00:00,2022-10-03 15:53:00,121
+September,Florida,Severe Weather,1000,116937,2022,2022-09-28 18:00:00,2022-09-30 15:20:00,45
+September,Florida,Severe Weather,750,291361,2022,2022-09-28 15:00:00,,
+September,Florida,Severe Weather,0,0,2022,2022-09-29 04:00:00,2022-10-03 00:00:00,92
+September,Florida,Severe Weather,150,15797,2022,2022-09-29 03:27:00,,
+September,North Carolina,Severe Weather,,154100,2022,2022-09-30 18:30:00,2022-10-01 18:36:00,24
+September,South Carolina,Severe Weather,,108930,2022,2022-09-30 13:46:00,2022-09-30 18:09:00,4
+September,North Carolina,Severe Weather,,48323,2022,2022-09-30 02:45:00,2022-10-01 16:15:00,38
+September,California,Vandalism,2,0,2022,2022-09-30 11:00:00,2022-09-30 12:00:00,1
+October,Alabama,Suspicious Activity,0,0,2022,2022-10-03 06:00:00,2022-10-04 07:00:00,25
+October,California,Vandalism,1,0,2022,2022-10-03 13:45:00,2022-10-03 14:30:00,1
+October,New York,Suspicious Activity,100,0,2022,2022-10-08 16:23:00,2022-10-08 16:50:00,0
+October,Texas,Vandalism,,0,2022,2022-10-10 15:50:00,2022-10-10 16:05:00,0
+October,California,Vandalism,1,0,2022,2022-10-13 10:00:00,2022-10-13 11:00:00,1
+October,Connecticut,Sever Weather,,76388,2022,2022-10-14 13:15:00,2022-10-14 17:45:00,4
+October,Texas,Cyber Event,0,0,2022,2022-10-14 13:30:00,,
+October,Arizona,System Operations,0,0,2022,2022-10-15 09:52:00,2022-10-15 10:23:00,1
+October,Louisiana,System Operations,69,16225,2022,2022-10-15 20:04:00,2022-10-18 16:03:00,68
+October,Texas,Vandalism,,,2022,2022-10-18 15:12:00,,
+October,California,Suspicious Activity,0,0,2022,2022-10-21 11:15:00,2022-10-21 11:18:00,0
+October,Massachusetts,Cyber Event,0,0,2022,2022-10-24 00:00:00,2022-10-28 00:00:00,96
+October,Texas,System Operations,34,7551,2022,2022-10-24 16:29:00,2022-10-24 18:05:00,2
+October,Texas,System Operations,,109865,2022,2022-10-25 01:45:00,2022-10-25 13:50:00,12
+October,Texas,System Operations,0,0,2022,2022-10-26 19:32:00,2022-10-26 20:38:00,1
+October,Arkansas,Vandalism,,0,2022,2022-10-27 00:01:00,2022-10-27 13:00:00,13
+October,California,Vandalism,2,0,2022,2022-10-28 14:16:00,2022-10-28 15:00:00,1
+October,Louisiana,Suspicious Activity,,0,2022,2022-10-31 21:14:00,2022-10-31 22:14:00,1
+November,Texas,Suspicious Activity,0,0,2022,2022-11-02 15:11:00,2022-11-02 15:25:00,0
+November,Washington,Transmission Interruption,0,0,2022,2022-11-03 12:07:00,2022-11-03 14:24:00,2
+November,Washington,Severe Weather,,214000,2022,2022-11-04 20:05:00,2022-11-07 09:00:00,61
+November,Michigan,Severe Weather,,158450,2022,2022-11-05 13:00:00,2022-11-08 07:00:00,66
+November,Michigan,Severe Weather,,53000,2022,2022-11-05 19:57:00,,
+November,Wisconsin,Severe Weather,,50000,2022,2022-11-05 19:00:00,,
+November,Texas,Transmission Interruption,0,0,2022,2022-11-08 15:48:00,2022-11-08 16:21:00,1
+November,Arkansas,Generation Inadequacy,0,0,2022,2022-11-10 11:07:00,2022-11-10 12:00:00,1
+November,Florida,Severe Weather,,160000,2022,2022-11-10 06:00:00,2022-11-11 08:47:00,27
+November,California,Vandalism,,,2022,2022-11-11 01:00:00,2022-11-11 05:00:00,4
+November,Ohio,Actual Physical Attack Vandalism,7,1775,2022,2022-11-11 01:41:00,2022-11-14 14:00:00,84
+November,Massachusetts,System Operations,0,0,2022,2022-11-15 10:17:00,2022-11-15 11:06:00,1
+November,Oregon,Vandalism,0,0,2022,2022-11-15 01:00:00,2022-11-15 06:00:00,5
+November,Washington,Actual Physical Attack Vandalism,3,1454,2022,2022-11-18 04:30:00,2022-11-18 04:59:00,0
+November,Maine,System Operations,0,0,2022,2022-11-22 10:01:00,2022-11-22 10:43:00,1
+November,Texas,Suspicious Activity,0,0,2022,2022-11-23 07:03:00,2022-11-23 08:57:00,2
+November,Washington,Actual Physical Attack Vandalism,0,0,2022,2022-11-23 10:15:00,2022-11-23 14:09:00,4
+November,Michigan,System Operations,0,0,2022,2022-11-23 12:46:00,2022-11-23 13:19:00,1
+November,Maryland,Cyber Event,,,2022,2022-11-23 09:30:00,,
+November,Oregon,Vandalism,0,0,2022,2022-11-24 01:40:00,2022-11-24 01:45:00,0
+November,California,Actual Physical Attack Vandalism,0,0,2022,2022-11-25 05:00:00,2022-11-25 08:00:00,3
+November,Maryland,Transmission Interruption,190,87500,2022,2022-11-27 17:28:00,2022-11-27 23:58:00,6
+November,Oregon,Actual Physical Attack Vandalism,,6337,2022,2022-11-28 01:08:00,2022-11-28 02:24:00,1
+November,Maine,Severe Weather,113,113000,2022,2022-11-30 18:45:00,2022-12-02 04:00:00,33
+November,New York,System Operations,0,0,2022,2022-11-30 02:37:00,2022-11-30 06:10:00,4
+November,Alabama,Severe Weather,386,54110,2022,2022-11-30 03:35:00,2022-11-30 09:10:00,6
+December,North Carolina,Vandalism,99,45000,2022,2022-12-03 19:51:00,,
+December,Pennsylvania,Suspicious Activity,0,0,2022,2022-12-05 18:20:00,2022-12-05 18:55:00,1
+December,New York,Vandalism,0,0,2022,2022-12-05 09:00:00,2022-12-05 13:00:00,4
+December,California,Suspicious Activity,0,0,2022,2022-12-06 09:25:00,,
+December,Kentucky,Vandalism,0,0,2022,2022-12-06 08:26:00,2022-12-06 08:30:00,0
+December,Georgia,Suspicious Activity,0,0,2022,2022-12-06 00:00:00,2022-12-06 00:01:00,0
+December,Georgia,Suspicious Activity,0,0,2022,2022-12-06 00:00:00,2022-12-06 00:01:00,0
+December,Ohio,Suspicious Activity,2600,,2022,2022-12-06 12:45:00,,
+December,Pennsylvania,Suspicious Activity,1883,,2022,2022-12-06 08:15:00,2022-12-06 12:15:00,4
+December,Illinois,Suspicious Activity,0,0,2022,2022-12-07 13:35:00,2022-12-07 13:40:00,0
+December,North Carolina,Suspicious Activity,0,0,2022,2022-12-07 16:42:00,2022-12-07 21:00:00,4
+December,Indiana,Suspicious Activity,0,0,2022,2022-12-08 12:36:00,,
+December,Massachusetts,Transmission Interruption,0,0,2022,2022-12-10 01:14:00,2022-12-10 02:02:00,1
+December,Missouri,Suspicious Activity,0,0,2022,2022-12-10 11:00:00,2022-12-12 06:00:00,43
+December,Washington,Vandalism,10,583,2022,2022-12-13 23:59:00,2022-12-14 03:39:00,4
+December,Florida,System Operations,0,0,2022,2022-12-14 10:42:00,2022-12-14 12:05:00,1
+December,Indiana,Vandalism,0,0,2022,2022-12-14 11:23:00,,
+December,Montana,Suspicious Activity,,,2022,2022-12-14 12:52:00,,
+December,Utah,Vandalism,0,0,2022,2022-12-15 05:30:00,2022-12-15 05:31:00,0
+December,Massachusetts,Severe Weather,,36600,2022,2022-12-16 23:30:00,2022-12-18 23:21:00,48
+December,Texas,Suspicious Activity,0,0,2022,2022-12-17 19:45:00,2022-12-17 19:46:00,0
+December,Tennessee,Transmission Interruption,3200,,2022,2022-12-22 09:04:00,2022-12-25 00:00:00,63
+December,Texas,System Operations,0,0,2022,2022-12-22 21:04:00,2022-12-22 21:42:00,1
+December,Texas,Suspicious Activity,0,0,2022,2022-12-23 06:04:00,2022-12-23 06:40:00,1
+December,New York,Severe Weather,,57000,2022,2022-12-23 14:30:00,,
+December,Connecticut,Severe Weather,,500000,2022,2022-12-23 05:20:00,,
+December,North Carolina,Severe Weather,,66519,2022,2022-12-23 09:45:00,2022-12-23 17:00:00,7
+December,North Carolina,Severe Weather,,108900,2022,2022-12-23 07:30:00,2022-12-23 22:13:00,15
+December,Tennessee,Severe Weather,,,2022,2022-12-23 08:31:00,,
+December,Alabama,Severe Weather,236,33010,2022,2022-12-23 03:03:00,2022-12-23 12:30:00,9
+December,Missouri,Severe Weather,0,0,2022,2022-12-23 07:19:00,2022-12-23 07:41:00,0
+December,South Carolina,Severe Weather,4615,17600,2022,2022-12-24 06:15:00,2022-12-25 09:00:00,27
+December,North Carolina,System Operations,960,130000,2022,2022-12-24 06:35:00,2022-12-24 16:10:00,10
+December,North Carolina,Severe Weather,1000,295000,2022,2022-12-24 04:45:00,2022-12-24 15:45:00,11
+December,Alabama,Severe Weather,160,22436,2022,2022-12-24 09:00:00,2022-12-24 11:15:00,2
+December,Washington,Vandalism,32,13500,2022,2022-12-25 19:25:00,2022-12-25 20:07:00,1
+December,Washington,Vandalism,14,8000,2022,2022-12-25 02:42:00,2022-12-25 04:55:00,2
+December,Washington,Vandalism,,,2022,2022-12-26 06:54:00,2022-12-26 08:19:00,1
+December,Washington,Severe Weather,,230000,2022,2022-12-26 08:30:00,2022-12-28 21:00:00,60
+December,Washington,Vandalism,0,0,2022,2022-12-27 08:00:00,2022-12-27 08:30:00,0
+December,California,Vandalism,0,0,2022,2022-12-27 13:30:00,2022-12-27 21:16:00,8
+December,Oregon,Severe Weather,,83060,2022,2022-12-27 10:12:00,,
+December,Washington,Severe Weather,11,11600,2022,2022-12-27 20:40:00,2022-12-27 20:41:00,0
+December,California,Suspicious Activity,,,2022,2022-12-27 07:07:00,2022-12-29 11:10:00,52
+December,California,Vandalism,0,0,2022,2022-12-27 07:20:00,2022-12-27 11:22:00,4
+December,Washington,Vandalism,0,0,2022,2022-12-29 13:14:00,2022-12-29 13:55:00,1
+December,Ohio,Vandalism,2600,,2022,2022-12-29 16:00:00,,
+December,Oregon,Transmission Interruption,0,0,2022,2022-12-30 05:25:00,2022-12-30 14:17:00,9
+December,Minnesota,Transmission Interruption,,,2022,2022-12-30 17:04:00,,
+December,Nevada,Severe Weather,,3500,2022,2022-12-31 20:00:00,2023-01-03 00:00:00,52
+December,California,Severe Weather,,161000,2022,2022-12-31 19:00:00,2023-01-01 06:00:00,11
+January,California,Vandalism,0,0,2023,2023-01-01 00:06:00,2023-01-01 03:57:00,4
+January,California,System Operations,0,0,2023,2023-01-01 09:55:00,2023-01-01 10:30:00,1
+January,Florida,Vandalism,19,3509,2023,2023-01-01 14:47:00,2023-01-01 16:50:00,2
+January,Texas,Vandalism,0,0,2023,2023-01-02 16:12:00,2023-01-03 09:30:00,17
+January,New Mexico,Vandalism,432,0,2023,2023-01-02 03:16:00,2023-01-02 16:46:00,14
+January,Arkansas,Severe Weather,20,6849,2023,2023-01-02 18:22:00,2023-01-02 22:27:00,4
+January,Michigan,Vandalism,0,0,2023,2023-01-03 11:45:00,2023-01-03 12:00:00,0
+January,Louisiana,Transmission Interruption,23,1631,2023,2023-01-05 08:19:00,2023-01-05 08:20:00,0
+January,Washington,Suspicious Activity,0,0,2023,2023-01-05 07:30:00,2023-01-05 09:30:00,2
+January,Ohio,Suspicious Activity,,,2023,2023-01-06 09:30:00,2023-01-06 11:30:00,2
+January,California,Severe Weather,458,185434,2023,2023-01-07 22:00:00,2023-01-08 21:00:00,23
+January,Texas,Transmission Interruption,20,9823,2023,2023-01-07 23:44:00,2023-01-08 02:29:00,3
+January,Texas,Vandalism,0,0,2023,2023-01-08 18:40:00,2023-01-08 18:54:00,0
+January,California,Suspicious Activity,0,0,2023,2023-01-12 10:00:00,,
+January,Alabama,Severe Weather,1158,162000,2023,2023-01-12 14:00:00,2023-01-13 03:00:00,13
+January,Washington,Vandalism,,,2023,2023-01-12 11:58:00,2023-01-12 12:30:00,1
+January,Texas,Suspicious Activity,0,0,2023,2023-01-13 00:00:00,2023-01-13 01:00:00,1
+January,South Carolina,Suspicious Activity,,,2023,2023-01-19 11:00:00,2023-01-19 13:00:00,2
+January,Michigan,Vandalism,,0,2023,2023-01-20 10:45:00,,
+January,Connecticut,Severe Weather,,41000,2023,2023-01-23 07:05:00,2023-01-24 17:17:00,34
+January,California,Suspicious Activity,,,2023,2023-01-23 17:00:00,,
+January,California,Suspicious Activity,,,2023,2023-01-23 09:21:00,,
+January,Louisiana,Vandalism,0,0,2023,2023-01-24 14:00:00,2023-01-24 15:00:00,1
+January,New York,Suspicious Activity,0,0,2023,2023-01-24 17:10:00,2023-01-24 17:20:00,0
+January,Texas,Severe Weather,,100731,2023,2023-01-24 15:25:00,2023-01-26 20:20:00,53
+January,Washington,Vandalism,0,0,2023,2023-01-25 22:30:00,2023-01-26 00:01:00,2
+January,Texas,Suspicious Activity,0,0,2023,2023-01-25 15:57:00,2023-01-25 17:38:00,2
+January,Arkansas,Severe Weather,,60958,2023,2023-01-25 03:30:00,2023-01-25 13:00:00,10
+January,Washington,Vandalism,0,0,2023,2023-01-26 07:00:00,2023-01-26 14:46:00,8
+January,Illinois,Suspicious Activity,0,0,2023,2023-01-28 04:00:00,2023-01-28 05:00:00,1
+January,Kentucky,System Operations,0,0,2023,2023-01-29 08:19:00,2023-01-29 11:07:00,3
+January,Minnesota,Suspicious Activity,,,2023,2023-01-30 10:30:00,,
+January,Texas,Severe Weather,,360000,2023,2023-01-31 08:15:00,2023-02-06 17:00:00,153
+February,Texas,Severe Weather,370,173879,2023,2023-02-01 05:00:00,2023-02-04 22:39:00,90
+February,Colorado,Vandalism,0,0,2023,2023-02-02 22:07:00,2023-02-03 16:08:00,18
+February,Pennsylvania,Suspicious Activity,0,0,2023,2023-02-02 11:00:00,,
+February,Arkansas,Severe Weather,,74426,2023,2023-02-02 08:15:00,2023-02-02 19:45:00,12
+February,Maryland,Suspicious Activity,0,0,2023,2023-02-02 14:37:00,2023-02-02 14:47:00,0
+February,Oregon,Vandalism,0,0,2023,2023-02-03 16:00:00,2023-02-03 16:45:00,1
+February,Ohio,Vandalism,2000,,2023,2023-02-04 11:14:00,2023-02-04 12:55:00,2
+February,Florida,System Operations,0,0,2023,2023-02-06 17:06:00,2023-02-06 17:31:00,0
+February,Maryland,Suspicious Activity,0,0,2023,2023-02-06 10:00:00,2023-02-06 10:02:00,0
+February,Wisconsin,System Operations,0,0,2023,2023-02-07 13:34:00,2023-02-07 14:06:00,1
+February,Illinois,Suspicious Activity,0,0,2023,2023-02-07 06:15:00,2023-02-07 06:20:00,0
+February,New York,Suspicious Activity,0,0,2023,2023-02-07 08:30:00,,
+February,Pennsylvania,Suspicious Activity,0,0,2023,2023-02-08 13:30:00,2023-02-08 14:00:00,0
+February,Texas,Transmission Interruption,0,0,2023,2023-02-11 11:17:00,2023-02-11 18:20:00,7
+February,California,Suspicious Activity,0,0,2023,2023-02-13 21:50:00,2023-02-14 02:24:00,5
+February,Wisconsin,Vandalism,0,0,2023,2023-02-13 05:27:00,2023-02-13 15:00:00,10
+February,Florida,Suspicious Activity,0,0,2023,2023-02-15 14:25:00,2023-02-15 14:30:00,0
+February,Oklahoma,Suspicious Activity,0,0,2023,2023-02-18 00:00:00,2023-02-18 00:05:00,0
+February,California,Vandalism,0,0,2023,2023-02-19 08:18:00,2023-02-19 12:15:00,4
+February,Texas,Cyber Event,0,0,2023,2023-02-21 09:45:00,,
+February,Florida,Transmission Interruption,0,0,2023,2023-02-21 05:27:00,2023-02-21 06:41:00,1
+February,Florida,Actual Physical Attack Vandalism,,2547,2023,2023-02-21 13:14:00,2023-02-21 14:36:00,1
+February,Michigan,Severe Weather,,261043,2023,2023-02-22 18:41:00,2023-02-25 16:12:00,70
+February,Michigan,Severe Weather,6200,623358,2023,2023-02-22 18:30:00,,
+February,South Dakota,Suspicious Activity,0,0,2023,2023-02-22 16:00:00,2023-02-22 16:01:00,0
+February,Wisconsin,Severe Weather,143,57000,2023,2023-02-23 04:30:00,2023-02-23 13:00:00,8
+February,Colorado,System Operations,0,0,2023,2023-02-23 08:50:00,2023-02-23 12:38:00,4
+February,Florida,Suspicious Activity,0,0,2023,2023-02-24 12:29:00,2023-02-24 12:45:00,0
+February,California,Severe Weather,,153555,2023,2023-02-25 00:08:00,2023-02-26 18:08:00,42
+February,North Carolina,Actual Physical Attack Vandalism,,,2023,2023-02-26 14:08:00,2023-02-26 15:13:00,1
+February,Michigan,Severe Weather,,76000,2023,2023-02-27 13:25:00,2023-02-27 23:59:00,11
+February,Wisconsin,Vandalism,14,0,2023,2023-02-28 08:00:00,2023-02-28 08:30:00,0
+March,Indiana,System Operations,0,0,2023,2023-03-01 00:00:00,2023-03-01 00:41:00,1
+March,Texas,Severe Weather,,470000,2023,2023-03-02 19:00:00,2023-03-04 23:00:00,52
+March,Illinois,Suspicious Activity,0,0,2023,2023-03-03 13:45:00,2023-03-03 13:50:00,0
+March,Mississippi,System Operations,38,12014,2023,2023-03-03 09:45:00,2023-03-03 09:50:00,0
+March,Texas,Suspicious Activity,0,0,2023,2023-03-03 08:00:00,2023-03-03 08:01:00,0
+March,Kentucky,Severe Weather,,346000,2023,2023-03-03 15:40:00,,
+March,Ohio,Severe Weather,,57186,2023,2023-03-03 19:28:00,2023-03-03 20:54:00,1
+March,Tennessee,Severe Weather,,115000,2023,2023-03-03 14:00:00,2023-03-04 04:00:00,14
+March,Michigan,Severe Weather,0,200000,2023,2023-03-03 17:50:00,2023-03-05 12:01:00,42
+March,Alabama,Severe Weather,346,48384,2023,2023-03-03 12:45:00,2023-03-03 22:42:00,10
+March,Kentucky,Severe Weather,,,2023,2023-03-03 15:40:00,,
+March,Louisiana,Transmission Interruption,965,33,2023,2023-03-04 07:05:00,2023-03-04 07:06:00,0
+March,Louisiana,Transmission Interruption,800,,2023,2023-03-04 07:05:00,2023-03-04 07:06:00,0
+March,Georgia,Suspicious Activity,0,0,2023,2023-03-05 20:03:00,2023-03-06 15:38:00,20
+March,West Virginia,Vandalism,0,0,2023,2023-03-05 11:53:00,2023-03-06 07:51:00,20
+March,Virginia,Actual Physical Attack Vandalism,1,0,2023,2023-03-06 16:18:00,2023-03-06 17:30:00,1
+March,Texas,Vandalism,0,0,2023,2023-03-07 11:00:00,2023-03-07 15:45:00,5
+March,Texas,Vandalism,0,0,2023,2023-03-07 10:26:00,2023-03-07 14:42:00,4
+March,Texas,Vandalism,0,0,2023,2023-03-08 00:02:00,,
+March,Indiana,Vandalism,0,0,2023,2023-03-08 01:00:00,2023-03-08 02:00:00,1
+March,Wisconsin,Severe Weather,250,100000,2023,2023-03-09 18:00:00,2023-03-10 18:00:00,24
+March,Texas,System Operations,0,0,2023,2023-03-10 04:48:00,2023-03-10 13:07:00,8
+March,Idaho,Vandalism,0,0,2023,2023-03-10 08:00:00,2023-03-10 08:56:00,1
+March,Connecticut,Severe Weather,,83000,2023,2023-03-14 08:00:00,2023-03-16 08:20:00,48
+March,New York,Severe Weather,,,2023,2023-03-14 09:25:00,2023-03-15 15:00:00,30
+March,Texas,Suspicious Activity,0,0,2023,2023-03-16 10:34:00,2023-03-16 14:26:00,4
+March,Pennsylvania,Suspicious Activity,621,0,2023,2023-03-22 05:45:00,2023-03-22 05:46:00,0
+March,Washington,Cyber Event,0,0,2023,2023-03-23 17:19:00,2023-03-23 18:06:00,1
+March,Texas,Vandalism,0,0,2023,2023-03-23 11:37:00,2023-03-23 11:38:00,0
+March,Nevada,Actual Physical Attack Vandalism,24,11479,2023,2023-03-23 00:39:00,2023-03-23 00:40:00,0
+March,Michigan,Severe Weather,5800,67893,2023,2023-03-25 16:13:00,2023-03-27 18:30:00,50
+March,Ohio,Severe Weather,,160801,2023,2023-03-25 16:12:00,,
+March,Washington,Vandalism,34,,2023,2023-03-26 12:52:00,2023-03-26 13:54:00,1
+March,Texas,Suspicious Activity,0,0,2023,2023-03-28 18:03:00,2023-03-28 20:08:00,2
+March,Texas,System Operations,0,0,2023,2023-03-28 05:22:00,2023-03-28 06:57:00,2
+March,Texas,Vandalism,0,0,2023,2023-03-28 10:05:00,,
+March,Nebraska,System Operations,0,0,2023,2023-03-29 05:26:00,2023-03-29 07:23:00,2
+March,Wisconsin,System Operations,0,0,2023,2023-03-29 17:37:00,2023-03-29 19:15:00,2
+March,Washington,Vandalism,0,0,2023,2023-03-30 09:13:00,2023-03-30 09:15:00,0
+March,Colorado,Transmission Interruption,18,,2023,2023-03-30 18:28:00,2023-03-30 22:13:00,4
+March,Kentucky,Vandalism,0,0,2023,2023-03-30 09:40:00,2023-03-30 10:00:00,0
+March,Colorado,Transmission Interruption,,,2023,2023-03-30 19:21:00,,
+March,Pennsylvania,Vandalism,1711,0,2023,2023-03-30 05:00:00,2023-03-30 14:20:00,9
+March,Arkansas,Severe Weather,,58368,2023,2023-03-31 18:00:00,2023-03-31 20:45:00,3
+March,Minnesota,Severe Weather,,80000,2023,2023-03-31 23:00:00,2023-04-01 16:15:00,17
+March,Illinois,Severe Weather,,65000,2023,2023-03-31 20:49:00,,
+April,Ohio,Severe Weather,,118000,2023,2023-04-01 14:00:00,2023-04-03 10:47:00,45
+April,Alabama,Actual Physical Attack Vandalism,0,0,2023,2023-04-03 12:06:00,2023-04-03 12:54:00,1
+April,Colorado,Transmission Interruption,,0,2023,2023-04-03 18:50:00,2023-04-03 19:26:00,1
+April,Texas,Suspicious Activity,0,0,2023,2023-04-08 04:30:00,2023-04-08 05:05:00,1
+April,Ohio,Vandalism,0,0,2023,2023-04-11 08:11:00,,
+April,Florida,Cyber Event,0,0,2023,2023-04-14 05:30:00,,
+April,Texas,System Operations,0,0,2023,2023-04-15 16:30:00,2023-04-15 17:18:00,1
+April,Texas,Suspicious Activity,,3900,2023,2023-04-16 07:17:00,2023-04-16 14:00:00,7
+April,Florida,Suspicious Activity,0,0,2023,2023-04-17 05:30:00,2023-04-17 14:00:00,8
+April,South Carolina,Actual Physical Attack Vandalism,39,8,2023,2023-04-17 12:17:00,2023-04-17 17:12:00,5
+April,Texas,Actual Physical Attack Vandalism,0,0,2023,2023-04-18 08:00:00,2023-04-18 08:01:00,0
+April,Washington,Vandalism,0,0,2023,2023-04-18 03:41:00,2023-04-18 04:00:00,0
+April,South Dakota,System Operations,4,1,2023,2023-04-18 10:36:00,2023-04-19 11:08:00,25
+April,Washington,Vandalism,0,0,2023,2023-04-19 15:15:00,2023-04-19 15:59:00,1
+April,Texas,Transmission Interruption,,,2023,2023-04-19 23:13:00,2023-04-20 17:24:00,18
+April,California,System Operations,0,0,2023,2023-04-21 06:02:00,,
+April,Washington,System Operations,25,,2023,2023-04-23 09:22:00,2023-04-24 17:49:00,32
+April,Arizona,System Operations,0,0,2023,2023-04-25 10:33:00,2023-04-25 15:43:00,5
+April,Idaho,Vandalism,0,0,2023,2023-04-26 12:31:00,2023-04-26 14:15:00,2
+April,Texas,Vandalism,0,0,2023,2023-04-27 11:00:00,2023-04-27 11:14:00,0
+April,California,Vandalism,0,0,2023,2023-04-27 04:01:00,2023-04-28 12:28:00,32
+April,Texas,Severe Weather,,168419,2023,2023-04-29 00:00:00,2023-04-29 20:00:00,20
+May,Connecticut,Severe Weather,,54000,2023,2023-05-01 05:16:00,2023-05-01 09:31:00,4
+May,Texas,Actual Physical Attack Vandalism,0,0,2023,2023-05-02 10:00:00,2023-05-02 10:01:00,0
+May,Ohio,Suspicious Activity,0,0,2023,2023-05-02 11:29:00,2023-05-02 15:36:00,4
+May,Texas,Vandalism,0,0,2023,2023-05-04 18:00:00,2023-05-04 18:01:00,0
+May,Michigan,Suspicious Activity,,378,2023,2023-05-11 00:15:00,2023-05-18 09:27:00,177
+May,Texas,Vandalism,0,0,2023,2023-05-11 12:00:00,2023-05-11 12:01:00,0
+May,Kentucky,Vandalism,0,0,2023,2023-05-12 13:00:00,2023-05-12 23:00:00,10
+May,New York,Suspicious Activity,0,0,2023,2023-05-12 11:43:00,2023-05-12 12:00:00,0
+May,North Dakota,Actual Physical Attack Vandalism,8,327,2023,2023-05-13 07:25:00,2023-05-13 12:10:00,5
+May,North Dakota,Actual Physical Attack Vandalism,64,2,2023,2023-05-13 06:27:00,2023-05-13 15:27:00,9
+May,North Dakota,Actual Physical Attack Vandalism,166,327,2023,2023-05-13 05:27:00,,
+May,Oregon,Suspicious Activity,0,0,2023,2023-05-16 14:45:00,2023-05-16 15:10:00,0
+May,Washington,Suspicious Activity,0,0,2023,2023-05-21 15:30:00,2023-05-21 15:40:00,0
+May,Florida,Severe Weather,0,0,2023,2023-05-22 15:39:00,2023-05-22 18:00:00,2
+May,North Dakota,Vandalism,0,0,2023,2023-05-23 14:00:00,,
+May,North Dakota,Transmission Interruption,0,0,2023,2023-05-24 07:45:00,2023-05-24 18:52:00,11
+May,Iowa,System Operations,2200,,2023,2023-05-24 09:16:00,,
+May,Georgia,Vandalism,0,0,2023,2023-05-26 07:41:00,2023-05-26 14:19:00,7
+May,Alabama,Actual Physical Attack Vandalism,0,0,2023,2023-05-28 09:15:00,2023-05-28 09:16:00,0
+May,Massachusetts,Actual Physical Attack Vandalism,0,0,2023,2023-05-30 08:00:00,2023-05-30 08:01:00,0
+May,Florida,System Operations,0,0,2023,2023-05-31 11:00:00,2023-05-31 23:48:00,13
+June,Tennessee,Weather Natural Disaster,,120000,2023,2023-06-25 06:45:00,,
+June,Michigan,Vandalism Theft,5,5200,2023,2023-06-24 18:17:00,2023-06-24 23:25:00,5
+June,"Georgia, Alabama",Weather Natural Disaster,,,2023,2023-06-25 17:30:00,2023-06-26 15:31:00,22
+June,"Wisconsin, Michigan",Weather Natural Disaster,175,70000,2023,2023-06-25 04:00:00,,
+June,Michigan,Weather Natural Disaster,,,2023,2023-06-25 19:00:00,,
+June,California,Vandalism,0,0,2023,2023-06-27 13:43:00,2023-06-27 13:44:00,0
+June,"Arkansas, Mississippi",Weather Natural Disaster,,64732,2023,2023-06-25 19:30:00,2023-06-26 17:45:00,22
+June,"Washington, Idaho, Montana",Failure at high voltage substation switchyard,0,0,2023,2023-06-27 17:37:00,2023-06-27 21:30:00,4
+June,Indiana,Weather Natural Disaster,,140000,2023,2023-06-29 15:42:00,,
+June,Georgia,Vandalism Theft,0,0,2023,2023-06-28 11:01:00,2023-06-28 11:03:00,0
+June,Louisiana,Transmission equipment failure,17,6242,2023,2023-06-22 02:30:00,2023-06-22 02:38:00,0
+June,Louisiana,Transmission equipment failure,0,0,2023,2023-06-20 17:48:00,2023-06-20 20:52:00,3
+June,Connecticut,,0,0,2023,2023-06-30 12:13:00,,
+July,Illinois,Other,0,0,2023,2023-07-01 14:58:00,2023-07-01 17:07:00,2
+July,Texas,Failure at high voltage substation switchyard Other,,,2023,2023-07-06 09:02:00,2023-07-06 10:49:00,2
+July,Nebraska,Suspicious Activity,0,0,2023,2023-07-06 13:38:00,2023-07-06 15:04:00,1
+July,Florida,Other,0,0,2023,2023-07-06 19:01:00,2023-07-06 21:11:00,2
+July,California,Vandalism,0,0,2023,2023-07-07 07:00:00,2023-07-07 08:00:00,1
+July,Texas,Weather Natural Disaster,0,0,2023,2023-07-07 17:43:00,2023-07-11 13:27:00,92
+July,Oregon,Vandalism Theft,0,0,2023,2023-07-09 01:28:00,2023-07-12 22:30:00,93
+July,Oregon,Vandalism Theft,0,0,2023,2023-07-09 01:28:00,,
+July,Texas,Transmission equipment failure,0,0,2023,2023-07-10 03:32:00,2023-07-10 17:46:00,14
+July,Missouri,Weather Natural Disaster,,163156,2023,2023-07-14 15:00:00,,
+July,California,Vandalism,0,0,2023,2023-07-16 10:29:00,2023-07-16 10:56:00,0
+July,New York,Vandalism,0,642,2023,2023-07-17 09:46:00,2023-07-17 11:00:00,1
+July,Tennessee,Weather Natural Disaster,1200,216000,2023,2023-07-18 17:50:00,2023-07-25 14:00:00,164
+July,Missouri,Suspicious Activity,0,0,2023,2023-07-18 13:30:00,2023-07-18 14:30:00,1
+July,Georgia,Vandalism,0,0,2023,2023-07-20 10:05:00,2023-07-20 10:06:00,0
+July,Michigan,Weather Natural Disaster,,90354,2023,2023-07-20 15:30:00,2023-07-21 12:00:00,20
+July,Georgia,Weather Natural Disaster,640,35257,2023,2023-07-20 16:30:00,2023-07-22 12:17:00,44
+July,Mississippi,Other,130,32781,2023,2023-07-22 14:52:00,2023-07-22 14:53:00,0
+July,Tennessee,,820,,2023,2023-07-25 18:52:00,2023-07-25 19:00:00,0
+July,Michigan,Weather Natural Disaster,,246000,2023,2023-07-26 14:51:00,2023-07-26 17:23:00,3
+July,Idaho,Physical Attack Vandalism Suspicious Activity,0,0,2023,2023-07-26 13:31:00,2023-07-26 14:00:00,0
+July,Nebraska,Failure at high voltage substation switchyard Weather Natural Disaster,0,0,2023,2023-07-28 00:15:00,2023-07-28 05:06:00,5
+July,Washington,Physical Attack Vandalism Other,0,0,2023,2023-07-28 12:16:00,2023-07-28 12:17:00,0
+July,Wisconsin,Weather Natural Disaster,213,85000,2023,2023-07-28 22:58:00,,
+July,Illinois,Weather Natural Disaster,,122921,2023,2023-07-28 21:00:00,2023-07-30 10:00:00,37
+July,West Virginia,Weather Natural Disaster,,52098,2023,2023-07-28 18:00:00,2023-07-30 07:45:00,38
+July,Maryland,Weather Natural Disaster,,61000,2023,2023-07-28 21:00:00,,
+July,Washington,Physical Attack Vandalism,0,0,2023,2023-07-28 12:16:00,2023-07-28 12:17:00,0
+July,Maryland,Weather Natural Disaster,,53630,2023,2023-07-29 16:00:00,2023-08-01 07:00:00,63
+July,Maryland,Weather Natural Disaster,,54158,2023,2023-07-29 16:25:00,2023-07-29 16:28:00,0
+July,Massachusetts,Threat of Physical Attack,0,0,2023,2023-07-29 16:00:00,2023-07-29 16:01:00,0
+July,Missouri,Weather Natural Disaster,,72173,2023,2023-07-30 20:30:00,,
+August,Illinois,Other,0,0,2023,,2023-07-01 17:07:00,
+August,Texas,Failure at high voltage substation switchyard Other,,,2023,,2023-07-06 10:49:00,
+August,Nebraska,Suspicious Activity,0,0,2023,,2023-07-06 15:04:00,
+August,Florida,Other,0,0,2023,,2023-07-06 21:11:00,
+August,California,Vandalism,0,0,2023,,2023-07-07 08:00:00,
+August,Texas,Weather Natural Disaster,0,0,2023,,2023-07-11 13:27:00,
+August,Oregon,Vandalism Theft,0,0,2023,,2023-07-12 22:30:00,
+August,Oregon,Vandalism Theft,0,0,2023,,,
+August,Texas,Transmission equipment failure,0,0,2023,,2023-07-10 17:46:00,
+August,Missouri,Weather Natural Disaster,,163156,2023,,,
+August,California,Vandalism,0,0,2023,,2023-07-16 10:56:00,
+August,New York,Vandalism,0,642,2023,,2023-07-17 11:00:00,
+August,Tennessee,Weather Natural Disaster,1200,216000,2023,,2023-07-25 14:00:00,
+August,Missouri,Suspicious Activity,0,0,2023,,2023-07-18 14:30:00,
+August,Georgia,Vandalism,0,0,2023,,2023-07-20 10:06:00,
+August,Michigan,Weather Natural Disaster,,90354,2023,,2023-07-21 12:00:00,
+August,Georgia,Weather Natural Disaster,640,35257,2023,,2023-07-22 12:17:00,
+August,Mississippi,Other,130,32781,2023,,2023-07-22 14:53:00,
+August,Tennessee,,820,,2023,,2023-07-25 19:00:00,
+August,Michigan,Weather Natural Disaster,,246000,2023,,2023-07-26 17:23:00,
+August,Idaho,Physical Attack Vandalism Suspicious Activity,0,0,2023,,2023-07-26 14:00:00,
+August,Nebraska,Failure at high voltage substation switchyard Weather Natural Disaster,0,0,2023,,2023-07-28 05:06:00,
+August,Washington,Physical Attack Vandalism Other,0,0,2023,,2023-07-28 12:17:00,
+August,Wisconsin,Weather Natural Disaster,213,85000,2023,,,
+August,Illinois,Weather Natural Disaster,,122921,2023,,2023-07-30 10:00:00,
+August,West Virginia,Weather Natural Disaster,,52098,2023,,2023-07-30 07:45:00,
+August,Maryland,Weather Natural Disaster,,61000,2023,,,
+August,Washington,Physical Attack Vandalism,0,0,2023,,2023-07-28 12:17:00,
+August,Maryland,Weather Natural Disaster,,53630,2023,,2023-08-01 07:00:00,
+August,Maryland,Weather Natural Disaster,,54158,2023,,2023-07-29 16:28:00,
+August,Massachusetts,Threat of Physical Attack,0,0,2023,,2023-07-29 16:01:00,
+August,Missouri,Weather Natural Disaster,,72173,2023,,,
+September,California,Weather Natural Disaster,18,9082,2023,2023-09-29 22:16:00,2023-09-29 22:18:00,0
+September,Texas,Weather Natural Disaster,0,0,2023,2023-09-29 23:49:00,2023-09-30 03:10:00,3
+September,Pennsylvania,Other,0,0,2023,2023-09-29 11:31:00,2023-09-29 12:07:00,1
+September,Massachusetts,Other,0,0,2023,2023-09-28 13:06:00,2023-09-28 16:30:00,3
+September,Louisiana,Transmission equipment failure,103,23380,2023,2023-09-25 05:12:00,2023-09-25 06:41:00,1
+September,Pennsylvania,Other,0,0,2023,2023-09-29 06:30:00,2023-09-29 07:01:00,1
+September,Texas,Weather Natural Disaster,,130000,2023,2023-09-24 23:44:00,2023-09-26 20:45:00,45
+September,Texas,Suspicious Activity,0,0,2023,2023-09-18 08:53:00,2023-09-18 10:26:00,2
+September,Oklahoma,,51,,2023,2023-09-20 12:41:00,2023-09-20 23:25:00,11
+September,New York,Vandalism,0,0,2023,2023-09-16 00:59:00,2023-09-16 09:59:00,9
+September,Illinois,Suspicious Activity,0,0,2023,2023-09-15 16:30:00,2023-09-15 17:00:00,0
+September,Connecticut,Weather Natural Disaster,,75000,2023,2023-09-16 10:35:00,2023-09-17 01:00:00,14
+September,Texas,Physical Attack,0,0,2023,2023-09-13 09:15:00,2023-09-13 18:16:00,9
+September,Texas,Weather Natural Disaster,,190000,2023,2023-09-08 23:44:00,2023-09-10 19:00:00,43
+September,Washington,Vandalism,0,0,2023,2023-09-08 06:30:00,2023-09-08 09:00:00,2
+September,Massachusetts,Other,0,0,2023,2023-09-08 18:06:00,2023-09-08 18:51:00,1
+September,Connecticut,Weather Natural Disaster,,114000,2023,2023-09-08 15:15:00,2023-09-09 22:05:00,31
+September,New York,Suspicious Activity,0,0,2023,2023-09-09 10:31:00,2023-09-09 10:51:00,0
+September,Texas,Suspicious Activity,0,0,2023,2023-09-07 13:00:00,2023-09-07 13:15:00,0
+September,Texas,Weather Natural Disaster Other,,,2023,2023-09-07 10:45:00,2023-09-07 21:00:00,10
+September,Texas,Weather Natural Disaster Other,,,2023,2023-09-06 16:30:00,2023-09-06 21:00:00,4
+September,Michigan,Weather Natural Disaster Other,,0,2023,2023-09-06 00:00:00,,
+September,Maine,Other,0,0,2023,2023-09-05 01:38:00,2023-09-05 05:39:00,4
+October,Missouri,Vandalism Theft Suspicious Activity,,,2023,2023-10-03 00:55:00,2023-10-03 01:13:00,0
+October,North Carolina,Suspicious Activity,,,2023,2023-10-03 16:00:00,2023-10-03 18:50:00,3
+October,Pennsylvania,,0,0,2023,2023-10-03 23:44:00,2023-10-04 00:21:00,1
+October,Texas,Weather Natural Disaster,,153000,2023,2023-10-04 22:01:00,2023-10-06 04:15:00,30
+October,Texas,Other,0,0,2023,2023-10-05 18:38:00,2023-10-05 19:02:00,0
+October,Texas,Suspicious Activity,0,0,2023,2023-10-06 02:42:00,2023-10-06 03:13:00,1
+October,New Jersey,Vandalism Suspicious Activity,0,0,2023,2023-10-07 08:04:00,2023-10-08 02:32:00,18
+October,California,Vandalism Theft,0,0,2023,2023-10-07 14:04:00,,
+October,New Jersey,Suspicious Activity,,,2023,2023-10-07 08:49:00,2023-10-08 02:32:00,18
+October,Pennsylvania,Suspicious Activity,,,2023,2023-10-12 14:37:00,2023-10-12 15:37:00,1
+October,Texas,Physical Attack Other,0,0,2023,2023-10-12 12:18:00,2023-10-12 12:19:00,0
+October,California,,,,2023,2023-10-14 07:10:00,,
+October,North Dakota,Vandalism Theft,0,0,2023,2023-10-14 12:47:00,2023-10-16 09:43:00,45
+October,California,Other,72,6,2023,2023-10-15 07:16:00,2023-10-15 12:52:00,6
+October,Florida,,0,0,2023,2023-10-18 10:38:00,2023-10-19 18:00:00,31
+October,Texas,Other,0,0,2023,2023-10-19 10:30:00,2023-10-19 10:52:00,0
+October,Minnesota,,0,0,2023,2023-10-19 11:10:00,,
+October,Pennsylvania,Suspicious Activity,0,0,2023,2023-10-19 09:40:00,2023-10-19 09:45:00,0
+October,California,Vandalism,0,0,2023,2023-10-21 08:04:00,2023-10-21 08:05:00,0
+October,Texas,Physical Attack Vandalism Theft Suspicious Activity,0,0,2023,2023-10-22 02:10:00,2023-10-23 17:00:00,39
+October,Oklahoma,Physical Attack Generator loss failure,0,0,2023,2023-10-25 23:39:00,2023-10-29 19:11:00,92
+October,Texas,Transmission equipment failure,,26,2023,2023-10-26 11:21:00,2023-10-26 11:22:00,0
+October,Illinois,Suspicious Activity,0,0,2023,2023-10-26 10:05:00,2023-10-26 10:20:00,0
+October,Oregon,Other,140,0,2023,2023-10-26 12:41:00,2023-10-26 14:01:00,1
+October,Illinois,Suspicious Activity,0,0,2023,2023-10-26 10:05:00,2023-10-26 10:20:00,0
+October,Nevada,Suspicious Activity,0,0,2023,2023-10-29 04:00:00,2023-10-30 16:00:00,36
+November,Texas,Physical Attack,0,0,2023,2023-11-01 14:37:00,,
+November,South Carolina,Suspicious Activity,0,0,2023,2023-11-02 20:00:00,2023-11-02 20:06:00,0
+November,Oregon,Theft,0,0,2023,2023-11-02 11:10:00,2023-11-02 11:20:00,0
+November,Arkansas,Vandalism Suspicious Activity,0,0,2023,2023-11-06 16:00:00,2023-11-06 17:00:00,1
+November,Oklahoma,Other,0,0,2023,2023-11-09 13:35:00,2023-11-09 14:35:00,1
+November,California,Vandalism Theft,0,0,2023,2023-11-09 03:00:00,2023-11-09 03:15:00,0
+November,Maryland,Suspicious Activity,0,0,2023,2023-11-10 18:10:00,2023-11-10 19:58:00,2
+November,Pennsylvania,Suspicious Activity,0,0,2023,2023-11-10 18:10:00,2023-11-10 19:58:00,2
+November,Nevada,Vandalism Theft Suspicious Activity,0,0,2023,2023-11-10 08:00:00,2023-11-10 08:01:00,0
+November,Utah,Vandalism,0,0,2023,2023-11-11 00:45:00,2023-11-11 01:11:00,0
+November,Washington,Other,0,0,2023,2023-11-12 06:45:00,2023-11-12 08:59:00,2
+November,North Dakota,Other,0,0,2023,2023-11-13 16:16:00,2023-11-13 16:36:00,0
+November,California,Fuel supply emergency,0,0,2023,2023-11-15 20:00:00,2023-11-16 20:30:00,24
+November,Florida,Weather Natural Disaster,0,0,2023,2023-11-16 03:18:00,,
+November,California,Other,0,0,2023,2023-11-17 01:43:00,2023-11-17 03:33:00,2
+November,Texas,,0,0,2023,2023-11-17 16:30:00,2023-11-17 16:41:00,0
+November,Colorado,Other,0,0,2023,2023-11-17 04:07:00,2023-11-17 04:21:00,0
+November,California,Vandalism,0,0,2023,2023-11-19 04:39:00,,
+November,Illinois,Suspicious Activity,0,0,2023,2023-11-19 14:00:00,2023-11-19 14:10:00,0
+November,New Jersey,Theft,0,0,2023,2023-11-19 03:00:00,2023-11-19 03:30:00,0
+November,Nevada,Theft Suspicious Activity,0,0,2023,2023-11-20 00:00:00,2023-11-20 02:00:00,2
+November,California,Theft,0,0,2023,2023-11-21 09:29:00,2023-11-21 09:30:00,0
+November,California,,0,0,2023,2023-11-25 10:20:00,,
+November,California,Theft Other,0,0,2023,2023-11-26 01:00:00,2023-11-26 02:00:00,1
+November,Connecticut,Weather Natural Disaster,0,0,2023,2023-11-27 06:00:00,2023-11-27 13:00:00,7
+November,Colorado,Other,0,0,2023,2023-11-27 11:53:00,2023-11-27 13:53:00,2
+November,Texas,Physical Attack Vandalism Suspicious Activity,0,0,2023,2023-11-29 09:00:00,,
+December,Pacificorp,Vandalism Theft,0,0,2023,2023-12-01 10:28:00,2023-12-01 10:29:00,0
+December,Tampa Electric Company,Other,0,0,2023,2023-12-02 10:07:00,2023-12-02 10:40:00,1
+December,Pacific Gas & Electric Co,Vandalism Theft,0,0,2023,2023-12-03 04:27:00,,
+December,Pacific Gas and Electric,Vandalism Theft,0,0,2023,2023-12-03 04:27:00,2023-12-07 18:00:00,110
+December,Tucson Electric Power,Vandalism Theft,0,0,2023,2023-12-04 00:00:00,,
+December,Seminole Electric Cooperative Inc,Cyber Event ,0,0,2023,2023-12-04 10:23:00,2023-12-04 13:46:00,3
+December,GenOn Energy – New Castle Power LLC,Vandalism Theft,0,0,2023,2023-12-05 23:11:00,2023-12-06 00:12:00,1
+December,Orsted Americas,Vandalism Suspicious Activity,0,0,2023,2023-12-07 09:52:00,2023-12-07 09:53:00,0
+December,New York State Electric & Gas,Other,0,0,2023,2023-12-07 10:29:00,2023-12-07 13:05:00,3
+December,"WEC Energy Group (WEPCO, WPSC, UMERC, WEP-MIUP)",Suspicious Activity,0,0,2023,2023-12-09 11:08:00,2023-12-09 11:12:00,0
+December,Apex Generating Station,Vandalism Theft Suspicious Activity Other,0,0,2023,2023-12-11 00:00:00,2023-12-11 12:00:00,12
+December,Bonneville Power Administration,Vandalism,0,0,2023,2023-12-11 14:04:00,2023-12-12 14:35:00,25
+December,Austin Energy,Other,0,0,2023,2023-12-12 12:20:00,2023-12-12 12:21:00,0
+December,Oncor Electric Delivery Company LLC,Vandalism,0,0,2023,2023-12-12 09:30:00,2023-12-13 05:02:00,20
+December,Austin Energy,Other,0,0,2023,2023-12-12 12:20:00,,
+December,Western Area Power Administration - Upper Great Plains Region - (NCR01036),,20,1,2023,2023-12-14 10:45:00,2023-12-14 11:06:00,0
+December,"Consolidated Edison of New York, Inc.",Failure at high voltage substation switchyard,0,0,2023,2023-12-14 23:54:00,,
+December,Consumers Energy Co,Physical Attack Vandalism Suspicious Activity,,,2023,2023-12-15 12:46:00,2023-12-15 16:00:00,3
+December,LUMA Energy,Generator loss failure,120,126197,2023,2023-12-15 13:53:00,2023-12-15 14:17:00,0
+December,LUMA Energy,Generator loss failure,,,2023,2023-12-16 02:05:00,2023-12-16 02:29:00,0
+December,LUMA Energy,Generator loss failure,220,230330,2023,2023-12-16 02:05:00,2023-12-16 02:29:00,0
+December,LUMA Energy,Generator loss failure,126,,2023,2023-12-17 10:46:00,2023-12-17 10:57:00,0
+December,LUMA Energy,Generator loss failure,80,127585,2023,2023-12-17 10:46:00,2023-12-17 10:57:00,0
+December,LUMA Energy,Generator loss failure,115,170316,2023,2023-12-18 13:11:00,2023-12-18 13:23:00,0
+December,ISO New England,Weather Natural Disaster,,730000,2023,2023-12-18 05:45:00,,
+December,First Energy Solutions Corp.,Other,0,0,2023,2023-12-18 10:55:00,2023-12-18 11:41:00,1
+December,LUMA Energy,Generator loss failure,77,50204,2023,2023-12-19 00:41:00,2023-12-19 00:47:00,0
+December,NV Energy,,0,0,2023,2023-12-22 13:55:00,2023-12-22 14:45:00,1
+December,LUMA Energy,Generator loss failure,65,37850,2023,2023-12-23 00:43:00,2023-12-23 00:48:00,0
+December,Seminole Electric Cooperative Inc,Vandalism,0,0,2023,2023-12-24 02:07:00,2023-12-24 13:39:00,12
+December,LUMA Energy,Generator loss failure,105,36100,2023,2023-12-25 19:56:00,2023-12-25 20:01:00,0
+December,"Consolidated Edison of New York, Inc.",Other,0,0,2023,2023-12-25 08:35:00,2023-12-25 15:00:00,6
+December,Otter Tail Power Co,Weather Natural Disaster,14,8000,2023,2023-12-27 14:44:00,2023-12-28 04:14:00,14
+December,Pacificorp,Suspicious Activity Transmission equipment failure,0,0,2023,2023-12-27 11:11:00,2023-12-27 11:12:00,0
+December,American Electric Power (Regulated Generation),Suspicious Activity,,,2023,2023-12-30 21:00:00,2023-12-30 22:15:00,1
+December,Lower Colorado River Authority,Suspicious Activity,0,0,2023,2023-12-30 05:00:00,2023-12-30 06:48:00,2
