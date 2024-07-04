@@ -3,6 +3,18 @@
 ## Overview
 This repository contains two Jupyter notebooks focusing on the analysis of US electricity disturbances from 2019 to 2023. The data is sourced from the [US Department of Energy](https://www.oe.netl.doe.gov/OE417_annual_summary.aspx). The first notebook focuses on data cleaning, while the second notebook performs exploratory data analysis (EDA) to uncover insights and patterns in the data.
 
+
+## Data Source
+The dataset used in this analysis is obtained from the [US Department of Energy](https://www.oe.netl.doe.gov/OE417_annual_summary.aspx). The data includes information on electrical disturbances reported across the US from 2019 to 2023, including the causes, locations, and impacts of these disturbances.
+
+## Project Structure
+- `content`: Folder containing the data and plots.
+  - `Data`: Contains the raw data files from the source in excel along with some documentation.
+  - `Plots`: Contains all the plots saved from the analysis.
+  - `electricity_disturbance_data.csv`: Combined data after data cleaning and preparation.
+- `Data_Cleaning_US_Electricity_Disturbances.ipynb`: Jupyter notebook containing the data cleaning process.
+- `EDA_US_Electricity_Disturbances.ipynb`: Jupyter notebook containing the exploratory data analysis.
+
 ## Notebooks
 
 ## 1. Data Cleaning
@@ -33,7 +45,7 @@ This notebook provides a comprehensive analysis of the cleaned dataset to uncove
     - **Variability:** There is a wide range in values for all three variables, suggesting a lot of variability in the impact of electrical disturbances.
 
 - **Correlations**:
-    [![Correlation Heatmap](/content/Plots/correlation_heatmap.png)](/content/Plots/correlation_heatmap.png)
+    ![Correlation Heatmap](content/Plots/correlation_heatmap.png)
   - **Demand Loss (MW) and Number of Customers Affected:**
      - **Correlation Coefficient:** 0.45
      - **Interpretation:** There is a moderate positive correlation between demand loss (MW) and the number of customers affected. This suggests that as the demand loss increases, the number of customers affected tends to increase as well, but the **relationship is not very strong**.
@@ -45,68 +57,45 @@ This notebook provides a comprehensive analysis of the cleaned dataset to uncove
      - **Interpretation:** There is a weak positive correlation between demand loss (MW) and event duration. This suggests that the relationship between the amount of demand loss and the duration of the event is weak, implying that **factors other than the duration of the event are likely more significant** in determining the extent of demand loss.
  
       
-- **Distribution of Disturbances Over the Years**:
-  - **Question**: How have the number of electrical disturbances changed over the years from 2019 to 2023?
-  - **Analysis**: We visualize the number of disturbances reported each year to identify any trends or significant changes over time. This helps understand if disturbances are becoming more frequent, less frequent, or remaining consistent.
-  - **Graph**: ![Distribution of Disturbances Over the Years](path/to/your/graph1.png)
+### Event and Impact Analysis
+  - **Question**: What is the most common type of event?
+    - **Graph** ![Event types](content/Plots/event_frequency.png)
+    - **Most common type of event**: System Operations
+    
+  - **Question**: Which areas are most affected by these events?
+    - **Graph**
+    - ![Region Map](content/Plots/US_map_plot.png)
+    - **Most Affected Region**: California
+      
+  - **Question**: What is the average duration of each event type?
+    - **Graph** ![Averrage duration by Event type](content/Plots/average_duration_barplot.png)
+    - **Observation**: Fuel-type emergencies on average take longer time to restore power.
 
-- **Analysis of Disturbance Causes**:
-  - **Question**: What are the most common causes of electrical disturbances?
-  - **Analysis**: By categorizing and counting the causes of disturbances, we can determine the primary factors contributing to electrical issues. This can inform mitigation strategies and policies to address the most prevalent causes.
-  - **Graph**: ![Analysis of Disturbance Causes](path/to/your/graph2.png)
-
-- **Geographical Distribution of Disturbances**:
-  - **Question**: Which regions in the US are most affected by electrical disturbances?
-  - **Analysis**: Mapping the disturbances geographically allows us to identify hotspots and regions that are more prone to electrical issues. This spatial analysis can guide infrastructure improvements and targeted interventions.
-  - **Graph**: ![Geographical Distribution of Disturbances](path/to/your/graph3.png)
-
-- **Trend Analysis**:
-  - **Question**: Are there any noticeable patterns or trends in the disturbances data over the selected period?
-  - **Analysis**: We examine the data for patterns such as seasonal trends, correlations with external factors (e.g., weather events), and other recurring themes. This deeper analysis helps in understanding underlying causes and potential predictive factors.
-  - **Graph**: ![Trend Analysis](path/to/your/graph4.png)
+### Demand and Customer Impact
+  - **Question**: How many customers are affected by different types of events?
+    - **Graph** ![Number of customers affected by Even types](content/Plots/num_of_customer_affected_barplot.png)
+    - **Observation** A large population of people is affected by Severe weather/weather-type events.
+      
+  - **Question**: Which Events have the greater average of Demand Loss (MW)?
+    - **Graph** ![Average Demand Loss](content/Plots/average_demand_loss_barplot.png)
+    - **Observation**: Fuel-type emergencies have a high average Demand loss (MW).
+      
 
 
+### Temporal Analysis
+  - **Question**: Are there specific months with higher frequencies of events?
+    - **Graph** ![Event counts by Month](content/Plots/event_counts_by_month.png)
+    - **Observation**: The number of events over different months remains almost the same with small variations.
+      
+  - **Question**: Is there a trend in the number of events over the years?
+    - **Graph** ![Event count trend over years](content/Plots/event_counts_by_year_with_trend.png)
+    - **Observation**: The analysis suggests that while there is a relationship between the Number of Events and Time, it is not strong, and most of the variation in the Number of Events is due to factors other than Time.
+  
+  - **Question**: How does the event duration vary over different months?
+    - **Graph** ![Average event duration over Months](content/Plots/average_duration_by_month.png)
+    - **Observation**: The graph shows a peak during October, suggesting that weather plays a significant role in restoration times.
 
-## How to Use
 
-1. **Clone the Repository**:
-    ```bash
-    git clone https://github.com/yourusername/US_Electricity_Disturbances.git
-    cd US_Electricity_Disturbances
-    ```
-
-2. **Install Required Packages**:
-    Ensure you have Python 3.x installed. You can install the required packages using pip:
-    ```bash
-    pip install pandas numpy matplotlib seaborn plotly scipy jupyter
-    ```
-
-3. **Open the Notebooks**:
-    Use Jupyter Notebook or JupyterLab to open and run the notebooks:
-    ```bash
-    jupyter notebook
-    ```
-    Navigate to the cloned repository folder and open the desired notebook.
-
-4. **Run the Notebooks Sequentially**:
-    - Start with `Data_Cleaning_US_Electricity_Disturbances.ipynb` to clean the data.
-    - Proceed to `EDA_US_Electricity_Disturbances.ipynb` for exploratory data analysis.
-
-## Requirements
-- Python 3.x
-- `pandas` for data manipulation
-- `numpy` for numerical operations
-- `matplotlib` and `seaborn` for static data visualization
-- `plotly` for interactive data visualization
-- `scipy` for statistical analysis
-- Jupyter Notebook or JupyterLab for running the notebooks
-
-## Data Source
-The dataset used in this analysis is obtained from the [US Department of Energy](https://www.oe.netl.doe.gov/OE417_annual_summary.aspx). The data includes information on electrical disturbances reported across the US from 2019 to 2023, including the causes, locations, and impacts of these disturbances.
-
-## Project Structure
-- `Data_Cleaning_US_Electricity_Disturbances.ipynb`: Jupyter notebook containing the data cleaning process.
-- `EDA_US_Electricity_Disturbances.ipynb`: Jupyter notebook containing the exploratory data analysis.
 
 ## License
 This project is licensed under the MIT License.
