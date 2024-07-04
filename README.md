@@ -33,7 +33,7 @@ This notebook provides a comprehensive analysis of the cleaned dataset to uncove
     - **Variability:** There is a wide range in values for all three variables, suggesting a lot of variability in the impact of electrical disturbances.
 
 - **Correlations**:
-     <img title="Correlation Heatmap" src="/content/Plots/correlation_heatmap.png">
+    [![Correlation Heatmap](/content/Plots/correlation_heatmap.png)](/content/Plots/correlation_heatmap.png)
   - **Demand Loss (MW) and Number of Customers Affected:**
      - **Correlation Coefficient:** 0.45
      - **Interpretation:** There is a moderate positive correlation between demand loss (MW) and the number of customers affected. This suggests that as the demand loss increases, the number of customers affected tends to increase as well, but the **relationship is not very strong**.
