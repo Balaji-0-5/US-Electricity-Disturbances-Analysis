@@ -1,29 +1,50 @@
 # US Electricity Disturbances Analysis (2019 - 2023)
 
 ## Overview
-This repository contains two Jupyter notebooks focusing on the analysis of US electrical disturbances from 2019 to 2023. The data is sourced from the [US Department of Energy](https://www.oe.netl.doe.gov/OE417_annual_summary.aspx). The first notebook focuses on data cleaning, while the second notebook performs exploratory data analysis (EDA) to uncover insights and patterns in the data.
+This repository contains two Jupyter notebooks focusing on the analysis of US electricity disturbances from 2019 to 2023. The data is sourced from the [US Department of Energy](https://www.oe.netl.doe.gov/OE417_annual_summary.aspx). The first notebook focuses on data cleaning, while the second notebook performs exploratory data analysis (EDA) to uncover insights and patterns in the data.
 
 ## Notebooks
 
-### 1. Data Cleaning
-**Title**: US Electrical Disturbances (2019-2023)
+## 1. Data Cleaning
+**File**: `Data_Cleaning_US_Electricity_Disturbances.ipynb`
 
 This notebook outlines the process of cleaning the dataset to ensure it is ready for analysis. Key steps include:
 
 - **Importing Necessary Libraries**: Libraries such as `pandas`, `numpy`, and others are imported to handle data operations and manipulations.
 - **Loading the Dataset**: The raw dataset is loaded into a pandas DataFrame.
-- **Handling Missing Values**: Strategies are applied to deal with missing data, including imputation and removal of incomplete rows.
 - **Standardizing Data Formats**: Ensuring consistency in data formats, such as dates and categorical variables.
 - **Removing Duplicates**: Duplicate entries are identified and removed to avoid skewed results.
 - **Ensuring Data Consistency**: Additional checks are performed to ensure data integrity and consistency.
+- **Add or remove columns**: Add additional columns or remove existing columns based on the scope of the anlysis.
+- **Save to CSV**: Saved the cleaned data frame to `electricity_disturbance_data.csv`
 
-**File**: `Data_Cleaning_US_Electricity_Disturbances.ipynb`
 
-### 2. Exploratory Data Analysis (EDA)
-**Title**: Exploratory Data Analysis (EDA)
+
+## 2. Exploratory Data Analysis (EDA)
+**File**: `EDA_US_Electricity_Disturbances.ipynb`
 
 This notebook provides a comprehensive analysis of the cleaned dataset to uncover trends, patterns, and insights. Key analyses include:
 
+### **Initial Analysis**
+- **Distribution**: ![Distribution of Numerical columns](/content/Plots/histograms.png)
+  - **General Observations:**
+    - **Skewness:** All three variables show a high degree of positive skewness, indicating that extreme values (high demand loss, many customers affected, and long event duration) are less frequent.
+    - **Central Tendency:** The central tendency (mean or median) for all three variables is likely to be low due to the skewness.
+    - **Variability:** There is a wide range in values for all three variables, suggesting a lot of variability in the impact of electrical disturbances.
+
+- **Correlations**:
+     <img title="Correlation Heatmap" src="/content/Plots/correlation_heatmap.png">
+  - **Demand Loss (MW) and Number of Customers Affected:**
+     - **Correlation Coefficient:** 0.45
+     - **Interpretation:** There is a moderate positive correlation between demand loss (MW) and the number of customers affected. This suggests that as the demand loss increases, the number of customers affected tends to increase as well, but the **relationship is not very strong**.
+   - **Number of Customers Affected and Event Duration (hours):**
+     - **Correlation Coefficient:** 0.34
+     - **Interpretation:** There is a moderate positive correlation between the number of customers affected and the event duration. This indicates that events affecting more customers tend to last longer, although the relationship is moderate and **other factors may also play a significant role**.
+   - **Demand Loss (MW) and Event Duration (hours):**
+     - **Correlation Coefficient:** 0.15
+     - **Interpretation:** There is a weak positive correlation between demand loss (MW) and event duration. This suggests that the relationship between the amount of demand loss and the duration of the event is weak, implying that **factors other than the duration of the event are likely more significant** in determining the extent of demand loss.
+ 
+      
 - **Distribution of Disturbances Over the Years**:
   - **Question**: How have the number of electrical disturbances changed over the years from 2019 to 2023?
   - **Analysis**: We visualize the number of disturbances reported each year to identify any trends or significant changes over time. This helps understand if disturbances are becoming more frequent, less frequent, or remaining consistent.
@@ -44,7 +65,7 @@ This notebook provides a comprehensive analysis of the cleaned dataset to uncove
   - **Analysis**: We examine the data for patterns such as seasonal trends, correlations with external factors (e.g., weather events), and other recurring themes. This deeper analysis helps in understanding underlying causes and potential predictive factors.
   - **Graph**: ![Trend Analysis](path/to/your/graph4.png)
 
-**File**: `EDA_US_Electricity_Disturbances.ipynb`
+
 
 ## How to Use
 
