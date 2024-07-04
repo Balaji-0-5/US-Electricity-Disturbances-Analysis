@@ -1,5 +1,4 @@
-# US-Electricity-Disturbances-Analysis-2019---2023-
-# US Electricity Disturbances Analysis
+# US Electricity Disturbances Analysis (2019 - 2023)
 
 ## Overview
 This repository contains two Jupyter notebooks focusing on the analysis of US electrical disturbances from 2019 to 2023. The data is sourced from the [US Department of Energy](https://www.oe.netl.doe.gov/OE417_annual_summary.aspx). The first notebook focuses on data cleaning, while the second notebook performs exploratory data analysis (EDA) to uncover insights and patterns in the data.
@@ -87,9 +86,6 @@ The dataset used in this analysis is obtained from the [US Department of Energy]
 ## Project Structure
 - `Data_Cleaning_US_Electricity_Disturbances.ipynb`: Jupyter notebook containing the data cleaning process.
 - `EDA_US_Electricity_Disturbances.ipynb`: Jupyter notebook containing the exploratory data analysis.
-
-## Contributing
-If you would like to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 This project is licensed under the MIT License.
